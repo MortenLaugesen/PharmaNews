@@ -1,4 +1,14 @@
 # PharmaNews
+from ayx import Alteryx
+import pandas as pd
+
+df = Alteryx.read("#1")
+
+print(df.columns.tolist())
+
+out_df = df.head(5).copy()
+
+Alteryx.write(out_df, 1)
 <img width="1919" height="1199" alt="image" src="https://github.com/user-attachments/assets/dea7a626-04e3-43e6-96b6-3cc79f7c8f7b" />
 
 <img width="895" height="858" alt="image" src="https://github.com/user-attachments/assets/a5bf9037-59c0-4326-9b90-5f6828e8f3e1" />
