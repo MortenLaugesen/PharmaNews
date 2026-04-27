@@ -1,4 +1,21 @@
 # PharmaNews
+body_best
+IF IsNull([body_raw]) OR IsEmpty([body_raw]) THEN [body_preview] ELSE [body_raw] ENDIF
+
+llm_input
+"Sender: " + [sender_name] + " <" + [sender_email] + ">" +
+"\nSubject: " + [subject_raw] +
+"\nReceived: " + [received_ts] +
+"\nBody:\n" + [body_best]
+
+parser_version
+"v1_fierce_endpoints"
+
+
+
+
+
+
 <img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/038b8cfc-e3c5-405e-9d5c-ab477aea6ebd" />
 
 
