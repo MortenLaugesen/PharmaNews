@@ -1,4 +1,5 @@
 # PharmaNews
+<img width="1919" height="946" alt="image" src="https://github.com/user-attachments/assets/038b8cfc-e3c5-405e-9d5c-ab477aea6ebd" />
 
 
 hey
