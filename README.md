@@ -1,4 +1,6 @@
 # PharmaNews
+<img width="1918" height="930" alt="image" src="https://github.com/user-attachments/assets/916093b2-088e-43f3-9cd2-9ff38f319474" />
+
 body_best
 IF IsNull([body_raw]) OR IsEmpty([body_raw]) THEN [body_preview] ELSE [body_raw] ENDIF
 
