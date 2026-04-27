@@ -11,6 +11,60 @@ llm_input
 parser_version
 "v1_fierce_endpoints"
 
+email_source_type
+IF Contains(LowerCase([sender_email]), "fierce") OR Contains(LowerCase([sender_name]), "fierce") THEN "FIERCE"
+ELSEIF Contains(LowerCase([sender_email]), "endpoints") OR Contains(LowerCase([sender_name]), "endpoints") THEN "ENDPOINTS"
+ELSE "OTHER"
+ENDIF
+
+article_url_from_title
+IF REGEX_CountMatches([body_raw], 'title="https?://[^"]+"') > 0 THEN
+    Replace(
+        REGEX_Replace(
+            [body_raw],
+            '(?is).*?title="(https?://[^"]+)".*',
+            '$1'
+        ),
+        '&amp;',
+        '&'
+    )
+ELSE
+    ""
+ENDIF
+
+
+article_url_from_href
+IF REGEX_CountMatches([body_raw], 'href="https?://[^"]+"') > 0 THEN
+    Replace(
+        REGEX_Replace(
+            [body_raw],
+            '(?is).*?href="(https?://[^"]+)".*',
+            '$1'
+        ),
+        '&amp;',
+        '&'
+    )
+ELSE
+    ""
+ENDIF
+
+article_url
+IF [email_source_type] = "FIERCE" AND NOT IsEmpty([article_url_from_title]) THEN [article_url_from_title]
+ELSEIF [email_source_type] = "ENDPOINTS" AND NOT IsEmpty([article_url_from_href]) THEN [article_url_from_href]
+ELSEIF NOT IsEmpty([article_url_from_title]) THEN [article_url_from_title]
+ELSE [article_url_from_href]
+ENDIF
+
+article_url_extraction_method
+IF [email_source_type] = "FIERCE" AND NOT IsEmpty([article_url_from_title]) THEN "title"
+ELSEIF [email_source_type] = "ENDPOINTS" AND NOT IsEmpty([article_url_from_href]) THEN "href"
+ELSEIF NOT IsEmpty([article_url_from_title]) THEN "title_fallback"
+ELSEIF NOT IsEmpty([article_url_from_href]) THEN "href_fallback"
+ELSE "none"
+ENDIF
+
+
+
 
 
 
