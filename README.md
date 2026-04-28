@@ -1,46 +1,74 @@
-----------------------
-TypeError                                 Traceback (most recent call last)
-Cell In[5], line 49
-     38         records.append({
-     39             "message_id": message_id,
-     40             "email_source_type": source,
-   (...)
-     44             "article_url_extraction_method": extraction_method
-     45         })
-     47 out_df = pd.DataFrame(records)
----> 49 Alteryx.write(out_df, 1)
+from ayx import Alteryx
+import pandas as pd
+from bs4 import BeautifulSoup
 
-File c:\program files\alteryx\bin\miniconda3\envs\designerbasetools_venv\lib\site-packages\ayx\export.py:87, in write(pandas_df, outgoing_connection_number, columns, debug, **kwargs)
-     83 def write(pandas_df, outgoing_connection_number, columns=None, debug=False, **kwargs):
-     84     """
-     85     When running the workflow in Alteryx, this function will convert a pandas data frame to an Alteryx data stream and pass it out through one of the tool's five output anchors. When called from the Jupyter notebook interactively, it will display a preview of the pandas dataframe. An optional 'columns' argument allows column metadata to specify the field type, length, and name of columns in the output data stream.
-     86     """
----> 87     return __CachedData__(debug=debug).write(
-     88         pandas_df, outgoing_connection_number, columns=columns, **kwargs
-     89     )
+df = Alteryx.read("#1")
 
-File c:\program files\alteryx\bin\miniconda3\envs\designerbasetools_venv\lib\site-packages\ayx\CachedData.py:641, in CachedData.write(self, pandas_df, outgoing_connection_number, columns, output_filepath)
-    636 msg_action = "writing outgoing connection data {}".format(
-    637     outgoing_connection_number
-    638 )
-    639 try:
-    640     # get the data from the sql db (if only one table exists, no need to specify the table name)
---> 641     data = db.writeData(pandas_df_out, metadata=write_metadata)
-    642     # print success message
-    643     if outgoing_connection_number is not None:
+records = []
 
-File c:\program files\alteryx\bin\miniconda3\envs\designerbasetools_venv\lib\site-packages\ayx\Datafiles.py:733, in Datafile.writeData(self, pandas_df, metadata)
-    722     error_msg = msg_prefix.format(
-    723         " ".join(
-    724             [
-   (...)
-    730         )
-    731     )
-    732     print(error_msg)
---> 733     raise TypeError(error_msg)
-    734 elif len(metadata) != len(pandas_df.columns):
-    735     error_msg = msg_prefix.format(
-    736         "metadata must have same number of columns as pandas_df"
-    737     )
+for _, row in df.iterrows():
+    html = str(row["body_raw"]) if pd.notna(row["body_raw"]) else ""
+    source = str(row["email_source_type"]) if pd.notna(row["email_source_type"]) else "OTHER"
+    message_id = str(row["message_id"]) if pd.notna(row["message_id"]) else ""
 
-TypeError: [Datafile.writeData]: metadata arg is required for yxdb and expected to be dict like {'Field1': {'type': 'FixedDecimal', 'length': (8, 3), 'source': 'PythonTool:', 'description': 'my description'}, 'Field2': {...}}
+    soup = BeautifulSoup(html, "html.parser")
+
+    rank = 0
+
+    for a in soup.find_all("a", href=True):
+        href = a.get("href", "").strip()
+        title_attr = a.get("title", "").strip()
+        link_text = a.get_text(" ", strip=True)
+
+        if source == "FIERCE":
+            article_url = title_attr if title_attr.startswith("http") else href
+            extraction_method = "title" if title_attr.startswith("http") else "href_fallback"
+        elif source == "ENDPOINTS":
+            article_url = href
+            extraction_method = "href"
+        else:
+            article_url = href
+            extraction_method = "href_fallback"
+
+        if not article_url.startswith("http"):
+            continue
+
+        rank += 1
+
+        records.append({
+            "message_id": str(message_id),
+            "email_source_type": str(source),
+            "article_rank": str(rank),
+            "article_title": str(link_text),
+            "article_url": str(article_url),
+            "article_url_extraction_method": str(extraction_method)
+        })
+
+out_df = pd.DataFrame(records)
+
+# Ensure columns always exist even if no rows are found
+expected_cols = [
+    "message_id",
+    "email_source_type",
+    "article_rank",
+    "article_title",
+    "article_url",
+    "article_url_extraction_method"
+]
+
+if out_df.empty:
+    out_df = pd.DataFrame(columns=expected_cols)
+else:
+    out_df = out_df[expected_cols]
+
+# Explicit Alteryx metadata
+columns = {
+    "message_id": {"type": "V_WString", "length": 255},
+    "email_source_type": {"type": "V_WString", "length": 50},
+    "article_rank": {"type": "V_WString", "length": 10},
+    "article_title": {"type": "V_WString", "length": 2000},
+    "article_url": {"type": "V_WString", "length": 4000},
+    "article_url_extraction_method": {"type": "V_WString", "length": 50}
+}
+
+Alteryx.write(out_df, 1, columns=columns)
