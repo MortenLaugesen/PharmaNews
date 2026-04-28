@@ -1,4 +1,25 @@
 # PharmaNews
+Run `Alteryx.help()` for info about useful functions.  
+i.e., `Alteryx.read("#1")`, `Alteryx.write(df,1)`, `Alteryx.getWorkflowConstant("Engine.WorkflowDirectory")`
+
+# List all non-standard packages to be imported by your 
+# script here (only missing packages will be installed)
+from ayx import Package
+#Package.installPackages(['pandas','numpy'])
+
+from ayx import Alteryx 
+import pandas as pd
+
+df = Alteryx.read("#1")
+
+print(df.columns.tolist())
+
+out_df = df.head(5).copy()
+
+Alteryx.write(out_df, 1)
+
+
+
 from ayx import Alteryx
 import pandas as pd
 
