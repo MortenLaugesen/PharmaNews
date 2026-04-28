@@ -1,4 +1,8 @@
 # PharmaNews
+Requirement already satisfied: beautifulsoup4 in c:\program files\alteryx\bin\miniconda3\envs\designerbasetools_venv\lib\site-packages (4.12.3)
+Requirement already satisfied: soupsieve>1.2 in c:\program files\alteryx\bin\miniconda3\envs\designerbasetools_venv\lib\site-packages (from beautifulsoup4) (2.5)
+
+
 from ayx import Alteryx 
 import pandas as pd
 
