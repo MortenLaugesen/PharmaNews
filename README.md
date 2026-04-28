@@ -1,5 +1,3 @@
-Pharma News
-
 from ayx import Alteryx
 import pandas as pd
 from bs4 import BeautifulSoup
