@@ -6,12 +6,11 @@ df = Alteryx.read("#1")
 
 records = []
 
+# Very light filtering only
 bad_terms = [
-    "unsubscribe", "privacy", "preferences", "advertise", "contact support",
-    "facebook", "linkedin", "twitter", "youtube", "webinar", "event",
-    "register", "subscribe", "read in browser", "enterprise subscription",
-    "brand logo", "linkedin logo", "facebook logo", "twitter logo", "youtube logo",
-    "questex signature"
+    "unsubscribe", "privacy policy", "contact support",
+    "linkedin logo", "facebook logo", "twitter logo", "youtube logo",
+    "brand logo", "questex signature"
 ]
 
 pattern = re.compile(r'([^<\n\r]{8,}?)<((?:https?|mailto):[^>]+)>', re.IGNORECASE)
@@ -38,14 +37,13 @@ for _, row in df.iterrows():
         title_lower = article_title.lower()
         url_lower = article_url.lower()
 
-        # Basic filters
-        if len(article_title) < 15:
+        if len(article_title) < 12:
             continue
 
         if any(term in title_lower for term in bad_terms):
             continue
 
-        if any(term in url_lower for term in ["unsubscribe", "privacy", "facebook", "linkedin", "twitter", "youtube", "mailto:"]):
+        if "mailto:" in url_lower:
             continue
 
         dedupe_key = (message_id, article_title, article_url)
