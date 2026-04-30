@@ -1,1 +1,1 @@
-DateTimeParse([received_ts],"%Y-%m-%dT%H:%M:%SZ")
+[received_ts_dt] >= DateTimeAdd(DateTimeNow(), -7, "days")
