@@ -1,437 +1,429 @@
--- ============================================================
--- PHARMA NEWS MONITORING MVP - SIMPLIFIED PRODUCTION SCRIPT
--- ============================================================
+Competitor Overview Dashboard – FUJIFILM Diosynth Biotechnologies
 
--- Recommended daily architecture:
--- Alteryx -> Snowflake staging -> triage/classification -> action queue -> email digest
+Formålet med dashboardet er at skabe et simpelt og overskueligt competitor overview, der kan bruges til at sammenligne FUJIFILM med relevante CDMO-konkurrenter. Dashboardet skal give et hurtigt overblik over, hvem de vigtigste konkurrenter er, hvilke capabilities de har, hvor deres sites er placeret, hvor stærke de er på kapacitet, og hvilke strategiske moves de foretager sig.
 
+Dashboardet skal ikke kun fungere som en liste over konkurrenter, men som et beslutningsværktøj, der kan hjælpe med at svare på følgende spørgsmål:
 
--- ============================================================
--- 01 - Clean Article View
--- ============================================================
+1. Hvem er FUJIFILMs vigtigste konkurrenter?
+2. Hvor stærke er konkurrenterne sammenlignet med FUJIFILM?
+3. Hvilke capabilities tilbyder konkurrenterne?
+4. Hvor er deres produktionssites placeret?
+5. Hvem ekspanderer eller bevæger sig strategisk?
+6. Hvor står FUJIFILM stærkt eller svagt i forhold til markedet?
 
-CREATE OR REPLACE VIEW BI.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN AS
-SELECT
-    "message_id" AS MESSAGE_ID,
-    "sender_name" AS SENDER_NAME,
-    "sender_email" AS SENDER_EMAIL,
-    "subject_raw" AS SUBJECT_RAW,
-    "received_ts" AS RECEIVED_TS,
-    TRY_TO_TIMESTAMP_TZ("received_ts") AS RECEIVED_TS_PARSED,
-    "email_source_type" AS EMAIL_SOURCE_TYPE,
-    "article_rank" AS ARTICLE_RANK,
+Dashboardet kan struktureres i fem hovedsider:
 
-    TRIM(
-        REGEXP_REPLACE(
-            REGEXP_REPLACE(
-                REGEXP_REPLACE("article_title", '^[0-9]+\\.?\\s*', ''),
-                '^,\\s*',
-                ''
-            ),
-            '\\s+',
-            ' '
-        )
-    ) AS ARTICLE_TITLE_CLEAN,
+1. Executive Overview
+2. Capability Deep Dive
+3. Site & Capacity Overview
+4. News & Strategic Signals
+5. Competitor Profile
 
-    LOWER(
-        TRIM(
-            REGEXP_REPLACE(
-                REGEXP_REPLACE(
-                    REGEXP_REPLACE("article_title", '^[0-9]+\\.?\\s*', ''),
-                    '^,\\s*',
-                    ''
-                ),
-                '\\s+',
-                ' '
-            )
-        )
-    ) AS ARTICLE_TITLE_LC,
+1. Executive Overview
 
-    "article_url" AS ARTICLE_URL,
-    "article_url_extraction_method" AS ARTICLE_URL_EXTRACTION_METHOD,
-    "body_best" AS BODY_BEST,
-    "article_llm_input" AS ARTICLE_LLM_INPUT,
-    "parser_version" AS PARSER_VERSION
-FROM BI.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
+Den første side skal give et hurtigt overblik over konkurrentlandskabet. Denne side skal kunne forstås på få sekunder og fungere som dashboardets forside.
 
+Siden bør indeholde følgende elementer:
 
--- ============================================================
--- 02 - Final Gate
--- Removes obvious noise and separates PASS vs REVIEW
--- ============================================================
+- KPI boxes
+- Competitor ranking
+- Capability heatmap
+- Global site map
 
-CREATE OR REPLACE TABLE BI.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL AS
-SELECT
-    *,
-    CASE
-        WHEN ARTICLE_TITLE_LC RLIKE
-            '^(a message from|brought to you by|by |staff writer|staff writers|senior editor|senior editors|associate editor|executive editor|deputy editor|editor-in-chief|publisher|contributing writer)'
-            THEN 'DROP'
+KPI boxes kan eksempelvis vise:
 
-        WHEN ARTICLE_TITLE_LC RLIKE
-            '(unsubscribe|privacy policy|contact support|linkedin logo|facebook logo|twitter logo|youtube logo|brand logo|questex signature)'
-            THEN 'DROP'
+- Number of competitors
+- Total number of sites
+- Top competitor by threat score
+- Largest capacity competitor
+- Most active competitor
+- FUJIFILM position
 
-        WHEN ARTICLE_TITLE_LC RLIKE
-            '(webinar|podcast|event|whitepaper|download the white paper|register now|register today|save your spot|conference|exhibition|innovation week|pharma ci|fierce biotech week|outsourcing awards)'
-            THEN 'DROP'
+Formålet med KPI-boksene er at give et hurtigt executive summary. Brugeren skal hurtigt kunne se, hvor mange konkurrenter der analyseres, hvem der vurderes som den største trussel, og hvor FUJIFILM står i forhold til de andre.
 
-        WHEN ARTICLE_TITLE_LC LIKE '[%' THEN 'DROP'
-        WHEN ARTICLE_TITLE_LC LIKE 'http%' THEN 'DROP'
-        WHEN ARTICLE_TITLE_LC LIKE 'click here%' THEN 'DROP'
-        WHEN LENGTH(ARTICLE_TITLE_CLEAN) < 20 THEN 'DROP'
+Competitor ranking kan laves som et bar chart, hvor konkurrenterne rangeres efter en samlet “Threat Score”. Denne score kan baseres på faktorer som capacity, capabilities, geographic footprint, recent expansions og commercial maturity.
 
-        WHEN ARTICLE_TITLE_LC RLIKE
-            '(acquisition|buyout|deal|fda|approval|manufacturing|facility|expansion|phase 3|partnership|ipo|fundraising|investment)'
-            THEN 'PASS'
+Eksempel på ranking:
 
-        ELSE 'REVIEW'
-    END AS SUBJECT_GATE_FINAL
-FROM BI.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN;
+- Samsung Biologics
+- Lonza
+- WuXi Biologics
+- Boehringer Ingelheim BioXcellence
+- Thermo Fisher / Patheon
+- AGC Biologics
+- KBI Biopharma
+- Rentschler Biopharma
+- FUJIFILM as benchmark
 
+Threat Score kan eksempelvis beregnes ud fra:
 
--- ============================================================
--- 03 - Relevance
--- AI evaluates whether each non-drop article is relevant
--- ============================================================
+- Capacity Score
+- Capability Score
+- Geographic Footprint Score
+- Expansion Activity Score
+- Commercial Maturity Score
 
-CREATE OR REPLACE TABLE BI.NEWS.PHARMA_NEWS_RELEVANCE AS
-SELECT
-    *,
-    AI_FILTER(
-        PROMPT(
-            'Return TRUE if this pharma news item is relevant for a Business Intelligence & Insights team at a biologics/CDMO company. Relevant examples include competitor investments, manufacturing, site expansions, partnerships, acquisitions, customer/commercial signals, financing, IPOs, regulatory milestones, clinical milestones with business impact, supply chain changes, platform/capability updates, and strategic market signals. Not relevant examples include webinars, podcasts, events, whitepapers, sponsor messages, logos, footer links, unsubscribe links, admin content, editorial staff listings, and generic promotions. Subject: {0}. Title: {1}. URL: {2}. Body: {3}',
-            SUBJECT_RAW,
-            ARTICLE_TITLE_CLEAN,
-            ARTICLE_URL,
-            BODY_BEST
-        )
-    ) AS IS_RELEVANT
-FROM BI.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL
-WHERE SUBJECT_GATE_FINAL IN ('PASS', 'REVIEW');
+Et simpelt eksempel på beregning:
 
+Threat Score =
+0.25 * Capacity Score
++ 0.25 * Capability Score
++ 0.20 * Geographic Footprint Score
++ 0.15 * Expansion Activity Score
++ 0.15 * Commercial Maturity Score
 
--- ============================================================
--- 04 - Classification
--- AI classifies relevant articles into business categories
--- ============================================================
+2. Capability Deep Dive
 
-CREATE OR REPLACE TABLE BI.NEWS.PHARMA_NEWS_CLASSIFIED AS
-SELECT
-    *,
-    AI_CLASSIFY(
-        CONCAT(
-            'Subject: ', COALESCE(SUBJECT_RAW, ''), '. ',
-            'Title: ', COALESCE(ARTICLE_TITLE_CLEAN, ''), '. ',
-            'URL: ', COALESCE(ARTICLE_URL, ''), '. ',
-            'Body: ', COALESCE(LEFT(BODY_BEST, 3000), '')
-        ),
-        [
-            {'label': 'competitor_investment_capacity', 'description': 'facility build, site expansion, capex, added manufacturing capacity, major investment'},
-            {'label': 'partnership_ma', 'description': 'acquisition, merger, strategic partnership, licensing, collaboration, supply agreement'},
-            {'label': 'capability_modality', 'description': 'new manufacturing capability, modality, platform, fill-finish, analytical, microbial, mammalian, cell therapy, gene therapy'},
-            {'label': 'clinical_regulatory_signal', 'description': 'phase advancement, approval, filing, warning letter, inspection, regulatory or clinical milestone with strategic impact'},
-            {'label': 'policy_market_signal', 'description': 'trade, tariffs, policy, FDA framework, reshoring, macro signal affecting pharma manufacturing or the market'},
-            {'label': 'commercial_customer_signal', 'description': 'customer win, launch, commercial supply, demand signal, backlog, manufacturing award'},
-            {'label': 'financing_market_signal', 'description': 'IPO, fundraising, financing, public offering, major market signal'}
-        ],
-        {
-            'task_description': 'Classify relevant pharma-news items for a business intelligence team',
-            'output_mode': 'multi'
-        }
-    ) AS CATEGORY_RESULT
-FROM BI.NEWS.PHARMA_NEWS_RELEVANCE
-WHERE IS_RELEVANT = TRUE;
+Denne side skal vise, hvilke capabilities de forskellige konkurrenter tilbyder. Dette er en af de vigtigste dele af dashboardet, fordi det gør det muligt at sammenligne FUJIFILM direkte med konkurrenterne.
 
+Den bedste visualisering vil være en capability matrix eller heatmap.
 
--- ============================================================
--- 05 - Priority Bucket
--- Deterministic priority is more stable than AI scoring
--- ============================================================
+Rows:
+- Competitors
 
-CREATE OR REPLACE VIEW BI.NEWS.V_PHARMA_NEWS_PRIORITY_BUCKET AS
-SELECT
-    MESSAGE_ID,
-    SENDER_NAME,
-    SENDER_EMAIL,
-    SUBJECT_RAW,
-    RECEIVED_TS,
-    RECEIVED_TS_PARSED,
-    EMAIL_SOURCE_TYPE,
-    ARTICLE_RANK,
-    ARTICLE_TITLE_CLEAN AS ARTICLE_TITLE,
-    ARTICLE_URL,
-    ARTICLE_URL_EXTRACTION_METHOD,
-    CATEGORY_RESULT,
-    BODY_BEST,
-    PARSER_VERSION,
+Columns:
+- Capabilities
 
-    CASE
-        WHEN SUBJECT_GATE_FINAL = 'PASS'
-         AND (
-              ARTICLE_TITLE_LC RLIKE
-              '(acquisition|buyout|approval|phase 3|fda|investment|facility|manufacturing|expansion|ipo|fundraising|partnership|deal)'
-              OR TO_JSON(CATEGORY_RESULT) ILIKE '%partnership_ma%'
-              OR TO_JSON(CATEGORY_RESULT) ILIKE '%competitor_investment_capacity%'
-              OR TO_JSON(CATEGORY_RESULT) ILIKE '%clinical_regulatory_signal%'
-              OR TO_JSON(CATEGORY_RESULT) ILIKE '%financing_market_signal%'
-         )
-        THEN 'HIGH'
+Eksempler på capabilities:
 
-        WHEN SUBJECT_GATE_FINAL = 'PASS'
-        THEN 'MEDIUM'
+- Mammalian cell culture
+- Microbial fermentation
+- Drug substance manufacturing
+- Drug product manufacturing
+- Fill-finish
+- Analytical development
+- Process development
+- Cell line development
+- Commercial GMP manufacturing
+- Clinical GMP manufacturing
+- ADC capabilities
+- Cell therapy
+- Gene therapy
+- Viral vectors
+- mRNA
+- Regulatory support
 
-        WHEN SUBJECT_GATE_FINAL = 'REVIEW'
-        THEN 'MONITOR'
+Hver capability kan scores simpelt fra 0 til 3:
 
-        ELSE 'DROP'
-    END AS PRIORITY_BUCKET
-FROM BI.NEWS.PHARMA_NEWS_CLASSIFIED;
+0 = Not present / not found
+1 = Low / limited capability
+2 = Medium capability
+3 = High / strong capability
 
+Eksempel på matrix:
 
--- ============================================================
--- 06 - AI Explanation For HIGH Priority Only
--- Adds why_it_matters and recommended_action
--- ============================================================
+Competitor | Mammalian | Microbial | Drug Product | ADC | Cell Therapy | Commercial GMP
+FUJIFILM | High | High | Medium | Medium | Medium | High
+Lonza | High | Medium | High | High | High | High
+Samsung Biologics | Very High | Low | Medium | Medium | Low | High
+WuXi Biologics | High | Medium | High | Medium | Medium | High
+AGC Biologics | Medium | High | Medium | Medium | High | Medium
 
-CREATE OR REPLACE TABLE BI.NEWS.PHARMA_NEWS_HIGH_PRIORITY_EXPLAINED AS
-SELECT
-    *,
-    AI_COMPLETE(
-        model => 'llama3.3-70b',
-        prompt => CONCAT(
-            'You are helping a Business Intelligence & Insights team at a biologics/CDMO company. ',
-            'Explain briefly why this news matters and suggest a recommended action. ',
-            'Return structured output only. ',
-            'Title: ', COALESCE(ARTICLE_TITLE, ''), '. ',
-            'URL: ', COALESCE(ARTICLE_URL, ''), '. ',
-            'Categories: ', COALESCE(TO_JSON(CATEGORY_RESULT), ''), '. ',
-            'Body: ', COALESCE(LEFT(BODY_BEST, 1500), '')
-        ),
-        response_format => TYPE OBJECT(
-            why_it_matters STRING,
-            recommended_action STRING
-        )
-    ) AS AI_EXPLANATION
-FROM BI.NEWS.V_PHARMA_NEWS_PRIORITY_BUCKET
-WHERE PRIORITY_BUCKET = 'HIGH';
+Denne side skal gøre det let at se, hvor FUJIFILM er stærk, og hvor konkurrenterne eventuelt har en fordel.
 
+3. Site & Capacity Overview
 
--- ============================================================
--- 07 - Final Clean Action Queue
--- This is the operational output view
--- ============================================================
+Denne side skal vise konkurrenternes globale footprint og kapacitet.
 
-CREATE OR REPLACE VIEW BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN AS
-SELECT
-    RECEIVED_TS_PARSED,
-    EMAIL_SOURCE_TYPE,
-    ARTICLE_TITLE,
-    ARTICLE_URL,
-    PRIORITY_BUCKET,
-    WHY_IT_MATTERS,
-    RECOMMENDED_ACTION
-FROM (
-    SELECT
-        RECEIVED_TS_PARSED,
-        EMAIL_SOURCE_TYPE,
-        ARTICLE_TITLE,
-        ARTICLE_URL,
-        PRIORITY_BUCKET,
-        AI_EXPLANATION:why_it_matters::STRING AS WHY_IT_MATTERS,
-        AI_EXPLANATION:recommended_action::STRING AS RECOMMENDED_ACTION,
+Siden bør indeholde:
 
-        ROW_NUMBER() OVER (
-            PARTITION BY
-                LOWER(
-                    REGEXP_REPLACE(
-                        REGEXP_REPLACE(ARTICLE_TITLE, '[^a-zA-Z0-9 ]', ''),
-                        '\\s+',
-                        ' '
-                    )
-                )
-            ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
-        ) AS RN
-    FROM BI.NEWS.PHARMA_NEWS_HIGH_PRIORITY_EXPLAINED
-    WHERE LENGTH(ARTICLE_TITLE) >= 20
-      AND LOWER(ARTICLE_TITLE) NOT LIKE '%read in browser%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'click here%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'brought to you by %'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'staff writer:%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'senior editor:%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'executive editor:%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'publisher:%'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'the unit for %'
-      AND LOWER(ARTICLE_TITLE) NOT LIKE 'plus %'
-      AND NOT REGEXP_LIKE(ARTICLE_TITLE, '^[a-z]')
-)
-WHERE RN = 1;
+- Global map
+- Capacity bar chart
+- Site table
 
+Map visualiseringen skal vise, hvor konkurrenternes sites er placeret. Hvert site kan vises som en prik på kortet.
 
--- ============================================================
--- 08 - Email Notification Integration
--- Run once. Requires ACCOUNTADMIN or sufficient privileges.
--- Currently sends to DTU email because this recipient is verified.
--- ============================================================
+Information i tooltip kan være:
 
-CREATE OR REPLACE NOTIFICATION INTEGRATION PHARMA_NEWS_EMAIL_INT
-    TYPE = EMAIL
-    ENABLED = TRUE
-    ALLOWED_RECIPIENTS = ('s235701@dtu.dk');
+- Company
+- Site name
+- Country
+- Region
+- Modality
+- Known capacity
+- Commercial or clinical site
+- GMP status
+- Source
+- Confidence level
 
+Capacity kan vises som enten præcise liter-tal eller som simple kategorier, hvis data er usikker.
 
--- ============================================================
--- 09 - Stored Procedure: Daily Pharma News Digest
--- Sends top 10 high-priority items from the last 24 hours
--- For demo/testing, change -1 to -7
--- ============================================================
+Eksempel på capacity categories:
 
-CREATE OR REPLACE PROCEDURE BI.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST()
-RETURNS STRING
-LANGUAGE SQL
-EXECUTE AS CALLER
-AS
-$$
-DECLARE
-    V_TOTAL_COUNT NUMBER;
-    V_SENT_COUNT NUMBER;
-    V_BODY STRING;
-BEGIN
-    SELECT COUNT(*)
-    INTO :V_TOTAL_COUNT
-    FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
-    WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1, CURRENT_TIMESTAMP());
+- Low
+- Medium
+- High
+- Very High
 
-    IF (V_TOTAL_COUNT = 0) THEN
-        RETURN 'No pharma news items to send.';
-    END IF;
+Dette er ofte mere realistisk i en første version, fordi offentlig capacity-data kan være usikker eller svær at sammenligne direkte.
 
-    WITH TOP_ITEMS AS (
-        SELECT
-            RECEIVED_TS_PARSED,
-            EMAIL_SOURCE_TYPE,
-            ARTICLE_TITLE,
-            ARTICLE_URL,
-            PRIORITY_BUCKET,
-            WHY_IT_MATTERS,
-            RECOMMENDED_ACTION
-        FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
-        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1, CURRENT_TIMESTAMP())
-        ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
-        LIMIT 10
-    )
-    SELECT COUNT(*)
-    INTO :V_SENT_COUNT
-    FROM TOP_ITEMS;
+Eksempel på capacity overview:
 
-    WITH TOP_ITEMS AS (
-        SELECT
-            RECEIVED_TS_PARSED,
-            EMAIL_SOURCE_TYPE,
-            ARTICLE_TITLE,
-            ARTICLE_URL,
-            PRIORITY_BUCKET,
-            WHY_IT_MATTERS,
-            RECOMMENDED_ACTION
-        FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
-        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1, CURRENT_TIMESTAMP())
-        ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
-        LIMIT 10
-    )
-    SELECT
-        'Daily Pharma News Digest' || CHR(10) ||
-        'Generated from Snowflake action queue' || CHR(10) ||
-        'High-priority items found in last 24 hours: ' || :V_TOTAL_COUNT || CHR(10) ||
-        'Showing top items: ' || :V_SENT_COUNT || CHR(10) ||
-        CHR(10) ||
-        LISTAGG(
-            ARTICLE_TITLE || CHR(10) ||
-            'Source: ' || COALESCE(EMAIL_SOURCE_TYPE, '') || CHR(10) ||
-            'Priority: ' || COALESCE(PRIORITY_BUCKET, '') || CHR(10) ||
-            'Why it matters: ' || COALESCE(WHY_IT_MATTERS, '') || CHR(10) ||
-            'Recommended action: ' || COALESCE(RECOMMENDED_ACTION, '') || CHR(10) ||
-            'URL: ' || COALESCE(ARTICLE_URL, '') || CHR(10) ||
-            CHR(10) || '------------------------' || CHR(10),
-            ''
-        ) WITHIN GROUP (ORDER BY RECEIVED_TS_PARSED DESC)
-    INTO :V_BODY
-    FROM TOP_ITEMS;
+Competitor | Known biologics capacity
+Samsung Biologics | Very High
+Lonza | High
+Boehringer Ingelheim BioXcellence | High
+FUJIFILM | High
+WuXi Biologics | High
+AGC Biologics | Medium
+KBI Biopharma | Medium
+Rentschler Biopharma | Medium
 
-    CALL SYSTEM$SEND_EMAIL(
-        'PHARMA_NEWS_EMAIL_INT',
-        's235701@dtu.dk',
-        'Daily Pharma News Digest',
-        :V_BODY
-    );
+Formålet med denne side er at vise, hvem der har fysisk produktionskapacitet, hvor kapaciteten er placeret, og hvordan FUJIFILM står geografisk i forhold til konkurrenterne.
 
-    RETURN 'Daily pharma news digest sent. Total found: ' || V_TOTAL_COUNT || ', sent: ' || V_SENT_COUNT;
-END;
-$$;
+4. News & Strategic Signals
 
+Denne side skal gøre dashboardet dynamisk og fremadskuende. I stedet for kun at vise statisk information skal dashboardet også vise, hvilke konkurrenter der bevæger sig strategisk.
 
--- ============================================================
--- 10 - Daily Email Task
--- Runs every weekday at 08:15 Europe/Copenhagen
--- Only activate when ready
--- ============================================================
+Eksempler på signaltyper:
 
-CREATE OR REPLACE TASK BI.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST
-    WAREHOUSE = COMPUTE_WH
-    SCHEDULE = 'USING CRON 15 8 * * MON-FRI Europe/Copenhagen'
-AS
-    CALL BI.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST();
+- Expansion
+- Acquisition
+- Partnership
+- New technology
+- New facility
+- Regulatory issue
+- New customer/project
+- Portfolio change
+- Investment
+- Commercial milestone
 
+Tabellen kan indeholde følgende felter:
 
--- ============================================================
--- OPTIONAL MANUAL TESTS
--- Run these manually when needed
--- ============================================================
+- Date
+- Competitor
+- Signal type
+- Headline
+- Short description
+- Region
+- Modality
+- Strategic impact
+- Source
 
--- Test the email integration:
--- CALL SYSTEM$SEND_EMAIL(
---     'PHARMA_NEWS_EMAIL_INT',
---     's235701@dtu.dk',
---     'Test: Pharma News Snowflake Email',
---     'This is a test email from Snowflake for the Pharma News Monitoring MVP.'
--- );
+Strategic impact kan scores simpelt:
 
--- Test the digest procedure manually:
--- CALL BI.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST();
+Low = Limited relevance
+Medium = Relevant competitor movement
+High = Important strategic move
 
--- Activate the daily task:
--- ALTER TASK BI.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST RESUME;
+Eksempel:
 
--- Pause the daily task:
--- ALTER TASK BI.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST SUSPEND;
+Date | Competitor | Signal Type | Description | Impact
+2026 | FUJIFILM | Expansion | Expansion of Hillerød site | High
+2025 | Samsung Biologics | Expansion | Increased manufacturing footprint | High
+2025 | Lonza | Portfolio move | Focus on pure-play CDMO strategy | Medium/High
+2024 | Catalent | Acquisition | Acquired by Novo Holdings | High
 
--- Execute the task once manually:
--- EXECUTE TASK BI.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST;
+Denne side skal hjælpe med at identificere konkurrenter, der ekspanderer, investerer eller på anden måde ændrer deres strategiske position.
 
+5. Competitor Profile
 
--- ============================================================
--- OPTIONAL DEBUG CHECKS
--- ============================================================
+Denne side skal fungere som en one-pager for hver konkurrent. Brugeren skal kunne vælge én konkurrent og få et hurtigt overblik over virksomhedens position.
 
--- Check final action queue:
--- SELECT *
--- FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
--- ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
--- LIMIT 100;
+Siden kan bygges med en parameter eller filter i Tableau, hvor man vælger competitor.
 
--- Check priority bucket distribution:
--- SELECT
---     PRIORITY_BUCKET,
---     COUNT(*) AS CNT
--- FROM BI.NEWS.V_PHARMA_NEWS_PRIORITY_BUCKET
--- GROUP BY PRIORITY_BUCKET
--- ORDER BY CNT DESC;
+Profilen bør indeholde:
 
--- Check how many items would be sent in last 24 hours:
--- SELECT COUNT(*) AS CNT
--- FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
--- WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1, CURRENT_TIMESTAMP());
+- Company name
+- Headquarters
+- Ownership
+- Main modalities
+- Key sites
+- Key capabilities
+- Strengths
+- Weaknesses
+- Recent news
+- Relevance vs FUJIFILM
+- Threat level
 
--- For demo/testing with last 7 days:
--- SELECT COUNT(*) AS CNT
--- FROM BI.NEWS.V_PHARMA_NEWS_ACTION_QUEUE_CLEAN
--- WHERE RECEIVED_TS_PARSED >= DATEADD('day', -7, CURRENT_TIMESTAMP());
+Eksempel:
+
+Competitor: Samsung Biologics
+
+Strengths:
+Samsung Biologics has very large-scale mammalian manufacturing capacity and is a strong competitor for large commercial biologics manufacturing.
+
+Weaknesses:
+The company appears less diversified across microbial and certain advanced modalities compared with broader CDMO competitors.
+
+Relevance vs FUJIFILM:
+Samsung Biologics is especially relevant as a competitor in large-scale mammalian commercial manufacturing. FUJIFILM may differentiate itself through its EU/US footprint, end-to-end offering, microbial and mammalian breadth, and customer proximity.
+
+Threat Level:
+High
+
+Recommended data structure
+
+For at bygge dashboardet i Tableau anbefales det at strukturere data i nogle simple tabeller.
+
+1. Competitor table
+
+Fields:
+
+- Competitor ID
+- Competitor name
+- Headquarters
+- Ownership
+- Competitor tier
+- Company type
+- Website
+- Notes
+
+2. Site table
+
+Fields:
+
+- Site ID
+- Competitor ID
+- Site name
+- City
+- Country
+- Region
+- Latitude
+- Longitude
+- Site type
+- GMP flag
+- Commercial flag
+
+3. Capability table
+
+Fields:
+
+- Competitor ID
+- Site ID
+- Capability group
+- Capability name
+- Modality
+- Lifecycle stage
+- Score 0-3
+- Evidence text
+- Source URL
+- Confidence level
+
+4. Capacity table
+
+Fields:
+
+- Competitor ID
+- Site ID
+- Modality
+- Capacity liters
+- Capacity category
+- Bioreactor count
+- Bioreactor size
+- Capacity status
+- Year available
+- Source
+- Confidence level
+
+5. News signals table
+
+Fields:
+
+- Signal ID
+- Competitor ID
+- Date
+- Signal type
+- Headline
+- Description
+- Region
+- Modality
+- Strategic impact score
+- Source URL
+
+Recommended first version / MVP
+
+For a first version, the dashboard should be kept simple. The MVP should include four main elements:
+
+1. Competitor ranking
+2. Capability matrix
+3. Site overview map
+4. Recent activity table
+
+This will be enough to create a strong first version without making the dashboard too complex.
+
+The first version should answer:
+
+- Who are the competitors?
+- How strong are they?
+- What capabilities do they have?
+- Where are their sites?
+- Who is expanding?
+- Where does FUJIFILM stand strong or weak?
+
+Recommended Tableau pages
+
+Page 1: Executive Overview
+
+Content:
+- KPI boxes
+- Competitor ranking
+- Capability heatmap
+- Global map
+
+Purpose:
+To give a quick management-level overview of the competitor landscape.
+
+Page 2: Capability Deep Dive
+
+Content:
+- Competitor x capability heatmap
+- Filter by modality
+- Filter by lifecycle stage
+- Capability score
+
+Purpose:
+To compare FUJIFILM and competitors across key CDMO capabilities.
+
+Page 3: Site & Capacity Overview
+
+Content:
+- Global site map
+- Capacity chart
+- Site table
+
+Purpose:
+To understand competitor footprint and manufacturing capacity.
+
+Page 4: News & Strategic Signals
+
+Content:
+- Recent competitor moves
+- Expansion timeline
+- Signal type filter
+- Impact score
+
+Purpose:
+To track which competitors are moving strategically.
+
+Page 5: Competitor Profile
+
+Content:
+- One competitor at a time
+- Strengths
+- Weaknesses
+- Key sites
+- Capabilities
+- Recent news
+- Relevance vs FUJIFILM
+
+Purpose:
+To provide a simple one-page competitor summary.
+
+Key message of the dashboard
+
+The dashboard should not only show data. It should help answer the strategic question:
+
+“Where does FUJIFILM have a right-to-win, and where are competitors building pressure?”
+
+The dashboard should make it clear where FUJIFILM is strong, where competitors are stronger, and where there may be white-space opportunities in the market.
+
+In short, the dashboard should contain:
+
+1. A competitor ranking
+2. A capability matrix
+3. A global site and capacity overview
+4. A recent news and strategic signals tracker
+5. A detailed competitor profile page
+
+This structure will create a simple but useful competitor intelligence dashboard that can support strategic decision-making.
