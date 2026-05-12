@@ -1,4 +1,25 @@
-<img width="2556" height="1436" alt="image" src="https://github.com/user-attachments/assets/804d88ca-b31e-46f6-b83c-33ce31b0d8c7" />
+<Parent Company>
+<Company (Subsidiary)>
+
+Location: <City, State>, <Country>
+Region: <Region>
+
+Current Installed Capacity: <SUM(Current Installed Capacity)> L
+Modality: <Modality>
+Capacity Grade: <Capacity Grade>
+
+////
+
+<Parent Company>
+
+Site: <Company (Subsidiary)>
+Location: <City, State>, <Country>
+Region: <Region>
+
+Capacity: <SUM(Current Installed Capacity)> L
+Type: <Modality> | <Capacity Grade>
+
+////
 
 
 Competitor Capacity Dashboard
