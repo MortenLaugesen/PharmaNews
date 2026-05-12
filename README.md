@@ -1,10 +1,26 @@
 IF CONTAINS(UPPER([Parent Company]), "SAMSUNG") THEN "Key Competitor"
+
 ELSEIF CONTAINS(UPPER([Parent Company]), "LONZA") THEN "Key Competitor"
-ELSEIF CONTAINS(UPPER([Parent Company]), "WUXI") 
-    OR CONTAINS(UPPER([Parent Company]), "WU XI") THEN "Key Competitor"
-ELSEIF CONTAINS(UPPER([Parent Company]), "AGC") THEN "Key Competitor"
-ELSEIF CONTAINS(UPPER([Parent Company]), "FUJI") 
-    OR CONTAINS(UPPER([Parent Company]), "FUJIFILM") THEN "FUJIFILM"
+
+ELSEIF CONTAINS(UPPER([Parent Company]), "WUXI")
+    OR CONTAINS(UPPER([Parent Company]), "WU XI")
+    OR CONTAINS(UPPER([Parent Company]), "WUXI PHARMA TECH")
+THEN "Key Competitor"
+
+ELSEIF CONTAINS(UPPER([Parent Company]), "AGC")
+    OR CONTAINS(UPPER([Parent Company]), "ASAHI")
+    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS")
+    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS CO")
+    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS CO. LTD")
+    OR CONTAINS(UPPER([Company (Subsidiary)]), "AGC")
+THEN "Key Competitor"
+
+ELSEIF CONTAINS(UPPER([Parent Company]), "FUJI")
+    OR CONTAINS(UPPER([Parent Company]), "FUJIFILM")
+    OR CONTAINS(UPPER([Company (Subsidiary)]), "FUJI")
+    OR CONTAINS(UPPER([Company (Subsidiary)]), "FUJIFILM")
+THEN "FUJIFILM"
+
 ELSE "Other"
 END
 
