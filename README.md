@@ -1,5 +1,4 @@
-<img width="2558" height="1429" alt="image" src="https://github.com/user-attachments/assets/fe010a2b-eb01-4aaa-81f1-2d24deba70d9" />
-
+<img width="2554" height="1407" alt="image" src="https://github.com/user-attachments/assets/e139f076-5703-40c1-ae14-9291c1963172" />
 
 
 Competitor Capacity Dashboard
