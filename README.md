@@ -1,8 +1,5 @@
-<img width="2559" height="1424" alt="image" src="https://github.com/user-attachments/assets/005d5625-575d-43de-94a4-f4ffd451b179" />
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/43524a3b-b3fd-4f86-afc3-6a1a9e07ac86" />
-<img width="2540" height="1439" alt="image" src="https://github.com/user-attachments/assets/cfbcf195-936c-4e39-9dcd-ec2fb0900e3f" />
-<img width="2550" height="1439" alt="image" src="https://github.com/user-attachments/assets/7190f51b-b02a-4436-bd60-e5d6e9bb4fd1" />
-det er muligt at lave et kort
+<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/32d405e5-9d83-483d-81aa-115521a8b4db" />
+
 
 Competitor Capacity Dashboard
 
