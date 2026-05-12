@@ -1,1 +1,5 @@
-<img width="2560" height="1440" alt="image" src="https://github.com/user-attachments/assets/8123c328-1570-429b-999e-77e7e55e9e1f" />
+IF ISNULL([Online Initial Date]) THEN "Unknown Date"
+ELSEIF YEAR([Online Initial Date]) = 2099 THEN "Future / Planned"
+ELSEIF YEAR([Online Initial Date]) <= YEAR(TODAY()) THEN "Current / Online"
+ELSE "Future / Planned"
+END
