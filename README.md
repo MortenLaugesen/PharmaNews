@@ -1,28 +1,5 @@
-IF CONTAINS(UPPER([Parent Company]), "SAMSUNG") THEN "Key Competitor"
+<img width="2558" height="1429" alt="image" src="https://github.com/user-attachments/assets/fe010a2b-eb01-4aaa-81f1-2d24deba70d9" />
 
-ELSEIF CONTAINS(UPPER([Parent Company]), "LONZA") THEN "Key Competitor"
-
-ELSEIF CONTAINS(UPPER([Parent Company]), "WUXI")
-    OR CONTAINS(UPPER([Parent Company]), "WU XI")
-    OR CONTAINS(UPPER([Parent Company]), "WUXI PHARMA TECH")
-THEN "Key Competitor"
-
-ELSEIF CONTAINS(UPPER([Parent Company]), "AGC")
-    OR CONTAINS(UPPER([Parent Company]), "ASAHI")
-    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS")
-    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS CO")
-    OR CONTAINS(UPPER([Parent Company]), "ASAHI GLASS CO. LTD")
-    OR CONTAINS(UPPER([Company (Subsidiary)]), "AGC")
-THEN "Key Competitor"
-
-ELSEIF CONTAINS(UPPER([Parent Company]), "FUJI")
-    OR CONTAINS(UPPER([Parent Company]), "FUJIFILM")
-    OR CONTAINS(UPPER([Company (Subsidiary)]), "FUJI")
-    OR CONTAINS(UPPER([Company (Subsidiary)]), "FUJIFILM")
-THEN "FUJIFILM"
-
-ELSE "Other"
-END
 
 
 Competitor Capacity Dashboard
