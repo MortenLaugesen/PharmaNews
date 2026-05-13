@@ -1,12 +1,5 @@
-<Parent Company>
-Company: <Company (Subsidiary)>
-Location: <City, State>, <Country>
-Region: <Region>
+<img width="2541" height="1428" alt="image" src="https://github.com/user-attachments/assets/8d7e59af-7ec8-453f-bdd4-a313f2f331af" />
 
-Current Installed Capacity: <SUM(Current Installed Capacity)>
-Modality: <Modality>
-Capacity Grade: <Capacity Grade>
-Competitor Type: <Competitor Highlight>
 
 
 
