@@ -1,3 +1,6 @@
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/a4c490fb-ec6a-487d-895b-008a2b87f34b" />
+
+
 -- ============================================================
 -- PHARMA NEWS MONITORING MVP - V2
 -- Based on senior analyst feedback:
