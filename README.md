@@ -1,10 +1,10 @@
 -- ============================================================
--- PHARMA NEWS MONITORING MVP - V2
+-- PHARMA NEWS MONITORING MVP - V2 UPDATED FULL SCRIPT
 -- Based on senior analyst feedback:
--- 1) Improve deduplication
+-- 1) Better duplicate handling
 -- 2) Use tracked companies and keywords
 -- 3) Only show recommended action for very important news
--- 4) Provide 2-3 paragraph analysis for very important news
+-- 4) Give 2-3 paragraph explanation for very important news
 -- 5) Keep other relevant news as short headlines
 -- ============================================================
 
@@ -285,7 +285,7 @@ COMPANY_MATCHES AS (
         B.ARTICLE_TITLE_CLEAN
 ),
 
-ENRICHED AS (
+ENRICHED_1 AS (
     SELECT
         B.*,
         CM.MATCHED_COMPANIES,
@@ -316,112 +316,120 @@ ENRICHED AS (
               OR B.FULL_TEXT_LC RLIKE '[2-9][0-9]{2}\\s?million'
               OR B.FULL_TEXT_LC RLIKE '[0-9]+(\\.[0-9]+)?\\s?billion'
             THEN TRUE ELSE FALSE
-        END AS VALUE_ABOVE_200M,
+        END AS VALUE_ABOVE_200M
 
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(acquisition|buyout|merger|deal|licensing|collaboration|partnership)'
-            THEN TRUE ELSE FALSE
-        END AS IS_DEAL_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(expansion|construction|facility|site|manufacturing|capacity|capex|investment)'
-            THEN TRUE ELSE FALSE
-        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(new capability|new platform|new modality|fill-finish|fill finish|microbial|mammalian|cell therapy|gene therapy|adc|biosimilar|biosimilars)'
-            THEN TRUE ELSE FALSE
-        END AS IS_NEW_CAPABILITY_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(closing|shuttering|divestment|divestiture|site closure|plant closure|business unit)'
-            THEN TRUE ELSE FALSE
-        END AS IS_SITE_OR_BUSINESS_UNIT_NEGATIVE_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(layoffs|job cuts|cut [0-9]+ jobs|workers|employees)'
-             AND B.FULL_TEXT_LC RLIKE '([2-9][0-9]{2,}\\s?(employees|jobs|workers|staff|positions))'
-            THEN TRUE ELSE FALSE
-        END AS IS_LAYOFF_OVER_200_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(most favored nation|most-favored nation)'
-            THEN TRUE ELSE FALSE
-        END AS IS_MFN_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(tariff|tariffs)'
-             AND B.FULL_TEXT_LC RLIKE '(pharma|biopharma|biotech|biologics|drug|medicine)'
-            THEN TRUE ELSE FALSE
-        END AS IS_TARIFF_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(fda commissioner|fda leadership|fda framework|fda regulation|fda regulations|biopharma regulation|biologics regulation|gene therapy regulation)'
-            THEN TRUE ELSE FALSE
-        END AS IS_FDA_LEADERSHIP_OR_REGULATION_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(regulation|regulatory|eu scheme|eu advances|manufacturing autonomy|drug shortages|shortages)'
-             AND B.FULL_TEXT_LC RLIKE '(fda|eu|biopharma|biotech|biologics|gene therapy|manufacturing)'
-            THEN TRUE ELSE FALSE
-        END AS IS_REGULATION_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(supreme court)'
-             AND B.FULL_TEXT_LC RLIKE '(biopharma|biologics|biotech|pharma|drug|medicine)'
-            THEN TRUE ELSE FALSE
-        END AS IS_SUPREME_COURT_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(adc|antibody-drug conjugate|antibody drug conjugate)'
-             AND (VALUE_ABOVE_200M OR B.FULL_TEXT_LC RLIKE '(regulation|regulatory|trend|trends|market|capacity|manufacturing)')
-            THEN TRUE ELSE FALSE
-        END AS IS_ADC_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(microbial)'
-             AND (VALUE_ABOVE_200M OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
-            THEN TRUE ELSE FALSE
-        END AS IS_MICROBIAL_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(biosimilar|biosimilars)'
-             AND (VALUE_ABOVE_200M OR B.FULL_TEXT_LC RLIKE '(regulation|regulatory|trend|trends|market|capacity|manufacturing)')
-            THEN TRUE ELSE FALSE
-        END AS IS_BIOSIMILAR_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(denmark|danish)'
-             AND (VALUE_ABOVE_200M OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
-            THEN TRUE ELSE FALSE
-        END AS IS_DENMARK_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(uk|britain|british|united kingdom)'
-             AND (VALUE_ABOVE_200M OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
-            THEN TRUE ELSE FALSE
-        END AS IS_UK_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(north carolina|rtp|triangle|raleigh|durham|cary|apex)'
-             AND (VALUE_ABOVE_500M OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
-            THEN TRUE ELSE FALSE
-        END AS IS_NC_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(college station|texas|tx)'
-             AND (VALUE_ABOVE_200M OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR CM.MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
-            THEN TRUE ELSE FALSE
-        END AS IS_TX_SIGNAL,
-
-        CASE
-            WHEN B.FULL_TEXT_LC RLIKE '(webinar|register now|register today|whitepaper|sponsored by|explore our services|move to market with confidence|podcast|conference|event|logo|unsubscribe)'
-            THEN TRUE ELSE FALSE
-        END AS IS_PROMOTIONAL_SIGNAL
     FROM BASE B
     LEFT JOIN COMPANY_MATCHES CM
         ON B.MESSAGE_ID = CM.MESSAGE_ID
        AND B.ARTICLE_TITLE_CLEAN = CM.ARTICLE_TITLE_CLEAN
+),
+
+ENRICHED_2 AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(acquisition|buyout|merger|deal|licensing|collaboration|partnership)'
+            THEN TRUE ELSE FALSE
+        END AS IS_DEAL_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(expansion|construction|facility|site|manufacturing|capacity|capex|investment)'
+            THEN TRUE ELSE FALSE
+        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(new capability|new platform|new modality|fill-finish|fill finish|microbial|mammalian|cell therapy|gene therapy|adc|biosimilar|biosimilars)'
+            THEN TRUE ELSE FALSE
+        END AS IS_NEW_CAPABILITY_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(closing|shuttering|divestment|divestiture|site closure|plant closure|business unit)'
+            THEN TRUE ELSE FALSE
+        END AS IS_SITE_OR_BUSINESS_UNIT_NEGATIVE_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(layoffs|job cuts|cut [0-9]+ jobs|workers|employees)'
+             AND FULL_TEXT_LC RLIKE '([2-9][0-9]{2,}\\s?(employees|jobs|workers|staff|positions))'
+            THEN TRUE ELSE FALSE
+        END AS IS_LAYOFF_OVER_200_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(most favored nation|most-favored nation)'
+            THEN TRUE ELSE FALSE
+        END AS IS_MFN_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(tariff|tariffs)'
+             AND FULL_TEXT_LC RLIKE '(pharma|biopharma|biotech|biologics|drug|medicine)'
+            THEN TRUE ELSE FALSE
+        END AS IS_TARIFF_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(fda commissioner|fda leadership|fda framework|fda regulation|fda regulations|biopharma regulation|biologics regulation|gene therapy regulation)'
+            THEN TRUE ELSE FALSE
+        END AS IS_FDA_LEADERSHIP_OR_REGULATION_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(regulation|regulatory|eu scheme|eu advances|manufacturing autonomy|drug shortages|shortages)'
+             AND FULL_TEXT_LC RLIKE '(fda|eu|biopharma|biotech|biologics|gene therapy|manufacturing)'
+            THEN TRUE ELSE FALSE
+        END AS IS_REGULATION_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(supreme court)'
+             AND FULL_TEXT_LC RLIKE '(biopharma|biologics|biotech|pharma|drug|medicine)'
+            THEN TRUE ELSE FALSE
+        END AS IS_SUPREME_COURT_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(adc|antibody-drug conjugate|antibody drug conjugate)'
+             AND (VALUE_ABOVE_200M OR FULL_TEXT_LC RLIKE '(regulation|regulatory|trend|trends|market|capacity|manufacturing)')
+            THEN TRUE ELSE FALSE
+        END AS IS_ADC_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(microbial)'
+             AND (VALUE_ABOVE_200M OR MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
+            THEN TRUE ELSE FALSE
+        END AS IS_MICROBIAL_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(biosimilar|biosimilars)'
+             AND (VALUE_ABOVE_200M OR FULL_TEXT_LC RLIKE '(regulation|regulatory|trend|trends|market|capacity|manufacturing)')
+            THEN TRUE ELSE FALSE
+        END AS IS_BIOSIMILAR_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(denmark|danish)'
+             AND (VALUE_ABOVE_200M OR MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
+            THEN TRUE ELSE FALSE
+        END AS IS_DENMARK_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(uk|britain|british|united kingdom)'
+             AND (VALUE_ABOVE_200M OR MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
+            THEN TRUE ELSE FALSE
+        END AS IS_UK_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(north carolina|rtp|triangle|raleigh|durham|cary|apex)'
+             AND (VALUE_ABOVE_500M OR MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
+            THEN TRUE ELSE FALSE
+        END AS IS_NC_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(college station|texas|tx)'
+             AND (VALUE_ABOVE_200M OR MATCHED_COMPANY_CATEGORIES ILIKE '%Top 25%' OR MATCHED_COMPANY_CATEGORIES ILIKE '%CDMO%')
+            THEN TRUE ELSE FALSE
+        END AS IS_TX_SIGNAL,
+
+        CASE
+            WHEN FULL_TEXT_LC RLIKE '(webinar|register now|register today|whitepaper|sponsored by|explore our services|move to market with confidence|podcast|conference|event|logo|unsubscribe)'
+            THEN TRUE ELSE FALSE
+        END AS IS_PROMOTIONAL_SIGNAL
+
+    FROM ENRICHED_1
 )
 
 SELECT
@@ -480,7 +488,7 @@ SELECT
 
         ELSE 'MONITOR'
     END AS PRIORITY_TIER
-FROM ENRICHED;
+FROM ENRICHED_2;
 
 
 -- ============================================================
@@ -579,6 +587,7 @@ CREATE OR REPLACE NOTIFICATION INTEGRATION PHARMA_NEWS_EMAIL_INT
 
 -- ============================================================
 -- 08 - Stored Procedure: Improved Daily Pharma News Digest V2
+-- Fixed version without SELECT ... INTO
 -- Parameter:
 --   P_DAYS_BACK = 1 for daily production
 --   P_DAYS_BACK = 7 for testing/demo with more data
@@ -596,122 +605,127 @@ DECLARE
     V_IMPORTANT_COUNT NUMBER;
     V_BODY STRING;
 BEGIN
-    SELECT COUNT(*)
-    INTO :V_TOTAL_COUNT
-    FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-    WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP());
 
-    SELECT COUNT(*)
-    INTO :V_VERY_IMPORTANT_COUNT
-    FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-    WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
-      AND PRIORITY_TIER = 'VERY_IMPORTANT';
+    V_TOTAL_COUNT := (
+        SELECT COUNT(*)
+        FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
+    );
 
-    SELECT COUNT(*)
-    INTO :V_IMPORTANT_COUNT
-    FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-    WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
-      AND PRIORITY_TIER = 'IMPORTANT';
+    V_VERY_IMPORTANT_COUNT := (
+        SELECT COUNT(*)
+        FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
+          AND PRIORITY_TIER = 'VERY_IMPORTANT'
+    );
+
+    V_IMPORTANT_COUNT := (
+        SELECT COUNT(*)
+        FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
+          AND PRIORITY_TIER = 'IMPORTANT'
+    );
 
     IF (V_TOTAL_COUNT = 0) THEN
         RETURN 'No pharma news items to send.';
     END IF;
 
-    WITH VERY_IMPORTANT_TOP AS (
-        SELECT *
-        FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
-          AND PRIORITY_TIER = 'VERY_IMPORTANT'
-        ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
-        LIMIT 5
-    ),
+    V_BODY := (
+        WITH VERY_IMPORTANT_TOP AS (
+            SELECT *
+            FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+            WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
+              AND PRIORITY_TIER = 'VERY_IMPORTANT'
+            ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
+            LIMIT 5
+        ),
 
-    VERY_IMPORTANT_ANALYZED AS (
+        VERY_IMPORTANT_ANALYZED AS (
+            SELECT
+                *,
+                AI_COMPLETE(
+                    model => 'llama3.3-70b',
+                    prompt => CONCAT(
+                        'You are supporting a Business Intelligence & Insights team at a biologics/CDMO company. ',
+                        'Write a useful 2-3 paragraph explanation of why this news matters. ',
+                        'Use simple language. Focus on business impact, competitors, manufacturing, CDMO relevance, regulatory impact, customers, or capacity. ',
+                        'Only include a recommended action if there is a clear action worth taking. ',
+                        'Return structured output only. ',
+                        'Title: ', COALESCE(ARTICLE_TITLE, ''), '. ',
+                        'Source: ', COALESCE(EMAIL_SOURCE_TYPE, ''), '. ',
+                        'Matched companies: ', COALESCE(MATCHED_COMPANIES, ''), '. ',
+                        'Company categories: ', COALESCE(MATCHED_COMPANY_CATEGORIES, ''), '. ',
+                        'Categories: ', COALESCE(TO_JSON(CATEGORY_RESULT), ''), '. ',
+                        'URL: ', COALESCE(ARTICLE_URL, ''), '. ',
+                        'Body/context: ', COALESCE(LEFT(FULL_TEXT_LC, 3000), '')
+                    ),
+                    response_format => TYPE OBJECT(
+                        analysis STRING,
+                        recommended_action STRING
+                    )
+                ) AS DEEP_ANALYSIS_RESULT
+            FROM VERY_IMPORTANT_TOP
+        ),
+
+        IMPORTANT_TOP AS (
+            SELECT *
+            FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+            WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
+              AND PRIORITY_TIER = 'IMPORTANT'
+            ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
+            LIMIT 10
+        ),
+
+        VERY_IMPORTANT_TEXT AS (
+            SELECT
+                LISTAGG(
+                    ARTICLE_TITLE || CHR(10) ||
+                    'Source: ' || COALESCE(EMAIL_SOURCE_TYPE, '') || CHR(10) ||
+                    'Matched companies: ' || COALESCE(MATCHED_COMPANIES, 'None') || CHR(10) ||
+                    CHR(10) ||
+                    COALESCE(DEEP_ANALYSIS_RESULT:analysis::STRING, 'No analysis generated.') || CHR(10) ||
+                    CASE
+                        WHEN DEEP_ANALYSIS_RESULT:recommended_action::STRING IS NOT NULL
+                         AND LENGTH(TRIM(DEEP_ANALYSIS_RESULT:recommended_action::STRING)) > 0
+                        THEN CHR(10) || 'Recommended action: ' || DEEP_ANALYSIS_RESULT:recommended_action::STRING || CHR(10)
+                        ELSE ''
+                    END ||
+                    'URL: ' || COALESCE(ARTICLE_URL, '') || CHR(10) ||
+                    CHR(10) || '------------------------' || CHR(10),
+                    ''
+                ) WITHIN GROUP (ORDER BY RECEIVED_TS_PARSED DESC) AS TXT
+            FROM VERY_IMPORTANT_ANALYZED
+        ),
+
+        IMPORTANT_TEXT AS (
+            SELECT
+                LISTAGG(
+                    '- ' || ARTICLE_TITLE ||
+                    ' | Source: ' || COALESCE(EMAIL_SOURCE_TYPE, '') ||
+                    ' | Companies: ' || COALESCE(MATCHED_COMPANIES, 'None') ||
+                    CHR(10) ||
+                    '  URL: ' || COALESCE(ARTICLE_URL, '') ||
+                    CHR(10),
+                    ''
+                ) WITHIN GROUP (ORDER BY RECEIVED_TS_PARSED DESC) AS TXT
+            FROM IMPORTANT_TOP
+        )
+
         SELECT
-            *,
-            AI_COMPLETE(
-                model => 'llama3.3-70b',
-                prompt => CONCAT(
-                    'You are supporting a Business Intelligence & Insights team at a biologics/CDMO company. ',
-                    'Write a concise but useful 2-3 paragraph analysis of why this news matters. ',
-                    'Focus on strategic implications, competitor movements, market signals, manufacturing/CDMO relevance, regulatory implications, and possible impact on customers or capacity. ',
-                    'Only include a recommended action if there is a clear action worth taking. ',
-                    'Return structured output only. ',
-                    'Title: ', COALESCE(ARTICLE_TITLE, ''), '. ',
-                    'Source: ', COALESCE(EMAIL_SOURCE_TYPE, ''), '. ',
-                    'Matched companies: ', COALESCE(MATCHED_COMPANIES, ''), '. ',
-                    'Company categories: ', COALESCE(MATCHED_COMPANY_CATEGORIES, ''), '. ',
-                    'Categories: ', COALESCE(TO_JSON(CATEGORY_RESULT), ''), '. ',
-                    'URL: ', COALESCE(ARTICLE_URL, ''), '. ',
-                    'Body/context: ', COALESCE(LEFT(FULL_TEXT_LC, 3000), '')
-                ),
-                response_format => TYPE OBJECT(
-                    analysis STRING,
-                    recommended_action STRING
-                )
-            ) AS DEEP_ANALYSIS_RESULT
-        FROM VERY_IMPORTANT_TOP
-    ),
-
-    IMPORTANT_TOP AS (
-        SELECT *
-        FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-        WHERE RECEIVED_TS_PARSED >= DATEADD('day', -1 * :P_DAYS_BACK, CURRENT_TIMESTAMP())
-          AND PRIORITY_TIER = 'IMPORTANT'
-        ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
-        LIMIT 10
-    ),
-
-    VERY_IMPORTANT_TEXT AS (
-        SELECT
-            LISTAGG(
-                ARTICLE_TITLE || CHR(10) ||
-                'Source: ' || COALESCE(EMAIL_SOURCE_TYPE, '') || CHR(10) ||
-                'Matched companies: ' || COALESCE(MATCHED_COMPANIES, 'None') || CHR(10) ||
-                CHR(10) ||
-                COALESCE(DEEP_ANALYSIS_RESULT:analysis::STRING, 'No analysis generated.') || CHR(10) ||
-                CASE
-                    WHEN DEEP_ANALYSIS_RESULT:recommended_action::STRING IS NOT NULL
-                     AND LENGTH(TRIM(DEEP_ANALYSIS_RESULT:recommended_action::STRING)) > 0
-                    THEN CHR(10) || 'Recommended action: ' || DEEP_ANALYSIS_RESULT:recommended_action::STRING || CHR(10)
-                    ELSE ''
-                END ||
-                'URL: ' || COALESCE(ARTICLE_URL, '') || CHR(10) ||
-                CHR(10) || '------------------------' || CHR(10),
-                ''
-            ) WITHIN GROUP (ORDER BY RECEIVED_TS_PARSED DESC) AS TXT
-        FROM VERY_IMPORTANT_ANALYZED
-    ),
-
-    IMPORTANT_TEXT AS (
-        SELECT
-            LISTAGG(
-                '- ' || ARTICLE_TITLE ||
-                ' | Source: ' || COALESCE(EMAIL_SOURCE_TYPE, '') ||
-                ' | Companies: ' || COALESCE(MATCHED_COMPANIES, 'None') ||
-                CHR(10) ||
-                '  URL: ' || COALESCE(ARTICLE_URL, '') ||
-                CHR(10),
-                ''
-            ) WITHIN GROUP (ORDER BY RECEIVED_TS_PARSED DESC) AS TXT
-        FROM IMPORTANT_TOP
-    )
-
-    SELECT
-        'Daily Pharma News Digest' || CHR(10) ||
-        'Generated from Snowflake action queue' || CHR(10) ||
-        'Lookback window: last ' || :P_DAYS_BACK || ' day(s)' || CHR(10) ||
-        'Very important items: ' || :V_VERY_IMPORTANT_COUNT || CHR(10) ||
-        'Important items: ' || :V_IMPORTANT_COUNT || CHR(10) ||
-        CHR(10) ||
-        'VERY IMPORTANT NEWS' || CHR(10) ||
-        '====================' || CHR(10) ||
-        COALESCE((SELECT TXT FROM VERY_IMPORTANT_TEXT), 'No very important items today.') ||
-        CHR(10) ||
-        'OTHER RELEVANT HEADLINES' || CHR(10) ||
-        '========================' || CHR(10) ||
-        COALESCE((SELECT TXT FROM IMPORTANT_TEXT), 'No additional important headlines today.')
-    INTO :V_BODY;
+            'Daily Pharma News Digest' || CHR(10) ||
+            'Generated from Snowflake action queue' || CHR(10) ||
+            'Lookback window: last ' || :P_DAYS_BACK || ' day(s)' || CHR(10) ||
+            'Very important items: ' || :V_VERY_IMPORTANT_COUNT || CHR(10) ||
+            'Important items: ' || :V_IMPORTANT_COUNT || CHR(10) ||
+            CHR(10) ||
+            'VERY IMPORTANT NEWS' || CHR(10) ||
+            '====================' || CHR(10) ||
+            COALESCE((SELECT TXT FROM VERY_IMPORTANT_TEXT), 'No very important items today.') ||
+            CHR(10) ||
+            'OTHER RELEVANT HEADLINES' || CHR(10) ||
+            '========================' || CHR(10) ||
+            COALESCE((SELECT TXT FROM IMPORTANT_TEXT), 'No additional important headlines today.')
+    );
 
     CALL SYSTEM$SEND_EMAIL(
         'PHARMA_NEWS_EMAIL_INT',
@@ -724,6 +738,7 @@ BEGIN
            ', Very important: ' || V_VERY_IMPORTANT_COUNT ||
            ', Important: ' || V_IMPORTANT_COUNT ||
            ', Lookback days: ' || P_DAYS_BACK;
+
 END;
 $$;
 
