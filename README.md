@@ -1,6 +1,1 @@
--- Check available date range in the final V2 digest queue
-SELECT
-    MIN(RECEIVED_TS_PARSED) AS OLDEST_NEWS,
-    MAX(RECEIVED_TS_PARSED) AS NEWEST_NEWS,
-    COUNT(*) AS TOTAL_ROWS
-FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2;
+<img width="1411" height="515" alt="image" src="https://github.com/user-attachments/assets/ca8799fd-ec7d-4dc7-a305-dbf501ac1109" />
