@@ -1,10 +1,1 @@
-
--- Check V2 queue without date filter
-SELECT
-    PRIORITY_TIER,
-    COUNT(*) AS CNT
-FROM BI.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
-GROUP BY PRIORITY_TIER
-ORDER BY CNT DESC;
-
-<img width="1411" height="515" alt="image" src="https://github.com/user-attachments/assets/ca8799fd-ec7d-4dc7-a305-dbf501ac1109" />
+<img width="1892" height="1130" alt="image" src="https://github.com/user-attachments/assets/b0423e71-7817-4597-a92d-1f0109854b8e" />
