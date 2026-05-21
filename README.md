@@ -1,1 +1,9 @@
-<img width="1892" height="1130" alt="image" src="https://github.com/user-attachments/assets/b0423e71-7817-4597-a92d-1f0109854b8e" />
+-- Check current Snowflake context
+SELECT
+    CURRENT_ROLE() AS CURRENT_ROLE,
+    CURRENT_WAREHOUSE() AS CURRENT_WAREHOUSE,
+    CURRENT_DATABASE() AS CURRENT_DATABASE,
+    CURRENT_SCHEMA() AS CURRENT_SCHEMA;
+
+    -- Show databases you can access
+SHOW DATABASES;
