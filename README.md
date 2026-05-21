@@ -1,3 +1,6 @@
+<img width="1919" height="1160" alt="image" src="https://github.com/user-attachments/assets/be7db1a9-5f23-47a6-b1f3-4eb7542a36b8" />
+
+
 -- ============================================================
 -- 01 - Set role and warehouse
 -- ============================================================
