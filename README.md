@@ -1,1 +1,20 @@
-<img width="2558" height="1224" alt="image" src="https://github.com/user-attachments/assets/1c99ded0-eb0e-4bb8-a79d-4ce94ba9ac4d" />
+Data Source Name:
+PHARMA_NEWS_SANDBOX
+
+Server:
+datahub-business_intelligence_insights.snowflakecomputing.com
+
+Warehouse:
+SANDBOX_WH
+
+Database:
+PHARMA_NEWS_SANDBOX
+
+Schema:
+NEWS
+
+Role:
+SANDBOX_DEVELOPER
+
+Authenticator:
+externalbrowser
