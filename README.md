@@ -1,3 +1,6 @@
+<img width="2539" height="1320" alt="image" src="https://github.com/user-attachments/assets/d4066926-4c89-4834-8fb2-77d9c3524beb" />
+
+
 -- ============================================================
 -- PHARMA NEWS MONITORING MVP - V2 UPDATED FOR TEAM SANDBOX
 -- Database: PHARMA_NEWS_SANDBOX
