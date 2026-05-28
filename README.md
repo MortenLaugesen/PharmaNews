@@ -1,8 +1,5 @@
-<img width="2539" height="1320" alt="image" src="https://github.com/user-attachments/assets/d4066926-4c89-4834-8fb2-77d9c3524beb" />
-
-
 -- ============================================================
--- PHARMA NEWS MONITORING MVP - V2 UPDATED FOR TEAM SANDBOX
+-- PHARMA NEWS MONITORING MVP - SAFE TEAM SANDBOX VERSION
 -- Database: PHARMA_NEWS_SANDBOX
 -- Schema: NEWS
 -- Warehouse: SANDBOX_WH
@@ -25,22 +22,23 @@ USE SCHEMA NEWS;
 
 -- ============================================================
 -- 00A - Staging table for Alteryx output
+-- IMPORTANT: IF NOT EXISTS prevents deleting Alteryx-loaded data
 -- ============================================================
 
-CREATE OR REPLACE TABLE PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1 (
-    message_id STRING,
-    sender_name STRING,
-    sender_email STRING,
-    subject_raw STRING,
-    received_ts STRING,
-    email_source_type STRING,
-    article_rank NUMBER,
-    article_title STRING,
-    article_url STRING,
-    article_url_extraction_method STRING,
-    body_best STRING,
-    article_llm_input STRING,
-    parser_version STRING
+CREATE TABLE IF NOT EXISTS PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1 (
+    MESSAGE_ID STRING,
+    SENDER_NAME STRING,
+    SENDER_EMAIL STRING,
+    SUBJECT_RAW STRING,
+    RECEIVED_TS STRING,
+    EMAIL_SOURCE_TYPE STRING,
+    ARTICLE_RANK NUMBER,
+    ARTICLE_TITLE STRING,
+    ARTICLE_URL STRING,
+    ARTICLE_URL_EXTRACTION_METHOD STRING,
+    BODY_BEST STRING,
+    ARTICLE_LLM_INPUT STRING,
+    PARSER_VERSION STRING
 );
 
 
@@ -148,24 +146,23 @@ AS V(COMPANY_NAME, COMPANY_CATEGORY);
 
 -- ============================================================
 -- 01 - Clean Article View
--- Fixed for Snowflake table with normal uppercase column names
 -- ============================================================
 
 CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN AS
 SELECT
-    message_id AS MESSAGE_ID,
-    sender_name AS SENDER_NAME,
-    sender_email AS SENDER_EMAIL,
-    subject_raw AS SUBJECT_RAW,
-    received_ts AS RECEIVED_TS,
-    TRY_TO_TIMESTAMP_TZ(received_ts) AS RECEIVED_TS_PARSED,
-    email_source_type AS EMAIL_SOURCE_TYPE,
-    article_rank AS ARTICLE_RANK,
+    MESSAGE_ID,
+    SENDER_NAME,
+    SENDER_EMAIL,
+    SUBJECT_RAW,
+    RECEIVED_TS,
+    TRY_TO_TIMESTAMP_TZ(RECEIVED_TS) AS RECEIVED_TS_PARSED,
+    EMAIL_SOURCE_TYPE,
+    ARTICLE_RANK,
 
     TRIM(
         REGEXP_REPLACE(
             REGEXP_REPLACE(
-                REGEXP_REPLACE(article_title, '^[0-9]+\\.?\\s*', ''),
+                REGEXP_REPLACE(ARTICLE_TITLE, '^[0-9]+\\.?\\s*', ''),
                 '^,\\s*',
                 ''
             ),
@@ -178,7 +175,7 @@ SELECT
         TRIM(
             REGEXP_REPLACE(
                 REGEXP_REPLACE(
-                    REGEXP_REPLACE(article_title, '^[0-9]+\\.?\\s*', ''),
+                    REGEXP_REPLACE(ARTICLE_TITLE, '^[0-9]+\\.?\\s*', ''),
                     '^,\\s*',
                     ''
                 ),
@@ -188,11 +185,11 @@ SELECT
         )
     ) AS ARTICLE_TITLE_LC,
 
-    article_url AS ARTICLE_URL,
-    article_url_extraction_method AS ARTICLE_URL_EXTRACTION_METHOD,
-    body_best AS BODY_BEST,
-    article_llm_input AS ARTICLE_LLM_INPUT,
-    parser_version AS PARSER_VERSION
+    ARTICLE_URL,
+    ARTICLE_URL_EXTRACTION_METHOD,
+    BODY_BEST,
+    ARTICLE_LLM_INPUT,
+    PARSER_VERSION
 FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
 
 
@@ -205,6 +202,8 @@ CREATE OR REPLACE TABLE PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL 
 SELECT
     *,
     CASE
+        WHEN ARTICLE_TITLE_LC IS NULL THEN 'DROP'
+
         WHEN ARTICLE_TITLE_LC RLIKE
             '^(a message from|brought to you by|by |staff writer|staff writers|senior editor|senior editors|associate editor|associate editors|executive editor|deputy editor|editor-in-chief|publisher|contributing writer|sales director)'
             THEN 'DROP'
@@ -246,10 +245,10 @@ SELECT
     AI_FILTER(
         PROMPT(
             'Return TRUE if this pharma news item is relevant for a Business Intelligence & Insights team at a biologics/CDMO company. Relevant examples include competitor investments, manufacturing, site expansions, partnerships, acquisitions, customer/commercial signals, financing, IPOs, regulatory milestones, clinical milestones with business impact, supply chain changes, platform/capability updates, and strategic market signals. Not relevant examples include webinars, podcasts, events, whitepapers, sponsor messages, logos, footer links, unsubscribe links, admin content, editorial staff listings, and generic promotions. Subject: {0}. Title: {1}. URL: {2}. Body: {3}',
-            SUBJECT_RAW,
-            ARTICLE_TITLE_CLEAN,
-            ARTICLE_URL,
-            BODY_BEST
+            COALESCE(SUBJECT_RAW, ''),
+            COALESCE(ARTICLE_TITLE_CLEAN, ''),
+            COALESCE(ARTICLE_URL, ''),
+            COALESCE(LEFT(BODY_BEST, 3000), '')
         )
     ) AS IS_RELEVANT
 FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL
@@ -323,8 +322,8 @@ COMPANY_MATCHES AS (
 ENRICHED_1 AS (
     SELECT
         B.*,
-        CM.MATCHED_COMPANIES,
-        CM.MATCHED_COMPANY_CATEGORIES,
+        COALESCE(CM.MATCHED_COMPANIES, '') AS MATCHED_COMPANIES,
+        COALESCE(CM.MATCHED_COMPANY_CATEGORIES, '') AS MATCHED_COMPANY_CATEGORIES,
 
         REGEXP_SUBSTR(
             B.FULL_TEXT_LC,
@@ -363,25 +362,17 @@ ENRICHED_2 AS (
     SELECT
         *,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(acquisition|buyout|merger|deal|licensing|collaboration|partnership)'
-            THEN TRUE ELSE FALSE
-        END AS IS_DEAL_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(acquisition|buyout|merger|deal|licensing|collaboration|partnership)'
+            THEN TRUE ELSE FALSE END AS IS_DEAL_SIGNAL,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(expansion|construction|facility|site|manufacturing|capacity|capex|investment)'
-            THEN TRUE ELSE FALSE
-        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(expansion|construction|facility|site|manufacturing|capacity|capex|investment)'
+            THEN TRUE ELSE FALSE END AS IS_SIZE_OR_CAPACITY_SIGNAL,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(new capability|new platform|new modality|fill-finish|fill finish|microbial|mammalian|cell therapy|gene therapy|adc|biosimilar|biosimilars)'
-            THEN TRUE ELSE FALSE
-        END AS IS_NEW_CAPABILITY_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(new capability|new platform|new modality|fill-finish|fill finish|microbial|mammalian|cell therapy|gene therapy|adc|biosimilar|biosimilars)'
+            THEN TRUE ELSE FALSE END AS IS_NEW_CAPABILITY_SIGNAL,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(closing|shuttering|divestment|divestiture|site closure|plant closure|business unit)'
-            THEN TRUE ELSE FALSE
-        END AS IS_SITE_OR_BUSINESS_UNIT_NEGATIVE_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(closing|shuttering|divestment|divestiture|site closure|plant closure|business unit)'
+            THEN TRUE ELSE FALSE END AS IS_SITE_OR_BUSINESS_UNIT_NEGATIVE_SIGNAL,
 
         CASE
             WHEN FULL_TEXT_LC RLIKE '(layoffs|job cuts|cut [0-9]+ jobs|workers|employees)'
@@ -389,10 +380,8 @@ ENRICHED_2 AS (
             THEN TRUE ELSE FALSE
         END AS IS_LAYOFF_OVER_200_SIGNAL,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(most favored nation|most-favored nation)'
-            THEN TRUE ELSE FALSE
-        END AS IS_MFN_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(most favored nation|most-favored nation)'
+            THEN TRUE ELSE FALSE END AS IS_MFN_SIGNAL,
 
         CASE
             WHEN FULL_TEXT_LC RLIKE '(tariff|tariffs)'
@@ -400,10 +389,8 @@ ENRICHED_2 AS (
             THEN TRUE ELSE FALSE
         END AS IS_TARIFF_SIGNAL,
 
-        CASE
-            WHEN FULL_TEXT_LC RLIKE '(fda commissioner|fda leadership|fda framework|fda regulation|fda regulations|biopharma regulation|biologics regulation|gene therapy regulation)'
-            THEN TRUE ELSE FALSE
-        END AS IS_FDA_LEADERSHIP_OR_REGULATION_SIGNAL,
+        CASE WHEN FULL_TEXT_LC RLIKE '(fda commissioner|fda leadership|fda framework|fda regulation|fda regulations|biopharma regulation|biologics regulation|gene therapy regulation)'
+            THEN TRUE ELSE FALSE END AS IS_FDA_LEADERSHIP_OR_REGULATION_SIGNAL,
 
         CASE
             WHEN FULL_TEXT_LC RLIKE '(regulation|regulatory|eu scheme|eu advances|manufacturing autonomy|drug shortages|shortages)'
@@ -528,7 +515,7 @@ FROM ENRICHED_2;
 
 -- ============================================================
 -- 06 - Digest Queue V2
--- Better deduplication before email output
+-- Deduplication before email output
 -- ============================================================
 
 CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2 AS
@@ -611,8 +598,7 @@ WHERE RN = 1;
 
 -- ============================================================
 -- 07 - Email Notification Integration
--- This may require ACCOUNTADMIN or admin help.
--- Keep this commented if your role cannot create notification integrations.
+-- Keep commented unless your role has permission
 -- ============================================================
 
 -- CREATE OR REPLACE NOTIFICATION INTEGRATION PHARMA_NEWS_EMAIL_INT
@@ -622,7 +608,7 @@ WHERE RN = 1;
 
 
 -- ============================================================
--- 08 - Stored Procedure: Improved Daily Pharma News Digest V2
+-- 08 - Stored Procedure: Daily Pharma News Digest V2
 -- P_DAYS_BACK = 1 for daily production
 -- P_DAYS_BACK = 7 or 30 for testing/demo
 -- ============================================================
@@ -634,10 +620,10 @@ EXECUTE AS CALLER
 AS
 $$
 DECLARE
-    V_TOTAL_COUNT NUMBER;
-    V_VERY_IMPORTANT_COUNT NUMBER;
-    V_IMPORTANT_COUNT NUMBER;
-    V_BODY STRING;
+    V_TOTAL_COUNT NUMBER DEFAULT 0;
+    V_VERY_IMPORTANT_COUNT NUMBER DEFAULT 0;
+    V_IMPORTANT_COUNT NUMBER DEFAULT 0;
+    V_BODY STRING DEFAULT '';
 BEGIN
 
     V_TOTAL_COUNT := (
@@ -773,29 +759,32 @@ BEGIN
            ', Important: ' || V_IMPORTANT_COUNT ||
            ', Lookback days: ' || P_DAYS_BACK;
 
+EXCEPTION
+    WHEN OTHER THEN
+        RETURN 'Procedure failed. Most likely email integration, permissions, or Cortex AI issue. Error: ' || SQLERRM;
+
 END;
 $$;
 
 
 -- ============================================================
 -- 09 - Daily Email Task
--- Runs every weekday at 08:15 Europe/Copenhagen
--- Task is created but not activated
+-- Kept commented to avoid permission errors
 -- ============================================================
 
-CREATE OR REPLACE TASK PHARMA_NEWS_SANDBOX.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST_V2
-    WAREHOUSE = SANDBOX_WH
-    SCHEDULE = 'USING CRON 15 8 * * MON-FRI Europe/Copenhagen'
-AS
-    CALL PHARMA_NEWS_SANDBOX.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST_V2(1);
+-- CREATE OR REPLACE TASK PHARMA_NEWS_SANDBOX.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST_V2
+--     WAREHOUSE = SANDBOX_WH
+--     SCHEDULE = 'USING CRON 15 8 * * MON-FRI Europe/Copenhagen'
+-- AS
+--     CALL PHARMA_NEWS_SANDBOX.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST_V2(1);
 
 
 -- ============================================================
 -- 10 - Debug checks
--- Use these after Alteryx has written data
 -- ============================================================
 
-
+SELECT COUNT(*) AS STAGING_ROWS
+FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
 
 SELECT
     SUBJECT_GATE_FINAL,
@@ -811,6 +800,10 @@ FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2
 GROUP BY PRIORITY_TIER
 ORDER BY CNT DESC;
 
+SELECT *
+FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+LIMIT 50;
+
 
 -- ============================================================
 -- 11 - Optional manual commands
@@ -823,6 +816,14 @@ ORDER BY CNT DESC;
 -- Test digest with last 30 days:
 -- CALL PHARMA_NEWS_SANDBOX.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST_V2(30);
 
+-- Test email integration only:
+-- CALL SYSTEM$SEND_EMAIL(
+--     'PHARMA_NEWS_EMAIL_INT',
+--     's235701@dtu.dk',
+--     'Test: Pharma News Snowflake Email',
+--     'This is a quick test from Snowflake.'
+-- );
+
 -- Activate daily task:
 -- ALTER TASK PHARMA_NEWS_SANDBOX.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST_V2 RESUME;
 
@@ -831,6 +832,3 @@ ORDER BY CNT DESC;
 
 -- Execute task manually:
 -- EXECUTE TASK PHARMA_NEWS_SANDBOX.NEWS.TASK_SEND_DAILY_PHARMA_NEWS_DIGEST_V2;
-
-SELECT COUNT(*) AS STAGING_ROWS
-FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
