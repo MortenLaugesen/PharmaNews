@@ -22,3 +22,4 @@ ORDER BY RECEIVED_TS_PARSED DESC NULLS LAST
 LIMIT 50;
 
 CALL PHARMA_NEWS_SANDBOX.NEWS.SP_SEND_DAILY_PHARMA_NEWS_DIGEST_V2(30);
+<img width="2550" height="1422" alt="image" src="https://github.com/user-attachments/assets/1b88088e-db9b-4af3-a71e-a85244f01045" />
