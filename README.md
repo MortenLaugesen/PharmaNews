@@ -1,1 +1,2 @@
-<img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/b8f3e0af-d8d5-4994-91ed-3c5c13c62e0a" /><img width="2559" height="1439" alt="image" src="https://github.com/user-attachments/assets/8f0d979b-035e-4d3c-a50d-f9418c4f21ad" />
+SELECT COUNT(*) AS STAGING_ROWS
+FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
