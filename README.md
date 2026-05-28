@@ -1,6 +1,1 @@
--- 2. Check dato-range på dine data
-SELECT
-    MIN(RECEIVED_TS_PARSED) AS OLDEST_NEWS,
-    MAX(RECEIVED_TS_PARSED) AS NEWEST_NEWS,
-    COUNT(*) AS TOTAL_ROWS
-FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN;
+<img width="2560" height="920" alt="image" src="https://github.com/user-attachments/assets/78854a44-1b50-4d8a-870b-b6b20b539dd6" />
