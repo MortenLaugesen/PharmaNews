@@ -1,65 +1,319 @@
-SELECT
-    ARTICLE_TITLE_CLEAN,
-    PRIORITY_TIER,
-    SIGNAL_SCORE,
-    SIGNAL_REASONS,
-    MATCHED_COMPANIES,
-    MATCHED_COMPANY_CATEGORIES,
-    ARTICLE_URL
-FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2
-WHERE PRIORITY_TIER = 'MONITOR'
-ORDER BY SIGNAL_SCORE DESC, RECEIVED_TS_PARSED DESC NULLS LAST
-LIMIT 50;
+-- ============================================================
+-- 05 - Priority tier
+-- Clean scoring logic
+--
+-- Fix:
+-- Uses LIKE ANY instead of loose RLIKE patterns.
+-- This makes normal article titles score correctly.
+-- A row cannot become IMPORTANT only because a company is mentioned.
+-- It must also have a real story signal.
+-- ============================================================
 
-[FinalPharmaNews1.2_2026-06-03-1049.csv](https://github.com/user-attachments/files/28543411/FinalPharmaNews1.2_2026-06-03-1049.csv)
-ARTICLE_TITLE_CLEAN,PRIORITY_TIER,SIGNAL_SCORE,SIGNAL_REASONS,MATCHED_COMPANIES,MATCHED_COMPANY_CATEGORIES,ARTICLE_URL
-"The Oral GLP-1 Tracker: Amid Foundayo growing pains, Jefferies thinks blockbuster 1st year 'doable'",MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej72fjxyxARa80%7EgjB9%7CYf2p
-ASCO: Revolution Medicines confident in RAS leadership as rivals square up,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej0-fjxyxARa80%7EgjB9%7CYf2p
-Executive Editor: Eric Sagonowsky,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejA2fjxyxARa
-Rallybio swerves past Candid pothole to land deal with cancer drug developer Avenzo,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej8%5EfjxyxARa80%7EgjB9%7CYf2p
-Staff Writers: Zoey Becker,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejBmfjxyxARa
-Lilly pens $1.2B deal for Hanmi’s GLP-2 drug being aimed at short bowel syndrome,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej02fjxyxARa80%7EgjB9%7CYf2p
-Agios signs $165M deal for blood disorder drug from Korea’s Oscotec that flunked phase 2 study,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej8qfjxyxARa80%7EgjB9%7CYf2p
-ASCO: Revolution Medicines confident in RAS leadership as rivals square up,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejzyfjxyxARa80%7EgjB9%7CYf2p
-Publisher: Rebecca Willumson,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejB2fjxyxARa
-Oncology solutions from Labcorp,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoej-efjxyxARa
-Editor-in-Chief: Ayla Ellison,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejByfjxyxARa
-"Lilly locks in 5-program R&D pact with China’s Haisco worth up to $3B, but targets unclear",MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej06fjxyxARa80%7EgjB9%7CYf2p
-Lilly pens $1.2B deal for Hanmi’s GLP-2 drug,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejzqfjxyxARa80%7EgjB9%7CYf2p
-Shionogi's COVID antiviral Xocova passes muster with FDA as post-exposure preventative,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz-fjxyxARa80%7EgjB9%7CYf2p
-Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz2fjxyxARa80%7EgjB9%7CYf2p
-Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit to beef up neurology pipeline,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej0DfjxyxARa80%7EgjB9%7CYf2p
-Associate Editor: Fraiser Kansteiner,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejBefjxyxARa
-Healthcare is hard. 43North invests $1M in teams built for it.,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoej-mfjxyxARa
-Senior Editors: Ben Adams,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejA6fjxyxARa
-Deputy Editor: Angus Liu,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejADfjxyxARa
-ASCO: Lilly ties Retevmo to ‘dramatic’ outcomes in early-stage lung cancer with rare RET biomarker,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej8%7CfjxyxARa80%7EgjB9%7CYf2p
-Senior Writer: Kevin Dunleavy,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoejB%7CfjxyxARa
-An insider’s look at LillyDirect,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej9efjxyxARa80%7EgjB9%7CYf2p
-Lilly locks in 5-program R&D pact,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz%5EfjxyxARa80%7EgjB9%7CYf2p
-"Boston, China and the future of biotech",MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej82fjxyxARa80%7EgjB9%7CYf2p
-Healthcare is hard. 43North invests $1M in teams built for it.,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesfaece8nLoej96fjxyxARa
-BioAge CEO talks NLRP3 and ‘pipeline in a pill’ ambitions,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej8-fjxyxARa80%7EgjB9%7CYf2p
-"The Oral GLP-1 Tracker: Amid Foundayo growing pains, Jefferies thinks blockbuster 1st year 'doable'",MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejzDfjxyxARa80%7EgjB9%7CYf2p
-"A year ago, biotech was in its bleakest stretch in a decade. Now IPOs are rebounding and China deals are heating up. John Carroll and a panel of industry leaders dig into the latest Endpoints 100 results and uncover what’s next for the sector.",MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-yd/
-Sh­iono­gi wins US ap­proval for first pill to pre­vent Covid fol­low­ing ex­po­sure,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-z/
-Servier signs $1.55B upfront deal for Edgewise's muscular dystrophy assets,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-o/
-"Summit, Akeso drug reduces death by 34% in China lung cancer study. Here’s what it means",MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-x/
-The cost of a PRV is twice as high as it was three years ago — and it’s likely to stay that way,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-d/
-"FDA's next fee deal, stacked with US incentives, is under White House review",MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-c/
-Oculis’ eye drops for di­a­bet­ic mac­u­lar ede­ma flunk Phase 3 test,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-ju/
-The cost of a PRV is twice as high as it was three years ago — and it’s like­ly to stay that way,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-a/
-Shionogi wins US approval for first pill to prevent Covid following exposure,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-h/
-"Sum­mit, Ake­so drug re­duces death by 34% in Chi­na lung can­cer study. Here’s what it means",MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-jh/
-Servi­er signs $1.55B up­front deal for Edge­wise's mus­cu­lar dy­s­tro­phy as­sets,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-yu/
-Japan's Sh­iono­gi on Mon­day said it won FDA ap­proval,MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-v/
-"Yes, Rev­o­lu­tion Med­i­ci­nes' pan­cre­at­ic can­cer da­ta are that good",MONITOR,0,,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-jj/
-ASCO: Sac-TMT’s massive phase 3 program has a jarring gap. Does Merck plan to close it?,MONITOR,0,,Merck,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefMqfjwzvfRa80%7EgjB9%7CYf2p
-Sales Director: Angelique Alcover,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesjLece8s6oefQ%7CfjwzvfRa
-ASCO: Akeso’s ivonescimab bests PD-1 inhibitor in lung cancer chemo combos,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefC6fjwzvfRa80%7EgjB9%7CYf2p
-Senior Editor: Ben Adams,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesjLece8s6oefP%5EfjwzvfRa
-An insider’s look at LillyDirect,MONITOR,0,,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefNyfjwzvfRa80%7EgjB9%7CYf2p
-ASCO: Revolution Medicines confident in RAS leadership as rivals square up,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefD6fjwzvfRa80%7EgjB9%7CYf2p
-ASCO: Revolution Medicines confident in RAS leadership as rivals square up,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefM%5EfjwzvfRa80%7EgjB9%7CYf2p
-"Legend scientific founder returns to ASCO with new ambition for high-yield, non-gene-editing CAR-T platform",MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefMyfjwzvfRa80%7EgjB9%7CYf2p
-How HER2 biology is shaping next-generation cancer treatment,MONITOR,0,,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesjLece8s6oefFyfjwzvfRa
+CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2 AS
+WITH BASE AS (
+    SELECT
+        C.*,
+
+        LOWER(COALESCE(C.ARTICLE_TITLE_CLEAN, '')) AS TITLE_CONTEXT_LC,
+
+        LOWER(COALESCE(TO_JSON(C.CATEGORY_RESULT), '')) AS CATEGORY_TEXT_LC
+
+    FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_CLASSIFIED C
+    WHERE C.IS_RELEVANT = TRUE
+),
+
+COMPANY_MATCHES AS (
+    SELECT
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN,
+
+        LISTAGG(DISTINCT TC.COMPANY_NAME, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_NAME) AS MATCHED_COMPANIES,
+
+        LISTAGG(DISTINCT TC.COMPANY_CATEGORY, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_CATEGORY) AS MATCHED_COMPANY_CATEGORIES
+
+    FROM BASE B
+    LEFT JOIN PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_TRACKED_COMPANIES TC
+        ON B.TITLE_CONTEXT_LC LIKE '%' || LOWER(TC.COMPANY_NAME) || '%'
+
+    GROUP BY
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN
+),
+
+ENRICHED AS (
+    SELECT
+        B.*,
+
+        COALESCE(CM.MATCHED_COMPANIES, '') AS MATCHED_COMPANIES,
+        COALESCE(CM.MATCHED_COMPANY_CATEGORIES, '') AS MATCHED_COMPANY_CATEGORIES,
+
+        REGEXP_SUBSTR(
+            B.TITLE_CONTEXT_LC,
+            '(\\$|€|£)?[0-9]+(\\.[0-9]+)?\\s?(b|bn|billion|m|million)'
+        ) AS DEAL_VALUE_KEY,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*(\\$|€|£)?[0-9]+(\\.[0-9]+)?\\s?(b|bn|billion).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_1B,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*(\\$|€|£)?[0-9]+(\\.[0-9]+)?\\s?(b|bn|billion).*'
+            )
+            OR REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*(\\$|€|£)?[5-9][0-9]{2,}\\s?(m|million).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_500M
+
+    FROM BASE B
+    LEFT JOIN COMPANY_MATCHES CM
+        ON B.MESSAGE_ID = CM.MESSAGE_ID
+       AND B.ARTICLE_TITLE_CLEAN = CM.ARTICLE_TITLE_CLEAN
+),
+
+FLAGS AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                'a message from %',
+                'brought to you by %',
+                'sponsored by %',
+                '%sponsored by%',
+                '%podcast%',
+                '%webinar%',
+                '%conference%',
+                '%whitepaper%',
+                '%register now%',
+                '%register today%',
+                '%unsubscribe%',
+                '%click here%',
+                '%read in browser%',
+                '%de-risk your program%',
+                '%real-world evidence%',
+                '%action gap%',
+                '%deliver confidence%',
+                '%move to market with confidence%',
+                '%explore our services%',
+                '%fierce ai innovation award%',
+                '%partnerships with sites%',
+                '%biopharma sentiment index%',
+                'the company announced%'
+            )
+            OR REGEXP_LIKE(
+                TITLE_CONTEXT_LC,
+                '.*(editor-in-chief|senior editor|senior writer|executive editor|associate editor|deputy editor|staff writer|staff writers|publisher|sales director|fact sheet|meet .* at asco).*'
+            )
+            THEN TRUE
+            ELSE FALSE
+        END AS IS_PROMOTIONAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%acquisition%',
+                '%buyout%',
+                '%merger%',
+                '%deal%',
+                '%licensing%',
+                '%collaboration%',
+                '%partnership%',
+                '%supply deal%',
+                '%supply agreement%',
+                '%pact%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_DEAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%expansion%',
+                '%construction%',
+                '%facility%',
+                '%site%',
+                '%manufacturing%',
+                '%capacity%',
+                '%capex%',
+                '%investment%',
+                '%invests%',
+                '%new plant%',
+                '%new site%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%new capability%',
+                '%new platform%',
+                '%new modality%',
+                '%fill-finish%',
+                '%fill finish%',
+                '%microbial%',
+                '%mammalian%',
+                '%cell therapy%',
+                '%gene therapy%',
+                '%adc%',
+                '%biosimilar%',
+                '%biosimilars%',
+                '%crispr%',
+                '%car-t%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEW_CAPABILITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%closing%',
+                '%shuttering%',
+                '%divestment%',
+                '%divestiture%',
+                '%site closure%',
+                '%plant closure%',
+                '%business unit%',
+                '%layoffs%',
+                '%job cuts%',
+                '%restructuring%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEGATIVE_BUSINESS_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%fda%',
+                '%approval%',
+                '%approved%',
+                '%regulatory%',
+                '%regulation%',
+                '%tariff%',
+                '%tariffs%',
+                '%supreme court%',
+                '%drug shortages%',
+                '%shortages%',
+                '%review%',
+                '%phase 3%',
+                '%phase iii%',
+                '%clinical hold%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_POLICY_OR_REGULATORY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%coverage%',
+                '%launch%',
+                '%sales outlook%',
+                '%commercial%',
+                '%market access%',
+                '%reimbursement%',
+                '%customer%',
+                '%contract%',
+                '%award%',
+                '%supply%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_COMMERCIAL_SIGNAL,
+
+        CASE
+            WHEN CATEGORY_TEXT_LC LIKE '%competitor_investment_capacity%'
+              OR CATEGORY_TEXT_LC LIKE '%partnership_ma%'
+              OR CATEGORY_TEXT_LC LIKE '%capability_modality%'
+              OR CATEGORY_TEXT_LC LIKE '%clinical_regulatory_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%policy_market_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%commercial_customer_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%financing_market_signal%'
+            THEN TRUE ELSE FALSE
+        END AS HAS_RELEVANT_AI_CATEGORY
+
+    FROM ENRICHED
+),
+
+STORY AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN VALUE_ABOVE_1B THEN TRUE
+            WHEN VALUE_ABOVE_500M THEN TRUE
+            WHEN IS_DEAL_SIGNAL THEN TRUE
+            WHEN IS_SIZE_OR_CAPACITY_SIGNAL THEN TRUE
+            WHEN IS_NEW_CAPABILITY_SIGNAL THEN TRUE
+            WHEN IS_NEGATIVE_BUSINESS_SIGNAL THEN TRUE
+            WHEN IS_POLICY_OR_REGULATORY_SIGNAL THEN TRUE
+            WHEN IS_COMMERCIAL_SIGNAL THEN TRUE
+            ELSE FALSE
+        END AS HAS_STORY_SIGNAL
+
+    FROM FLAGS
+),
+
+SCORED AS (
+    SELECT
+        *,
+
+        IFF(VALUE_ABOVE_1B, 5, 0)
+        + IFF(VALUE_ABOVE_500M, 3, 0)
+        + IFF(IS_DEAL_SIGNAL, 2, 0)
+        + IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 2, 0)
+        + IFF(IS_NEW_CAPABILITY_SIGNAL, 2, 0)
+        + IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 2, 0)
+        + IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 2, 0)
+        + IFF(IS_COMMERCIAL_SIGNAL, 2, 0)
+
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%' AND HAS_STORY_SIGNAL, 3, 0)
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%' AND HAS_STORY_SIGNAL, 1, 0)
+
+        + IFF(HAS_RELEVANT_AI_CATEGORY AND HAS_STORY_SIGNAL, 1, 0)
+
+        + IFF(SUBJECT_GATE_FINAL = 'PASS' AND HAS_STORY_SIGNAL, 1, 0)
+
+        AS SIGNAL_SCORE,
+
+        TRIM(
+            IFF(VALUE_ABOVE_1B, 'Value above 1B; ', '') ||
+            IFF(VALUE_ABOVE_500M, 'Value above 500M; ', '') ||
+            IFF(IS_DEAL_SIGNAL, 'Deal/partnership/M&A signal; ', '') ||
+            IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 'Manufacturing/capacity/investment signal; ', '') ||
+            IFF(IS_NEW_CAPABILITY_SIGNAL, 'Capability/modality signal; ', '') ||
+            IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 'Layoff/closure/divestment signal; ', '') ||
+            IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 'Policy/regulatory signal; ', '') ||
+            IFF(IS_COMMERCIAL_SIGNAL, 'Commercial/customer signal; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%' AND HAS_STORY_SIGNAL, 'Tracked CDMO mentioned in title; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%' AND HAS_STORY_SIGNAL, 'Top 25 pharma company mentioned in title; ', '') ||
+            IFF(HAS_RELEVANT_AI_CATEGORY AND HAS_STORY_SIGNAL, 'Relevant AI category; ', '') ||
+            IFF(SUBJECT_GATE_FINAL = 'PASS' AND HAS_STORY_SIGNAL, 'Strong keyword gate pass; ', '')
+        ) AS SIGNAL_REASONS
+
+    FROM STORY
+)
+
+SELECT
+    *,
+    CASE
+        WHEN IS_PROMOTIONAL_SIGNAL THEN 'DROP'
+        WHEN HAS_STORY_SIGNAL = FALSE THEN 'MONITOR'
+
+        WHEN SIGNAL_SCORE >= 7 THEN 'VERY_IMPORTANT'
+        WHEN SIGNAL_SCORE >= 4 THEN 'IMPORTANT'
+
+        ELSE 'MONITOR'
+    END AS PRIORITY_TIER
+
+FROM SCORED;
+
+
+SELECT
+    PRIORITY_TIER,
+    COUNT(*) AS CNT
+FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2
+GROUP BY PRIORITY_TIER
+ORDER BY CNT DESC;
