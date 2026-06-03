@@ -1,1 +1,6 @@
-<img width="1913" height="1199" alt="image" src="https://github.com/user-attachments/assets/1ff733ae-cf86-470b-ada4-a568aec62b06" />
+SELECT
+    PRIORITY_TIER,
+    COUNT(*) AS CNT
+FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2
+GROUP BY PRIORITY_TIER
+ORDER BY CNT DESC;
