@@ -1,8 +1,2 @@
-SHOW NOTIFICATION INTEGRATIONS LIKE 'PHARMA_NEWS_EMAIL_INT';
 
-CALL SYSTEM$SEND_EMAIL(
-    'PHARMA_NEWS_EMAIL_INT',
-    's235701@dtu.dk',
-    'Test email from Snowflake',
-    'This is a test email from Snowflake.'
-);
+<img width="1902" height="1179" alt="image" src="https://github.com/user-attachments/assets/d96cc35e-8dfd-407d-afec-2cbc92bd8b2c" />
