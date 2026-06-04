@@ -1,6 +1,5 @@
-CALL SYSTEM$SEND_EMAIL(
-    'EMAIL_INT_MORTEN',
-    'morten.laugesen@fujifilm.com',
-    'Test email from Snowflake',
-    'This is a test email from Snowflake.'
-);
+SELECT
+    TO_EMAIL,
+    EMAIL_SUBJECT,
+    LEFT(EMAIL_BODY, 1000) AS EMAIL_BODY_PREVIEW
+FROM PHARMA_NEWS_SANDBOX.NEWS.V_ALTERYX_DAILY_PHARMA_NEWS_EMAIL;
