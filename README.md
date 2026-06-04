@@ -1,5 +1,1 @@
-SELECT
-    TO_EMAIL,
-    EMAIL_SUBJECT,
-    LEFT(EMAIL_BODY, 1000) AS EMAIL_BODY_PREVIEW
-FROM PHARMA_NEWS_SANDBOX.NEWS.V_ALTERYX_DAILY_PHARMA_NEWS_EMAIL;
+<img width="1907" height="1184" alt="image" src="https://github.com/user-attachments/assets/8d1e34cf-6270-4e43-8f1d-5eb0b8d4611d" />
