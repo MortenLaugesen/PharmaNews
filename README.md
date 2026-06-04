@@ -1,52 +1,148 @@
-[FinalPharmaNews1.2_2026-06-04-0730.csv](https://github.com/user-attachments/files/28581451/FinalPharmaNews1.2_2026-06-04-0730.csv)
-RECEIVED_TS_PARSED,EMAIL_SOURCE_TYPE,ARTICLE_TITLE,PRIORITY_TIER,SIGNAL_SCORE,SIGNAL_REASONS,MATCHED_COMPANIES,MATCHED_COMPANY_CATEGORIES,ARTICLE_URL
-17:57:50.000000000Z,ENDPOINTS,Lilly reports new data on PCSK9 base editing gene therapy from Verve buyout,VERY_IMPORTANT,14,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-b/
-20:20:51.000000000Z,FIERCE,Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3,VERY_IMPORTANT,13,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFAqba7gC2d6QjsbsrA77A6%7CBGr8zDNprxpa
-19:41:35.000000000Z,FIERCE,Lilly pens $1.2B deal for Hanmi’s GLP-2 drug,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejzqfjxyxARa80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,"Lilly locks in 5-program R&D pact with China’s Haisco worth up to $3B, but targets unclear",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej06fjxyxARa80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,Lilly pens $1.2B deal for Hanmi’s GLP-2 drug being aimed at short bowel syndrome,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej02fjxyxARa80%7EgjB9%7CYf2p
-16:21:42.000000000Z,FIERCE,Lilly locks in 5-program R&D pact with China’s Haisco worth up to $3B,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceskaece8%5Eqoeet6fjvFF3ga80%7EgjB9%7CYf2p
-15:03:32.000000000Z,ENDPOINTS,"Servier pulled off one of the largest upfront asset deals of 2026 by shelling out $1.55 billion for Edgewise Therapeutics' muscular dystrophy treatments, surpassing the $1.2 billion upfront that AstraZeneca paid in an obesity pact with CSPC Pharmaceutical in January. The banner year continues for Servier after it purchased Day One Biopharmaceuticals. Get the details from Kyle LaHucik here",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://e.endpointsnews.com/t/t-l-whivjd-tkukirkro-a/
-12:31:07.000000000Z,ENDPOINTS,Pfizer strikes Innovent deal worth up to $10.5B for a dozen cancer programs,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://e.endpointsnews.com/t/t-l-whtkyiy-tkukirkro-k/
-19:56:49.000000000Z,FIERCE,"Pfizer pens $10B, 12-drug deal with Innovent in broad bet on Chinese cancer med innovation",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodB-efjsDOnja80%7EgjB9%7CYf2p
-19:56:49.000000000Z,FIERCE,"Pfizer pens $10B, 12-drug deal with Innovent",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodB8-fjsDOnja80%7EgjB9%7CYf2p
-16:39:55.000000000Z,FIERCE,Fierce Pharma Asia—More China biotech hawkishness; Pfizer’s $10B Innovent deal; Astellas’ roadmap,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerBqece8%7C6od-0%5EfjsnN-Pa80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,Lilly inks deals to buy 3 vaccine developers for up to $3.8B as M&A spree continues,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4%5E2fjkBj7%7Ca80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit to beef up neurology pipeline,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej0DfjxyxARa80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz2fjxyxARa80%7EgjB9%7CYf2p
-19:13:39.000000000Z,ENDPOINTS,Servier signs $1.55B upfront deal for Edgewise's muscular dystrophy assets,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-o/
-19:13:39.000000000Z,ENDPOINTS,Servi­er signs $1.55B up­front deal for Edge­wise's mus­cu­lar dy­s­tro­phy as­sets,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-yu/
-15:49:44.000000000Z,ENDPOINTS,Pfiz­er strikes In­novent deal worth up to $10.5B for a dozen can­cer pro­grams,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtiill-tkukirkro-jj/
-15:06:04.000000000Z,ENDPOINTS,Ab­b­Vie said the FDA has ap­proved an an­ti­body-drug con­ju­gate it ob­tained as a part of its $10.1 bil­lion,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtltuk-tkukirkro-yu/
-15:46:43.000000000Z,FIERCE,Apogee bags $1.3B Blackstone royalty funding deal,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB%5Eba7gD6d6ODBbsr%7CDB7a%7CBGr8zDNprxpa
-15:46:58.000000000Z,ENDPOINTS,Three vaccine biotechs to be bought by Lilly for up to $3.8B,VERY_IMPORTANT,10,Value above 1B; Value above 500M; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whjiklk-tkukirkro-m/
-17:23:26.000000000Z,FIERCE,How HER2 biology is shaping next-generation cancer treatment,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesjLece8s6oefFyfjwzvfRa
-12:07:58.000000000Z,FIERCE,Radiopharmaceutical outfit Lantheus mulls potential $7B takeover by Curium: Bloomberg,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N3gbsqReSj6%7CBGr8zDNprxpa
-20:34:15.000000000Z,FIERCE,Radiopharmaceutical outfit Lantheus mulls potential $7B takeover by Curium,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFt2ba7gv2d6Nq-bsqNDPjq%7CBGr8zDNprxpa
-17:57:50.000000000Z,ENDPOINTS,Lil­ly re­ports new da­ta on PC­SK9 base edit­ing gene ther­a­py from Verve buy­out,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-jr/
-17:57:50.000000000Z,ENDPOINTS,Three vac­cine biotechs to be bought by Lil­ly for up to $3.8B,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-yu/
-17:58:58.000000000Z,ENDPOINTS,Apogee lands Black­stone $800M roy­al­ty deal to move Dupix­ent ri­val to­ward Phase 3,VERY_IMPORTANT,8,Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-ji/
-17:58:58.000000000Z,ENDPOINTS,Apogee lands Blackstone $800M royalty deal to move Dupixent rival toward Phase 3,VERY_IMPORTANT,8,Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-b/
-17:57:50.000000000Z,ENDPOINTS,"it ex­pects to achieve twice as much in fis­cal year 2030 sales ver­sus last year's for the five prod­ucts that in­clude Pad­cev, stom­ach can­cer treat­ment Vy­loy and va­so­mo­tor symp­toms med­i­cine Veozah. Those drugs, along with Iz­er­vay and Xospa­ta, made a com­bined 480.3 bil­lion yen",VERY_IMPORTANT,8,Value above 1B; Value above 500M;,,,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-yh/
-16:38:18.000000000Z,FIERCE,"Viridian, awaiting FDA decision, taps WuXi Bio in eye drug supply deal",VERY_IMPORTANT,7,Deal/partnership/M&A signal; Policy/regulatory signal; Commercial/customer signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceroaece7yqodzDyfjjgbAza80%7EgjB9%7CYf2p
-17:23:26.000000000Z,FIERCE,ASCO: Lilly exec points to ‘nutty’ 100% response rate for in vivo CAR-T as justifying Kelonia buyout,IMPORTANT,6,Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefM2fjwzvfRa80%7EgjB9%7CYf2p
-16:21:42.000000000Z,FIERCE,ASCO: Gilead touts ADC ovarian cancer data as proof Tubulis buyout was ‘a good deal’,IMPORTANT,6,Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceskaece8%5EqoeevDfjvFF3ga80%7EgjB9%7CYf2p
-16:39:55.000000000Z,FIERCE,Regulatory tracker: J&J grows Tremfya label stateside; AbbVie nets EU Venclyxto expansion,IMPORTANT,6,Manufacturing/capacity/investment signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,"AbbVie, J&J","Hybrid, Top 25, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerBqece8%7C6od-z2fjsnN-Pa80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,"After prior FDA manufacturing snub, Gilead's hepatitis D med Hepcludex nabs US nod",IMPORTANT,6,Manufacturing/capacity/investment signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4%5E-fjkBj7%7Ca80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote,IMPORTANT,6,Capability/modality signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4wqfjkBj7%7Ca80%7EgjB9%7CYf2p
-17:51:43.000000000Z,ENDPOINTS,AbbVie clinches FDA approval for ultra-rare blood cancer ADC from ImmunoGen purchase,IMPORTANT,6,Capability/modality signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AbbVie,"Hybrid, Top 25",https://e.endpointsnews.com/t/t-l-whtpkk-tkukirkro-h/
-17:58:58.000000000Z,ENDPOINTS,"roy­al­ty deal with Black­stone Life Sci­ences, a ma­jor pact that in­cludes the op­tion to get up to an ad­di­tion­al $500 mil­lion via debt from the biotech in­dus­try's largest pri­vate in­vest­ment fund",IMPORTANT,6,Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-jh/
-14:27:26.000000000Z,FIERCE,Medtronic inks $650M deal,IMPORTANT,6,Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB%7Cba7gD%5Ed6NEPbsq%5Brswa%7CBGr8zDNprxpa
-14:27:26.000000000Z,FIERCE,Medtronic inks $650M deal for SPR Therapeutics,IMPORTANT,6,Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB%7Cba7gD%5Ed6NFgbsq%5Brswa%7CBGr8zDNprxpa
-14:20:46.000000000Z,FIERCE,"After prior FDA manufacturing snub, Gilead's hepatitis D med",IMPORTANT,6,Manufacturing/capacity/investment signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFA2ba7gCDd6NBDbsqTmCD6%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,"Parabilis, fresh from inking Regeneron pact, plans IPO to fund tumor drug’s phase 3 push",IMPORTANT,6,Deal/partnership/M&A signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Regeneron,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N3bbsqReSj6%7CBGr8zDNprxpa
-19:13:39.000000000Z,ENDPOINTS,"FDA's next fee deal, stacked with US incentives, is under White House review",IMPORTANT,5,Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-c/
-17:44:30.000000000Z,ENDPOINTS,"FDA's next fee deal, stacked with US in­cen­tives, is un­der White House re­view",IMPORTANT,5,Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtiudt-tkukirkro-x/
-13:02:59.000000000Z,FIERCE,"As calls for COINS Act expansion grow, will new rules sweep up China biotech licensing?",IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4vmfjkBj7%7Ca80%7EgjB9%7CYf2p
-15:06:04.000000000Z,ENDPOINTS,Ab­b­Vie clinch­es FDA ap­proval for ul­tra-rare blood can­cer ADC from Im­muno­Gen pur­chase,IMPORTANT,5,Capability/modality signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtltuk-tkukirkro-yk/
-13:35:41.000000000Z,FIERCE,"GLP-1 manufacturer CordenPharma strikes deal for peptide CDMO, lining up new production sites in US and China",IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerj6ece7sqodse-fjhfS-Ea80%7EgjB9%7CYf2p
-17:58:58.000000000Z,ENDPOINTS,WuXi Bio signs manufacturing deal with Viridian as Biosecure threat continues to erode,IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-d/
-19:41:35.000000000Z,FIERCE,Lilly locks in 5-program R&D pact,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz%5EfjxyxARa80%7EgjB9%7CYf2p
-17:23:26.000000000Z,FIERCE,ASCO: Sac-TMT’s massive phase 3 program has a jarring gap. Does Merck plan to close it?,IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Merck,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefMqfjwzvfRa80%7EgjB9%7CYf2p
-16:21:42.000000000Z,FIERCE,Gilead touts ADC ovarian cancer data,IMPORTANT,4,Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceskaece8%5Eqoeet-fjvFF3ga80%7EgjB9%7CYf2p
-15:03:32.000000000Z,ENDPOINTS,"Lilly enters GLP-2 space in deal with Korea's Hanmi, also forges discovery pact with China's Haisco",IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whivjd-tkukirkro-b/
+-- ============================================================
+-- 06 - Final digest queue
+-- Cleaner final list for review / later Alteryx email
+--
+-- Purpose:
+-- 1. Keeps only IMPORTANT and VERY_IMPORTANT
+-- 2. Removes promo/noise rows
+-- 3. Removes article fragments and very long newsletter snippets
+-- 4. Deduplicates similar stories better
+-- ============================================================
+
+CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2 AS
+WITH CANDIDATES AS (
+    SELECT
+        RECEIVED_TS_PARSED,
+        EMAIL_SOURCE_TYPE,
+        ARTICLE_TITLE_CLEAN AS ARTICLE_TITLE,
+        ARTICLE_URL,
+        PRIORITY_TIER,
+        SIGNAL_SCORE,
+        SIGNAL_REASONS,
+        MATCHED_COMPANIES,
+        MATCHED_COMPANY_CATEGORIES,
+        CATEGORY_RESULT,
+        DEAL_VALUE_KEY,
+
+        LOWER(
+            TRIM(
+                REGEXP_REPLACE(
+                    REGEXP_REPLACE(
+                        REGEXP_REPLACE(
+                            ARTICLE_TITLE_CLEAN,
+                            '\\b(report|reports|asset|assets|drug|drugs|in|us|with|to|bag|bags|taps|tap|capping|tenure|phase|trial|the|a|an|and|of|for|on|by|from|worth|up|new|data|program|programs)\\b',
+                            ' '
+                        ),
+                        '[^a-zA-Z0-9 ]',
+                        ' '
+                    ),
+                    '\\s+',
+                    ' '
+                )
+            )
+        ) AS NORMALIZED_TITLE
+
+    FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2
+
+    WHERE PRIORITY_TIER IN ('VERY_IMPORTANT', 'IMPORTANT')
+
+      -- Remove obvious promo/noise
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE 'a message from %'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE 'brought to you by %'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE 'sponsored by %'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%sponsored by%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%podcast%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%webinar%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%conference%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%whitepaper%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%register now%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%register today%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%unsubscribe%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%click here%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%read in browser%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%de-risk your program%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%real-world evidence%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%action gap%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%deliver confidence%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%move to market with confidence%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%explore our services%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%fierce ai innovation award%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%biopharma sentiment index%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE '%partnerships with sites%'
+      AND LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) NOT LIKE 'fierce pharma asia%'
+
+      -- Remove editorial/admin rows
+      AND NOT LOWER(COALESCE(ARTICLE_TITLE_CLEAN, '')) RLIKE
+          '(editor-in-chief|senior editor|senior writer|executive editor|associate editor|deputy editor|staff writer|staff writers|publisher|sales director|fact sheet|meet .* at asco)'
+
+      -- Remove text fragments that start with lower-case
+      AND NOT REGEXP_LIKE(ARTICLE_TITLE_CLEAN, '^[a-z]')
+
+      -- Remove newsletter paragraph snippets masquerading as article titles
+      AND LENGTH(ARTICLE_TITLE_CLEAN) BETWEEN 20 AND 180
+),
+
+STORY_KEYS AS (
+    SELECT
+        *,
+
+        CASE
+            -- If there is a company + value, this is usually the strongest dedupe key
+            WHEN DEAL_VALUE_KEY IS NOT NULL
+             AND COALESCE(NULLIF(MATCHED_COMPANIES, ''), '') <> ''
+            THEN
+                COALESCE(NULLIF(MATCHED_COMPANIES, ''), 'NO_COMPANY')
+                || '|'
+                || DEAL_VALUE_KEY
+
+            -- If only value exists, combine value with shortened title
+            WHEN DEAL_VALUE_KEY IS NOT NULL
+            THEN
+                DEAL_VALUE_KEY
+                || '|'
+                || LEFT(NORMALIZED_TITLE, 40)
+
+            -- Otherwise use company + shortened normalized title
+            ELSE
+                COALESCE(NULLIF(MATCHED_COMPANIES, ''), 'NO_COMPANY')
+                || '|'
+                || LEFT(NORMALIZED_TITLE, 45)
+        END AS STORY_KEY
+
+    FROM CANDIDATES
+),
+
+DEDUPED AS (
+    SELECT
+        *,
+        ROW_NUMBER() OVER (
+            PARTITION BY STORY_KEY
+            ORDER BY
+                CASE
+                    WHEN PRIORITY_TIER = 'VERY_IMPORTANT' THEN 1
+                    WHEN PRIORITY_TIER = 'IMPORTANT' THEN 2
+                    ELSE 3
+                END,
+                SIGNAL_SCORE DESC,
+                RECEIVED_TS_PARSED DESC NULLS LAST,
+                LENGTH(ARTICLE_TITLE) DESC
+        ) AS RN
+    FROM STORY_KEYS
+)
+
+SELECT
+    RECEIVED_TS_PARSED,
+    EMAIL_SOURCE_TYPE,
+    ARTICLE_TITLE,
+    ARTICLE_URL,
+    PRIORITY_TIER,
+    SIGNAL_SCORE,
+    SIGNAL_REASONS,
+    MATCHED_COMPANIES,
+    MATCHED_COMPANY_CATEGORIES,
+    CATEGORY_RESULT,
+    DEAL_VALUE_KEY,
+    STORY_KEY
+
+FROM DEDUPED
+WHERE RN = 1;
