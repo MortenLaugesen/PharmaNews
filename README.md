@@ -1,60 +1,320 @@
-[FinalPharmaNews1.2_2026-06-04-0739.csv](https://github.com/user-attachments/files/28581694/FinalPharmaNews1.2_2026-06-04-0739.csv)
-RECEIVED_TS_PARSED,EMAIL_SOURCE_TYPE,ARTICLE_TITLE,PRIORITY_TIER,SIGNAL_SCORE,SIGNAL_REASONS,MATCHED_COMPANIES,MATCHED_COMPANY_CATEGORIES,ARTICLE_URL
-17:57:50.000000000Z,ENDPOINTS,Lilly reports new data on PCSK9 base editing gene therapy from Verve buyout,VERY_IMPORTANT,14,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-b/
-20:20:51.000000000Z,FIERCE,Apogee bags $1.3B Blackstone royalty funding deal to push eczema challenger into phase 3,VERY_IMPORTANT,13,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFAqba7gC2d6QjsbsrA77A6%7CBGr8zDNprxpa
-19:41:35.000000000Z,FIERCE,"Lilly locks in 5-program R&D pact with China’s Haisco worth up to $3B, but targets unclear",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej06fjxyxARa80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,Lilly pens $1.2B deal for Hanmi’s GLP-2 drug being aimed at short bowel syndrome,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej02fjxyxARa80%7EgjB9%7CYf2p
-12:31:07.000000000Z,ENDPOINTS,Pfizer strikes Innovent deal worth up to $10.5B for a dozen cancer programs,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://e.endpointsnews.com/t/t-l-whtkyiy-tkukirkro-k/
-19:56:49.000000000Z,FIERCE,"Pfizer pens $10B, 12-drug deal with Innovent in broad bet on Chinese cancer med innovation",VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodB-efjsDOnja80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,Lilly inks deals to buy 3 vaccine developers for up to $3.8B as M&A spree continues,VERY_IMPORTANT,12,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4%5E2fjkBj7%7Ca80%7EgjB9%7CYf2p
-19:41:35.000000000Z,FIERCE,Servier inks $2.6B buyout of Edgewise’s muscular dystrophy unit to beef up neurology pipeline,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoej0DfjxyxARa80%7EgjB9%7CYf2p
-19:13:39.000000000Z,ENDPOINTS,Servi­er signs $1.55B up­front deal for Edge­wise's mus­cu­lar dy­s­tro­phy as­sets,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-yu/
-19:13:39.000000000Z,ENDPOINTS,Servier signs $1.55B upfront deal for Edgewise's muscular dystrophy assets,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-o/
-15:49:44.000000000Z,ENDPOINTS,Pfiz­er strikes In­novent deal worth up to $10.5B for a dozen can­cer pro­grams,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtiill-tkukirkro-jj/
-15:06:04.000000000Z,ENDPOINTS,Ab­b­Vie said the FDA has ap­proved an an­ti­body-drug con­ju­gate it ob­tained as a part of its $10.1 bil­lion,VERY_IMPORTANT,11,Value above 1B; Value above 500M; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtltuk-tkukirkro-yu/
-17:23:26.000000000Z,FIERCE,How HER2 biology is shaping next-generation cancer treatment,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6cesjLece8s6oefFyfjwzvfRa
-12:07:58.000000000Z,FIERCE,Radiopharmaceutical outfit Lantheus mulls potential $7B takeover by Curium: Bloomberg,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N3gbsqReSj6%7CBGr8zDNprxpa
-17:57:50.000000000Z,ENDPOINTS,Lil­ly re­ports new da­ta on PC­SK9 base edit­ing gene ther­a­py from Verve buy­out,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-jr/
-17:57:50.000000000Z,ENDPOINTS,Three vac­cine biotechs to be bought by Lil­ly for up to $3.8B,VERY_IMPORTANT,9,Value above 1B; Value above 500M; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjlkit-tkukirkro-yu/
-17:58:58.000000000Z,ENDPOINTS,Apogee lands Blackstone $800M royalty deal to move Dupixent rival toward Phase 3,VERY_IMPORTANT,8,Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-b/
-17:58:58.000000000Z,ENDPOINTS,Apogee lands Black­stone $800M roy­al­ty deal to move Dupix­ent ri­val to­ward Phase 3,VERY_IMPORTANT,8,Value above 500M; Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-ji/
-16:38:18.000000000Z,FIERCE,"Viridian, awaiting FDA decision, taps WuXi Bio in eye drug supply deal",VERY_IMPORTANT,7,Deal/partnership/M&A signal; Policy/regulatory signal; Commercial/customer signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceroaece7yqodzDyfjjgbAza80%7EgjB9%7CYf2p
-17:23:26.000000000Z,FIERCE,ASCO: Lilly exec points to ‘nutty’ 100% response rate for in vivo CAR-T as justifying Kelonia buyout,IMPORTANT,6,Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefM2fjwzvfRa80%7EgjB9%7CYf2p
-16:21:42.000000000Z,FIERCE,ASCO: Gilead touts ADC ovarian cancer data as proof Tubulis buyout was ‘a good deal’,IMPORTANT,6,Deal/partnership/M&A signal; Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceskaece8%5EqoeevDfjvFF3ga80%7EgjB9%7CYf2p
-16:39:55.000000000Z,FIERCE,Regulatory tracker: J&J grows Tremfya label stateside; AbbVie nets EU Venclyxto expansion,IMPORTANT,6,Manufacturing/capacity/investment signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,"AbbVie, J&J","Hybrid, Top 25, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerBqece8%7C6od-z2fjsnN-Pa80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,"After prior FDA manufacturing snub, Gilead's hepatitis D med Hepcludex nabs US nod",IMPORTANT,6,Manufacturing/capacity/investment signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4%5E-fjkBj7%7Ca80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,FDA delays ruling on AstraZeneca’s breast cancer drug after negative adcomm vote,IMPORTANT,6,Capability/modality signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4wqfjkBj7%7Ca80%7EgjB9%7CYf2p
-17:51:43.000000000Z,ENDPOINTS,AbbVie clinches FDA approval for ultra-rare blood cancer ADC from ImmunoGen purchase,IMPORTANT,6,Capability/modality signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AbbVie,"Hybrid, Top 25",https://e.endpointsnews.com/t/t-l-whtpkk-tkukirkro-h/
-14:27:26.000000000Z,FIERCE,Medtronic inks $650M deal,IMPORTANT,6,Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB%7Cba7gD%5Ed6NEPbsq%5Brswa%7CBGr8zDNprxpa
-14:27:26.000000000Z,FIERCE,Medtronic inks $650M deal for SPR Therapeutics,IMPORTANT,6,Value above 500M; Deal/partnership/M&A signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB%7Cba7gD%5Ed6NFgbsq%5Brswa%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,"Parabilis, fresh from inking Regeneron pact, plans IPO to fund tumor drug’s phase 3 push",IMPORTANT,6,Deal/partnership/M&A signal; Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Regeneron,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N3bbsqReSj6%7CBGr8zDNprxpa
-19:13:39.000000000Z,ENDPOINTS,"FDA's next fee deal, stacked with US incentives, is under White House review",IMPORTANT,5,Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whijjll-tkukirkro-c/
-17:44:30.000000000Z,ENDPOINTS,"FDA's next fee deal, stacked with US in­cen­tives, is un­der White House re­view",IMPORTANT,5,Deal/partnership/M&A signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtiudt-tkukirkro-x/
-13:02:59.000000000Z,FIERCE,"As calls for COINS Act expansion grow, will new rules sweep up China biotech licensing?",IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4vmfjkBj7%7Ca80%7EgjB9%7CYf2p
-15:06:04.000000000Z,ENDPOINTS,Ab­b­Vie clinch­es FDA ap­proval for ul­tra-rare blood can­cer ADC from Im­muno­Gen pur­chase,IMPORTANT,5,Capability/modality signal; Policy/regulatory signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whtltuk-tkukirkro-yk/
-13:35:41.000000000Z,FIERCE,"GLP-1 manufacturer CordenPharma strikes deal for peptide CDMO, lining up new production sites in US and China",IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerj6ece7sqodse-fjhfS-Ea80%7EgjB9%7CYf2p
-17:58:58.000000000Z,ENDPOINTS,WuXi Bio signs manufacturing deal with Viridian as Biosecure threat continues to erode,IMPORTANT,5,Deal/partnership/M&A signal; Manufacturing/capacity/investment signal; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-d/
-19:41:35.000000000Z,FIERCE,Lilly locks in 5-program R&D pact,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesfaece8nLoejz%5EfjxyxARa80%7EgjB9%7CYf2p
-17:23:26.000000000Z,FIERCE,ASCO: Sac-TMT’s massive phase 3 program has a jarring gap. Does Merck plan to close it?,IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Merck,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesjLece8s6oefD2fjwzvfRa80%7EgjB9%7CYf2p
-16:21:42.000000000Z,FIERCE,Gilead touts ADC ovarian cancer data,IMPORTANT,4,Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ceskaece8%5Eqoeet-fjvFF3ga80%7EgjB9%7CYf2p
-15:03:32.000000000Z,ENDPOINTS,"Lilly enters GLP-2 space in deal with Korea's Hanmi, also forges discovery pact with China's Haisco",IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whivjd-tkukirkro-b/
-14:16:26.000000000Z,FIERCE,"AstraZeneca, after phase 3 miss, posts subgroup data behind pitch for rare disease approval",IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cesg6ece8qLodEtDfj%5Ewr8Ea80%7EgjB9%7CYf2p
-19:56:49.000000000Z,FIERCE,Gilead scraps lead arthritis drug from $405M MiroBio buyout in latest blow to BTLA agonist field,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Gilead,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodB-DfjsDOnja80%7EgjB9%7CYf2p
-19:56:49.000000000Z,FIERCE,ASCO: Lilly debuts ‘strong’ bladder cancer data for potential Padcev challenger,IMPORTANT,4,Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodB-6fjsDOnja80%7EgjB9%7CYf2p
-19:56:49.000000000Z,FIERCE,AstraZeneca gains 2nd bladder cancer nod in key expansion for Imfinzi,IMPORTANT,4,Manufacturing/capacity/investment signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer86ece8eLodBA%7CfjsDOnja80%7EgjB9%7CYf2p
-16:39:55.000000000Z,FIERCE,Regulatory tracker: J&J grows Tremfya label stateside,IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,J&J,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerBqece8%7C6od-yefjsnN-Pa80%7EgjB9%7CYf2p
-15:49:44.000000000Z,ENDPOINTS,"AstraZeneca seeks path for failed antibody; Imfinzi, Tremfya get label expansions",IMPORTANT,4,Manufacturing/capacity/investment signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://e.endpointsnews.com/t/t-l-whtiill-tkukirkro-u/
-14:13:15.000000000Z,FIERCE,"CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",IMPORTANT,4,Commercial/customer signal; Top 25 pharma company mentioned in title; Relevant AI category;,"Eli Lilly, Lilly",Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cerAaece8fLod7b-fjr%7C0e-a80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,Lilly inks deals to buy 3 vaccine developers,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4tqfjkBj7%7Ca80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,Lilly preps for ph. 2 launch after Verve gene editor cuts cholesterol on par with PCSK9 inhibitors,IMPORTANT,4,Commercial/customer signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4v-fjkBj7%7Ca80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,Novartis ‘always looking’ for further ways to shuttle drugs to brain despite run of recent deals,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Novartis,Top 25,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4v%5EfjkBj7%7Ca80%7EgjB9%7CYf2p
-13:02:59.000000000Z,FIERCE,"With Elahere building steam, AbbVie nets FDA nod for another ImmunoGen cancer asset",IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AbbVie,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6cer-qece8faod4t%5EfjkBj7%7Ca80%7EgjB9%7CYf2p
-17:51:43.000000000Z,ENDPOINTS,"Lilly's Foundayo and Zepbound to gain CVS coverage, lifting sales outlook",IMPORTANT,4,Commercial/customer signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://e.endpointsnews.com/t/t-l-whtpkk-tkukirkro-i/
-17:58:58.000000000Z,ENDPOINTS,Hen­der­son now has an an­swer for Apogee's share­hold­ers: No. The au­toim­mune dis­ease drug de­vel­op­er on Wednes­day se­cured an up to $800 mil­lion,IMPORTANT,4,Value above 500M; Relevant AI category;,,,https://e.endpointsnews.com/t/t-l-whjdjdd-tkukirkro-jd/
-12:07:58.000000000Z,FIERCE,"AstraZeneca, Daiichi beat Gilead to first-line TNBC with FDA nod for Datroway",IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,"AstraZeneca, Gilead",Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N2CbsqReSj6%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,"ASCO: Merck, Kelun's sac-TMT ADC combo beats Keytruda by 65% on progression in first-line lung cancer",IMPORTANT,4,Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Merck,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N2AbsqReSj6%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,"Daiichi, AstraZeneca’s Enhertu breaks into early breast cancer with dual FDA approvals",IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,AstraZeneca,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N2zbsqReSj6%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,Analysts ‘shaking heads’ after Regeneron melanoma drug fails to beat Keytruda in phase 3 trial,IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Regeneron,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N2DbsqReSj6%7CBGr8zDNprxpa
-12:07:58.000000000Z,FIERCE,Has Novartis’ T-Charge been overtaken by in vivo CAR-Ts? Execs argue there’s room for both,IMPORTANT,4,Capability/modality signal; Top 25 pharma company mentioned in title; Relevant AI category;,Novartis,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFB6ba7gEed6N2RbsqReSj6%7CBGr8zDNprxpa
-20:34:15.000000000Z,FIERCE,"Regulatory tracker: After US nod, Pfizer's Braftovi racks up colorectal cancer wins in EU, Canada",IMPORTANT,4,Policy/regulatory signal; Top 25 pharma company mentioned in title; Relevant AI category;,Pfizer,"Hybrid, Top 25",https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFt2ba7gv2d6NrhbsqNDPjq%7CBGr8zDNprxpa
-13:38:43.000000000Z,FIERCE,Lilly pens $202M deal for preclinical DNA delivery biotech Engage as M&A streak continues,IMPORTANT,4,Deal/partnership/M&A signal; Top 25 pharma company mentioned in title; Relevant AI category;,Lilly,Top 25,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6kFt%7Cba7gv%7Cd6E7rbsozjt%7Cq%7CBGr8zDNprxpa
+-- ============================================================
+-- 05 - Priority tier
+-- Clean scoring logic
+--
+-- Important:
+-- A row cannot become IMPORTANT just because a company is mentioned.
+-- It must also have a real story signal.
+--
+-- Fix:
+-- More careful value detection so HER2 biology and PCSK9 base
+-- are not interpreted as 2B and 9B.
+-- ============================================================
+
+CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2 AS
+WITH BASE AS (
+    SELECT
+        C.*,
+
+        LOWER(
+            TRIM(
+                REGEXP_REPLACE(
+                    REPLACE(COALESCE(C.ARTICLE_TITLE_CLEAN, ''), CHR(173), ''),
+                    '\\s+',
+                    ' '
+                )
+            )
+        ) AS TITLE_CONTEXT_LC,
+
+        LOWER(COALESCE(TO_JSON(C.CATEGORY_RESULT), '')) AS CATEGORY_TEXT_LC
+
+    FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_CLASSIFIED C
+    WHERE C.IS_RELEVANT = TRUE
+),
+
+COMPANY_MATCHES AS (
+    SELECT
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN,
+
+        LISTAGG(DISTINCT TC.COMPANY_NAME, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_NAME) AS MATCHED_COMPANIES,
+
+        LISTAGG(DISTINCT TC.COMPANY_CATEGORY, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_CATEGORY) AS MATCHED_COMPANY_CATEGORIES
+
+    FROM BASE B
+    LEFT JOIN PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_TRACKED_COMPANIES TC
+        ON B.TITLE_CONTEXT_LC LIKE '%' || LOWER(TC.COMPANY_NAME) || '%'
+
+    GROUP BY
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN
+),
+
+ENRICHED AS (
+    SELECT
+        B.*,
+
+        COALESCE(CM.MATCHED_COMPANIES, '') AS MATCHED_COMPANIES,
+        COALESCE(CM.MATCHED_COMPANY_CATEGORIES, '') AS MATCHED_COMPANY_CATEGORIES,
+
+        REGEXP_SUBSTR(
+            B.TITLE_CONTEXT_LC,
+            '((\\$|€|£)\\s?[0-9]+(\\.[0-9]+)?\\s?(b|bn|m)|\\b[0-9]+(\\.[0-9]+)?(b|bn|m)\\b|\\b[0-9]+(\\.[0-9]+)?\\s?(billion|million)\\b)'
+        ) AS DEAL_VALUE_KEY,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\\$|€|£)\\s?[0-9]+(\\.[0-9]+)?\\s?(b|bn)|\\b[0-9]+(\\.[0-9]+)?(b|bn)\\b|\\b[0-9]+(\\.[0-9]+)?\\s?billion\\b).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_1B,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\\$|€|£)\\s?[0-9]+(\\.[0-9]+)?\\s?(b|bn)|\\b[0-9]+(\\.[0-9]+)?(b|bn)\\b|\\b[0-9]+(\\.[0-9]+)?\\s?billion\\b).*'
+            )
+            OR REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\\$|€|£)\\s?[5-9][0-9]{2,}\\s?m|\\b[5-9][0-9]{2,}m\\b|\\b[5-9][0-9]{2,}\\s?million\\b).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_500M
+
+    FROM BASE B
+    LEFT JOIN COMPANY_MATCHES CM
+        ON B.MESSAGE_ID = CM.MESSAGE_ID
+       AND B.ARTICLE_TITLE_CLEAN = CM.ARTICLE_TITLE_CLEAN
+),
+
+FLAGS AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                'a message from %',
+                'brought to you by %',
+                'sponsored by %',
+                '%sponsored by%',
+                '%podcast%',
+                '%webinar%',
+                '%conference%',
+                '%whitepaper%',
+                '%register now%',
+                '%register today%',
+                '%unsubscribe%',
+                '%click here%',
+                '%read in browser%',
+                '%de-risk your program%',
+                '%real-world evidence%',
+                '%action gap%',
+                '%deliver confidence%',
+                '%move to market with confidence%',
+                '%explore our services%',
+                '%fierce ai innovation award%',
+                '%partnerships with sites%',
+                '%biopharma sentiment index%',
+                'the company announced%'
+            )
+            OR REGEXP_LIKE(
+                TITLE_CONTEXT_LC,
+                '.*(editor-in-chief|senior editor|senior writer|executive editor|associate editor|deputy editor|staff writer|staff writers|publisher|sales director|fact sheet|meet .* at asco).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_PROMOTIONAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%acquisition%',
+                '%buyout%',
+                '%merger%',
+                '%deal%',
+                '%licensing%',
+                '%collaboration%',
+                '%partnership%',
+                '%supply deal%',
+                '%supply agreement%',
+                '%pact%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_DEAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%expansion%',
+                '%construction%',
+                '%facility%',
+                '%site%',
+                '%manufacturing%',
+                '%capacity%',
+                '%capex%',
+                '%investment%',
+                '%invests%',
+                '%new plant%',
+                '%new site%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%new capability%',
+                '%new platform%',
+                '%new modality%',
+                '%fill-finish%',
+                '%fill finish%',
+                '%microbial%',
+                '%mammalian%',
+                '%cell therapy%',
+                '%gene therapy%',
+                '%adc%',
+                '%biosimilar%',
+                '%biosimilars%',
+                '%crispr%',
+                '%car-t%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEW_CAPABILITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%closing%',
+                '%shuttering%',
+                '%divestment%',
+                '%divestiture%',
+                '%site closure%',
+                '%plant closure%',
+                '%business unit%',
+                '%layoffs%',
+                '%job cuts%',
+                '%restructuring%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEGATIVE_BUSINESS_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%fda%',
+                '%approval%',
+                '%approved%',
+                '%regulatory%',
+                '%regulation%',
+                '%tariff%',
+                '%tariffs%',
+                '%supreme court%',
+                '%drug shortages%',
+                '%shortages%',
+                '%review%',
+                '%phase 3%',
+                '%phase iii%',
+                '%clinical hold%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_POLICY_OR_REGULATORY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%coverage%',
+                '%launch%',
+                '%sales outlook%',
+                '%commercial%',
+                '%market access%',
+                '%reimbursement%',
+                '%customer%',
+                '%contract%',
+                '%award%',
+                '%supply%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_COMMERCIAL_SIGNAL,
+
+        CASE
+            WHEN CATEGORY_TEXT_LC LIKE '%competitor_investment_capacity%'
+              OR CATEGORY_TEXT_LC LIKE '%partnership_ma%'
+              OR CATEGORY_TEXT_LC LIKE '%capability_modality%'
+              OR CATEGORY_TEXT_LC LIKE '%clinical_regulatory_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%policy_market_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%commercial_customer_signal%'
+              OR CATEGORY_TEXT_LC LIKE '%financing_market_signal%'
+            THEN TRUE ELSE FALSE
+        END AS HAS_RELEVANT_AI_CATEGORY
+
+    FROM ENRICHED
+),
+
+STORY AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN VALUE_ABOVE_1B THEN TRUE
+            WHEN VALUE_ABOVE_500M THEN TRUE
+            WHEN IS_DEAL_SIGNAL THEN TRUE
+            WHEN IS_SIZE_OR_CAPACITY_SIGNAL THEN TRUE
+            WHEN IS_NEW_CAPABILITY_SIGNAL THEN TRUE
+            WHEN IS_NEGATIVE_BUSINESS_SIGNAL THEN TRUE
+            WHEN IS_POLICY_OR_REGULATORY_SIGNAL THEN TRUE
+            WHEN IS_COMMERCIAL_SIGNAL THEN TRUE
+            ELSE FALSE
+        END AS HAS_STORY_SIGNAL
+
+    FROM FLAGS
+),
+
+SCORED AS (
+    SELECT
+        *,
+
+        IFF(VALUE_ABOVE_1B, 5, 0)
+        + IFF(VALUE_ABOVE_500M, 3, 0)
+        + IFF(IS_DEAL_SIGNAL, 2, 0)
+        + IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 2, 0)
+        + IFF(IS_NEW_CAPABILITY_SIGNAL, 2, 0)
+        + IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 2, 0)
+        + IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 2, 0)
+        + IFF(IS_COMMERCIAL_SIGNAL, 2, 0)
+
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%' AND HAS_STORY_SIGNAL, 3, 0)
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%' AND HAS_STORY_SIGNAL, 1, 0)
+
+        + IFF(HAS_RELEVANT_AI_CATEGORY AND HAS_STORY_SIGNAL, 1, 0)
+
+        + IFF(SUBJECT_GATE_FINAL = 'PASS' AND HAS_STORY_SIGNAL, 1, 0)
+
+        AS SIGNAL_SCORE,
+
+        TRIM(
+            IFF(VALUE_ABOVE_1B, 'Value above 1B; ', '') ||
+            IFF(VALUE_ABOVE_500M, 'Value above 500M; ', '') ||
+            IFF(IS_DEAL_SIGNAL, 'Deal/partnership/M&A signal; ', '') ||
+            IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 'Manufacturing/capacity/investment signal; ', '') ||
+            IFF(IS_NEW_CAPABILITY_SIGNAL, 'Capability/modality signal; ', '') ||
+            IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 'Layoff/closure/divestment signal; ', '') ||
+            IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 'Policy/regulatory signal; ', '') ||
+            IFF(IS_COMMERCIAL_SIGNAL, 'Commercial/customer signal; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%' AND HAS_STORY_SIGNAL, 'Tracked CDMO mentioned in title; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%' AND HAS_STORY_SIGNAL, 'Top 25 pharma company mentioned in title; ', '') ||
+            IFF(HAS_RELEVANT_AI_CATEGORY AND HAS_STORY_SIGNAL, 'Relevant AI category; ', '') ||
+            IFF(SUBJECT_GATE_FINAL = 'PASS' AND HAS_STORY_SIGNAL, 'Strong keyword gate pass; ', '')
+        ) AS SIGNAL_REASONS
+
+    FROM STORY
+)
+
+SELECT
+    *,
+    CASE
+        WHEN IS_PROMOTIONAL_SIGNAL THEN 'DROP'
+        WHEN HAS_STORY_SIGNAL = FALSE THEN 'MONITOR'
+
+        WHEN SIGNAL_SCORE >= 7 THEN 'VERY_IMPORTANT'
+        WHEN SIGNAL_SCORE >= 4 THEN 'IMPORTANT'
+
+        ELSE 'MONITOR'
+    END AS PRIORITY_TIER
+
+FROM SCORED;
