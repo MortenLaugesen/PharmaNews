@@ -1,3 +1,4 @@
+https://app.snowflake.com/datahub/business_intelligence_insights/#/workspaces/ws/USER%24/PUBLIC/DEFAULT%24/FinalPharmaNews1.2.sql
 -- ============================================================
 -- 07 - Snowflake email output view
 -- Creates one email-ready row for Snowflake email sending
