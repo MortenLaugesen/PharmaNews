@@ -1,58 +1,56 @@
-CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN AS
-SELECT
-    MESSAGE_ID,
-    SENDER_NAME,
-    SENDER_EMAIL,
-    SUBJECT_RAW,
-    RECEIVED_TS,
-    TRY_TO_TIMESTAMP_TZ(RECEIVED_TS) AS RECEIVED_TS_PARSED,
+WITH SOURCE_ROWS AS (
+    SELECT
+        RECEIVED_TS_PARSED,
+        PUBLISH_DATE,
+        PUBLISH_DATE_SOURCE,
+        EMAIL_SOURCE_TYPE,
 
-    COALESCE(
-        TRY_TO_DATE(ARTICLE_PUBLISH_DATE_RAW),
-        TO_DATE(TRY_TO_TIMESTAMP_TZ(RECEIVED_TS))
-    ) AS PUBLISH_DATE,
-
-    CASE
-        WHEN TRY_TO_DATE(ARTICLE_PUBLISH_DATE_RAW) IS NOT NULL
-            THEN 'Article publish date'
-        WHEN TRY_TO_TIMESTAMP_TZ(RECEIVED_TS) IS NOT NULL
-            THEN 'Email received date fallback'
-        ELSE 'Unknown'
-    END AS PUBLISH_DATE_SOURCE,
-
-    EMAIL_SOURCE_TYPE,
-    ARTICLE_RANK,
-
-    TRIM(
-        REGEXP_REPLACE(
-            REGEXP_REPLACE(
-                REGEXP_REPLACE(ARTICLE_TITLE, '^[0-9]+\\.?\\s*', ''),
-                '^,\\s*',
-                ''
-            ),
-            '\\s+',
-            ' '
-        )
-    ) AS ARTICLE_TITLE_CLEAN,
-
-    LOWER(
         TRIM(
             REGEXP_REPLACE(
-                REGEXP_REPLACE(
-                    REGEXP_REPLACE(ARTICLE_TITLE, '^[0-9]+\\.?\\s*', ''),
-                    '^,\\s*',
-                    ''
-                ),
+                REPLACE(COALESCE(ARTICLE_TITLE_CLEAN, ''), CHR(173), ''),
                 '\\s+',
                 ' '
             )
-        )
-    ) AS ARTICLE_TITLE_LC,
+        ) AS ARTICLE_TITLE,
 
+        ARTICLE_URL,
+        PRIORITY_TIER,
+        SIGNAL_SCORE,
+        SIGNAL_REASONS,
+        MATCHED_COMPANIES,
+        MATCHED_COMPANY_CATEGORIES,
+        CATEGORY_RESULT,
+        DEAL_VALUE_KEY,
+
+        LEFT(
+            REGEXP_REPLACE(
+                COALESCE(ARTICLE_LLM_INPUT, BODY_BEST, ARTICLE_TITLE_CLEAN, ''),
+                '\\s+',
+                ' '
+            ),
+            12000
+        ) AS ARTICLE_SUMMARY_INPUT
+
+    FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2
+    WHERE PRIORITY_TIER IN ('VERY_IMPORTANT', 'IMPORTANT')
+),
+
+SELECT
+    RECEIVED_TS_PARSED,
+    PUBLISH_DATE,
+    PUBLISH_DATE_SOURCE,
+    EMAIL_SOURCE_TYPE,
+    ARTICLE_TITLE,
     ARTICLE_URL,
-    ARTICLE_URL_EXTRACTION_METHOD,
-    BODY_BEST,
-    ARTICLE_LLM_INPUT,
-    PARSER_VERSION
+    PRIORITY_TIER,
+    SIGNAL_SCORE,
+    SIGNAL_REASONS,
+    MATCHED_COMPANIES,
+    MATCHED_COMPANY_CATEGORIES,
+    CATEGORY_RESULT,
+    DEAL_VALUE_KEY,
+    STORY_KEY,
+    ARTICLE_SUMMARY_INPUT
 
-FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
+FROM DEDUPED
+WHERE RN = 1;
