@@ -1,3 +1,4 @@
+<img width="418" height="245" alt="Skærmbillede 2026-06-09 kl  08 54 40" src="https://github.com/user-attachments/assets/4c5ee243-d1bb-49af-873d-01be971eb1f8" />
 add publish date
 
 The one sentence summary is basically just restating the headline, so we should either delete it entirely or expand it to be longer. Right now it's a great list of key news articles, but ideally it'll be able to summarize the articles for us and all we'll have to do is a quick fact check. When I have Genki-Bot summarize the articles I copy paste into it, I usually tell it to summarize the article in 1-3 paragraphs
