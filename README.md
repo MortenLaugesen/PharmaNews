@@ -1,81 +1,12 @@
--- ============================================================
--- DEBUG + FIX FOR MISSING V3 SUMMARIES
--- ============================================================
-
--- 1. Check if v3 summaries exist
-SELECT
-    SUMMARY_VERSION,
-    COUNT(*) AS CNT,
-    MAX(CREATED_AT) AS LATEST_CREATED_AT
-FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_AI_SUMMARIES
-GROUP BY SUMMARY_VERSION
-ORDER BY LATEST_CREATED_AT DESC;
-
-
--- 2. Check whether digest items can join to v3 summaries
-SELECT
-    D.ARTICLE_TITLE,
-    D.PRIORITY_TIER,
-    D.RECEIVED_TS_PARSED,
-    S.SUMMARY_VERSION,
-    LEFT(S.AI_SUMMARY, 500) AS AI_SUMMARY_PREVIEW
-FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_DIGEST_QUEUE_V2 D
-LEFT JOIN PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_AI_SUMMARIES S
-    ON SHA2(
-        LOWER(
-            COALESCE(D.ARTICLE_URL, '') || '|' ||
-            COALESCE(D.ARTICLE_TITLE, '')
-        ),
-        256
-    ) = S.SUMMARY_KEY
-   AND S.SUMMARY_VERSION = 'v3_headline_locked_1_3_paragraphs'
-WHERE D.RECEIVED_TS_PARSED >= DATEADD('day', -7, CURRENT_TIMESTAMP())
-  AND D.PRIORITY_TIER IN ('VERY_IMPORTANT', 'IMPORTANT')
-ORDER BY
-    CASE
-        WHEN D.PRIORITY_TIER = 'VERY_IMPORTANT' THEN 1
-        WHEN D.PRIORITY_TIER = 'IMPORTANT' THEN 2
-        ELSE 3
-    END,
-    D.SIGNAL_SCORE DESC,
-    D.RECEIVED_TS_PARSED DESC
-LIMIT 20;
-
-
--- 3. Force regenerate v3 summaries
-DELETE FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_AI_SUMMARIES
-WHERE SUMMARY_VERSION = 'v3_headline_locked_1_3_paragraphs';
-
-
-CALL PHARMA_NEWS_SANDBOX.NEWS.SP_REFRESH_AI_SUMMARIES();
-
-
--- 4. Confirm v3 summaries were created
-SELECT
-    SUMMARY_VERSION,
-    COUNT(*) AS CNT,
-    MAX(CREATED_AT) AS LATEST_CREATED_AT
-FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_AI_SUMMARIES
-WHERE SUMMARY_VERSION = 'v3_headline_locked_1_3_paragraphs'
-GROUP BY SUMMARY_VERSION;
-
-
--- 5. Preview generated summaries directly
-SELECT
-    ARTICLE_TITLE,
-    PUBLISH_DATE,
-    PUBLISH_DATE_SOURCE,
-    EMAIL_SOURCE_TYPE,
-    LEFT(AI_SUMMARY, 1000) AS AI_SUMMARY_PREVIEW
-FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_AI_SUMMARIES
-WHERE SUMMARY_VERSION = 'v3_headline_locked_1_3_paragraphs'
-ORDER BY CREATED_AT DESC
-LIMIT 10;
-
-
--- 6. Re-preview email
-SELECT
-    TO_EMAIL,
-    EMAIL_SUBJECT,
-    LEFT(EMAIL_BODY, 10000) AS EMAIL_BODY_PREVIEW
-FROM PHARMA_NEWS_SANDBOX.NEWS.V_ALTERYX_DAILY_PHARMA_NEWS_EMAIL;
+[FinalPharmaNews1.3_2026-06-09-1622.csv](https://github.com/user-attachments/files/28759165/FinalPharmaNews1.3_2026-06-09-1622.csv)
+ARTICLE_TITLE,PUBLISH_DATE,PUBLISH_DATE_SOURCE,EMAIL_SOURCE_TYPE,AI_SUMMARY_PREVIEW
+Male contraception startup closes $92.5M Series B; Novartis bets on actinium in Phase 3,2026-06-02,Email received date fallback,ENDPOINTS,"A male contraception startup, Contraline, has closed a $92.5 million Series B financing to support a Phase 3 study of a male contraceptive dubbed NES/T. No specific details were provided on how this financing will shape the industry. Additionally, Novartis is betting on actinium in Phase 3, but no specific details were provided on the nature of this investment or its potential impact. No specific capability expansion or reduction was stated for either Contraline or Novartis in relation to this news item. Limited detail was available in the provided source text regarding the potential implications of these developments."
+ASCO: Celcuity dares to dream of becoming $10B company after breast cancer win over Piqray,2026-06-02,Email received date fallback,FIERCE,"Celcuity is aiming to become a $10B company after achieving a win in breast cancer over Piqray. No specific capability expansion or reduction was stated in the provided source text. The company's goal is ambitious, and the win in breast cancer is a significant milestone, but limited detail was available in the provided source text regarding how this change is expected to shape the industry. The mention of a $10B target suggests that Celcuity is looking to significantly grow its value, potentially through further advancements in cancer treatment. No specific monetary value beyond the $10B target was stated."
+ADHD drug delivery specialist Cingulate hit with manufacturing-related FDA rejection,2026-06-02,Email received date fallback,FIERCE,"Cingulate, a company specializing in ADHD drug delivery, has been hit with a manufacturing-related FDA rejection for its lead candidate. The FDA's rejection is due to concerns regarding the company's manufacturing processes. No specific monetary value was stated in relation to this rejection. No specific capability change was stated, but the rejection will likely require Cingulate to address the manufacturing concerns before resubmitting its application, potentially delaying the approval process. Limited detail was available in the provided source text regarding the specifics of the rejection and Cingulate's plans to address the FDA's concerns."
+The impact of the FDA’s new guidance for multiple myeloma.,2026-06-04,Email received date fallback,ENDPOINTS,"Limited detail was available in the provided source text regarding the impact of the FDA's new guidance for multiple myeloma. No specific monetary value was stated, and no specific capability change was stated. The article title suggests that the FDA has issued new guidance for multiple myeloma, but the provided text does not offer further information on the guidance or its expected effects on the industry."
+Has Novartis’ T-Charge been overtaken by in vivo CAR-Ts? Execs argue there’s room for both,2026-06-03,Email received date fallback,FIERCE,"Novartis' T-Charge platform has been in the CAR-T space for over four years, but executives argue that there is still room for it alongside in vivo CAR-Ts. No specific monetary value was stated for the potential of T-Charge or in vivo CAR-Ts. No specific capability change was stated for Novartis' T-Charge platform. The article suggests that the CAR-T space is rapidly evolving, with in vivo CAR-Ts showing promising results, but executives believe that T-Charge can coexist with these new developments. Limited detail was available in the provided source text regarding the specifics of Novartis' plans for T-Charge or how it will be impacted by the rise of in vivo CAR-Ts."
+Celcuity dares to dream of becoming $10B company after breast cancer win over Piqray,2026-06-03,Email received date fallback,FIERCE,"Celcuity is aiming to become a $10B company after achieving a win in breast cancer over Piqray. No specific monetary value for the win was stated beyond the company's overall valuation goal. No specific capability expansion or reduction was stated for Celcuity. The company's goal of becoming a $10B company suggests that it is looking to significantly grow its value, potentially through further successes in the breast cancer treatment area or expansion into other therapeutic areas. Limited detail was available in the provided source text regarding the specifics of Celcuity's plans or strategies for achieving this goal."
+Travere scales Everest with $1.1B deal for BTK inhibitor aimed at rare kidney diseases,2026-06-02,Email received date fallback,FIERCE,"Travere Therapeutics has entered into a $1.1 billion deal with Everest Medicines to acquire a BTK inhibitor aimed at treating rare kidney diseases. The deal includes an upfront payment of $112.5 million, with the remaining amount to be paid based on certain milestones. The BTK inhibitor has already begun clinical trials, and this acquisition marks a significant investment by Travere in the rare kidney disease space. No specific capability expansion or reduction was stated in the provided source text. The deal is expected to shape the industry by providing a potential new treatment option for rare kidney diseases, but limited detail was available in the provided source text regarding the exact implications of this deal on the industry."
+Foundation Medicine tallies FDA nod to pair its blood test with Pfizer’s prostate cancer combo,2026-06-03,Email received date fallback,FIERCE,"Foundation Medicine has received FDA clearance to pair its blood test with Pfizer's prostate cancer combination therapy. The test is a genomic profiling tool that searches for specific biomarkers in tumor tissue samples. No specific monetary value was stated for this approval. No specific capability expansion or reduction was stated for Foundation Medicine as a result of this approval. The clearance is expected to shape the industry by providing a new diagnostic option for prostate cancer patients, potentially improving treatment outcomes. Pfizer is a top 25 pharma company involved in this development, but the exact implications for the company are not specified in the provided source text. Limited detail was available in the provided source text regarding the potential impact of this approval on the industry or the companies involved."
+Sac-TMT’s massive phase 3 program has a jarring gap. Does Merck plan to close it?,2026-06-03,Email received date fallback,FIERCE,"Merck & Co.'s extensive clinical development scheme for its TROP2 antibody-drug conjugate sac-TMT already includes 17 global phase 3 trials, but there is a notable gap in the program. No specific monetary value was stated for this gap, and no specific capability change was stated. The article does not provide enough detail on how Merck plans to address this gap or what the implications of this gap may be for the company or the industry. Limited detail was available in the provided source text."
+Merck shrinks headcount by 88 in New Jersey,2026-06-02,Email received date fallback,FIERCE,"Merck is reducing its headcount by 88 employees in New Jersey as part of its $3 billion cost-cutting scheme. A Merck spokesperson attributed the layoffs to the next phase of personnel impacts related to its multiyear optimization plan, which was unveiled last July. No specific capability change beyond the reduction in headcount was stated. The $3 billion cost-cutting scheme suggests a significant effort by Merck to optimize its operations, but limited detail was available in the provided source text regarding how this change is expected to shape the industry. No specific monetary value related to the headcount reduction was stated, aside from the overall cost-cutting scheme value."
