@@ -2,17 +2,15 @@ Hej Niels
 
 Håber du har det godt.
 
-Jeg skriver lige, da vi et på måneder siden snakkede kort på kontoret om, at jeg skulle tage fat i dig angående bachelor-/diplomprojekt, og at du mente, der nok skulle være noget relevant, vi kunne skrive om hos FUJIFILM.
+Vi snakkede for et par måneder siden kort på kontoret om, at jeg bare skulle tage fat i dig angående bachelor-/diplomprojekt, da du mente, der nok skulle være noget relevant, vi kunne skrive om hos FUJIFILM.
 
-Jeg er nu gået i gang med at finde en virksomhedscase sammen med mine to studiekammerater fra DTU, Laurits og Malthe, med opstart efter sommerferien – enten i august eller september.
+Derfor skriver jeg nu, da jeg sammen med mine to studiekammerater fra DTU, Laurits og Malthe, er i gang med at finde en virksomhedscase med opstart efter sommerferien – enten i august eller september.
 
-Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for supply chain, operations management, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringsprojekter.
+Vi læser Manufacturing and Management og vil gerne arbejde med en konkret problemstilling inden for fx supply chain, operations, procesoptimering, Lean/continuous improvement eller dataunderstøttede forbedringer.
 
-Derfor ville jeg høre, om du stadig tænker, at der kunne være en relevant case eller problemstilling hos FUJIFILM, som vi kunne undersøge nærmere.
+Tror du stadig, der kunne være en relevant case hos FUJIFILM, som vi kunne tage fat i?
 
-Vi vil meget gerne arbejde med en konkret udfordring, hvor vi kan bidrage med analyse, dataindsamling og konkrete løsningsforslag, som forhåbentlig også kan skabe værdi for jer.
-
-Hvis det giver mening, tager jeg også meget gerne en kort snak med dig om mulighederne.
+Hvis det giver mening, tager jeg meget gerne en kort snak med dig om mulighederne.
 
 Mvh
 Morten
