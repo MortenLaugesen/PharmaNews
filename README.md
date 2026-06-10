@@ -1,18 +1,12 @@
-Hej Anders
+Hej Nicklas
 
-Håber du har det godt.
+Jeg kontakter dig, da jeg sammen med to studiekammerater fra DTU, Laurits og Malthe, søger en virksomhedscase til vores bachelor-/diplomprojekt efter sommerferien med opstart i august/september.
 
-Mia Knudsen nævnte, at jeg kunne skrive til dig angående bachelor-/diplomprojekt.
+Vi læser Manufacturing and Management på DTU og vil gerne arbejde med en konkret problemstilling inden for manufacturing, operations management, Lean/continuous improvement, procesoptimering eller dataunderstøttede forbedringer.
 
-Jeg er sammen med to studiekammerater fra DTU, Laurits og Malthe, i gang med at finde en virksomhedscase efter sommerferien – med opstart i august/september.
+Da du arbejder med Manufacturing, ville jeg høre, om der kunne være en relevant problemstilling i produktionen, hvor et projekt kunne give mening – fx omkring processer, kapacitet, flow, standardisering, spild, performance eller forbedringsinitiativer.
 
-Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for procurement, category management, supply chain, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringer.
-
-Da du arbejder med Category Management, ville jeg høre, om du tænker, at der kunne være en relevant case eller problemstilling hos jer, som vi kunne undersøge nærmere.
-
-Det kunne fx være noget omkring supplier management, spend analysis, procesforbedringer, workflow-optimering eller dataanalyse.
-
-Hvis det giver mening, tager jeg meget gerne en kort snak med dig om mulighederne.
+Hvis du kender til en mulig case eller en relevant person, vi bør tage fat i, vil vi sætte stor pris på din hjælp.
 
 Mvh
 Morten
