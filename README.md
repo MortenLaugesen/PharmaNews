@@ -1,4 +1,4 @@
-[Daily Pharma News Digest - 2026-06-10.htm](https://github.com/user-attachments/files/28782944/Daily.Pharma.News.Digest.-.2026-06-10.htm)
+[Daily Pharma News Digest - 2026-06-10aa.htm](https://github.com/user-attachments/files/28783515/Daily.Pharma.News.Digest.-.2026-06-10aa.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -11,22 +11,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10_files/filelist.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10aa_files/filelist.xml">
 <link rel=Edit-Time-Data
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10_files/editdata.mso">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10aa_files/editdata.mso">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Template>NormalEmail</o:Template>
   <o:Revision>1</o:Revision>
   <o:TotalTime>0</o:TotalTime>
-  <o:Created>2026-06-10T06:18:00Z</o:Created>
+  <o:Created>2026-06-10T06:40:00Z</o:Created>
   <o:Pages>1</o:Pages>
-  <o:Words>1969</o:Words>
-  <o:Characters>12013</o:Characters>
+  <o:Words>2018</o:Words>
+  <o:Characters>12314</o:Characters>
   <o:Company>Fujifilm Diosynth Biotechnologies</o:Company>
-  <o:Lines>100</o:Lines>
-  <o:Paragraphs>27</o:Paragraphs>
-  <o:CharactersWithSpaces>13955</o:CharactersWithSpaces>
+  <o:Lines>102</o:Lines>
+  <o:Paragraphs>28</o:Paragraphs>
+  <o:CharactersWithSpaces>14304</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -34,9 +34,9 @@ href="Daily%20Pharma%20News%20Digest%20-%202026-06-10_files/editdata.mso">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10_files/themedata.thmx">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10aa_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10_files/colorschememapping.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10aa_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>0</w:Zoom>
@@ -783,7 +783,7 @@ Computing &lt;no-reply@snowflake.net&gt;<o:p></o:p></span></p>
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Sent:<span
 style='mso-tab-count:1'>                                                         </span></span></b><span
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>10. juni
-2026 08:07<o:p></o:p></span></p>
+2026 08:36<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:165.0pt;text-indent:-165.0pt;tab-stops:
 165.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
@@ -856,7 +856,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'> 30 &nbsp; | &nbsp; <b>Unique stories:</b> 29 &nbsp; |
       &nbsp; <b>Very important:</b> 13 &nbsp; | &nbsp; <b>Important:</b> 16
-      &nbsp; | &nbsp; <b>Summaries:</b> 25 <o:p></o:p></span></p>
+      &nbsp; | &nbsp; <b>Top summaries:</b> 9/10 <o:p></o:p></span></p>
       </td>
      </tr>
     </table>
@@ -878,7 +878,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/LRjqJPFMDFXWW1hk7AMdjuyOqCA=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/_ipdKLiPsCYqCjoktqYk7GTrPrM=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Innovent,
       fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</span></a>
       <o:p></o:p></span></b></p>
@@ -902,10 +902,12 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       development boosts the prospects of the ADC, which Takeda had previously
       invested in through a $1.2 billion deal. No specific capability change
       was stated in the provided source text. The phase 3 win is a significant
-      milestone for the ADC, but limited detail was available in the provided
-      source text regarding how this change is expected to shape the industry.
-      The deal value of $1.2 billion was previously announced, and this recent
-      phase 3 win is a notable development for the partnered ADC. <o:p></o:p></span></p>
+      milestone for the ADC, and the partnership between Innovent and Takeda is
+      expected to shape the industry, although the exact implications are not
+      detailed in the source text. No specific monetary value beyond the
+      initial $1.2 billion deal was stated for this particular development.
+      Limited detail was available in the provided source text regarding the
+      phase 3 trial and the future plans for IBI343. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -916,7 +918,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/Ih84WSs13tSLNpAa6h8u9K782YE=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/gLuiHmqw3_ZyzOTp4MMiXHkq5jo=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -933,120 +935,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/NiWPRkwiMxLGRZQ5ueMC5EgrSUs=473"><span
-      style='color:#1A1A1A;text-decoration:none;text-underline:none'>Ascidian,
-      Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney
-      diseases</span></a> <o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Email date:</span></b><span
-      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
-      color:#666666'> 2026-06-05 </span><span style='font-size:10.0pt;
-      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
-      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:7.5pt'>
-      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
-      "Times New Roman";color:#333333'>Summary:</span></b><span
-      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
-      color:#333333'><br>
-      Ascidian Therapeutics and Eli Lilly have signed a research collaboration
-      worth up to $1.9 billion, focused on discovering and developing RNA exon
-      editing therapeutics for genetic kidney diseases. No specific capability
-      expansion or reduction was stated in the provided source text. The deal
-      value of up to $1.9 billion indicates a significant investment by Lilly
-      in the development of RNA exon editing therapeutics for genetic kidney
-      diseases, and is expected to shape the industry by potentially leading to
-      new treatments for these diseases. Limited detail was available in the
-      provided source text regarding the specifics of the collaboration and its
-      expected impact on the industry. <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
-      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> Lilly ·
-      Top 25 · FIERCE <o:p></o:p></span></p>
-      </div>
-      <div>
-      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/4QO4Jfmb3JCxh1c8tU-v_-3YLLQ=473"><span
-      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
-      →</span></a> <o:p></o:p></span></p>
-      </div>
-      </td>
-     </tr>
-     <tr style='mso-yfti-irow:2'>
-      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
-      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
-      <div style='margin-bottom:4.5pt'>
-      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
-      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
-      letter-spacing:.25pt'><o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/4wErx9GmEgqXC2J55qUsuSA9T7s=473"><span
-      style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly
-      locks in 5-program R&amp;D pact with China’s Haisco worth up to $3B, but
-      targets unclear</span></a> <o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Email date:</span></b><span
-      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
-      color:#666666'> 2026-06-05 </span><span style='font-size:10.0pt;
-      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
-      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:7.5pt'>
-      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
-      "Times New Roman";color:#333333'>Summary:</span></b><span
-      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
-      color:#333333'><br>
-      Eli Lilly has entered into a 5-program research and development pact with
-      China's Haisco Pharmaceutical, worth up to $3 billion. The specific
-      targets of this agreement are unclear. This deal marks a significant
-      investment by Lilly in Haisco's research capabilities, and the
-      partnership is expected to drive innovation in the pharmaceutical
-      industry. No specific capability expansion or reduction was stated in
-      relation to this agreement. The deal value of up to $3 billion indicates
-      a substantial commitment by Lilly to the partnership, which may shape the
-      industry through the development of new therapies or treatments. Limited
-      detail was available in the provided source text regarding the specific
-      focus areas or expected outcomes of this partnership. <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
-      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> Lilly ·
-      Top 25 · FIERCE <o:p></o:p></span></p>
-      </div>
-      <div>
-      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/jgmVeUmay2hPhw4tYLpxhrTyFk0=473"><span
-      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
-      →</span></a> <o:p></o:p></span></p>
-      </div>
-      </td>
-     </tr>
-     <tr style='mso-yfti-irow:3'>
-      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
-      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
-      <div style='margin-bottom:4.5pt'>
-      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
-      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
-      letter-spacing:.25pt'><o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESyfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/1MOGH84XEz9VSQnhRUeLE9T5Vd0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESyfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/jpJgvEW65W_a5NOD_Ogu3CJh2Y4=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly,
       Boehringer to slash at least $1B each from planned investments in Germany</span></a>
       <o:p></o:p></span></b></p>
@@ -1085,13 +974,13 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESyfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/Fr-VOQMfW-PzJSXP4Uup0rJiuIM=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESyfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/_f58U_gSPxeResKc89ZFLICW9T8=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
       </td>
      </tr>
-     <tr style='mso-yfti-irow:4'>
+     <tr style='mso-yfti-irow:2'>
       <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
       solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
       <div style='margin-bottom:4.5pt'>
@@ -1102,7 +991,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES-fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/d0Mrtyxtz_05nbNbNZ6NzxE54-o=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES-fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/K1_WiUWMID8Y_kRlLQM58J4QeQw=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly pens
       $1.2B deal for Hanmi’s GLP-2 drug being aimed at short bowel syndrome</span></a>
       <o:p></o:p></span></b></p>
@@ -1127,10 +1016,10 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       portfolio in a new direction. No specific capability change was stated as
       a result of this deal. The agreement highlights Lilly's continued
       investment in the development of treatments for gastrointestinal
-      diseases. With this deal, Lilly aims to further establish its presence in
-      the market for short bowel syndrome treatments. No additional details on
-      the expected impact on the industry or the timeline for the development
-      of the GLP-2 agonist were provided in the source text. <o:p></o:p></span></p>
+      disorders. With this deal, Lilly aims to further establish its presence
+      in the market for short bowel syndrome treatments. No additional details
+      on the expected impact on the industry or the timeline for the
+      development of the GLP-2 agonist were provided in the source text. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1141,7 +1030,118 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES-fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/U0v9ep_-8ToRuZnr8CUG28PV5Vk=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES-fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/xkO1DR8HZtnsyUwH_czq-j5L7qo=473"><span
+      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
+      →</span></a> <o:p></o:p></span></p>
+      </div>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:3'>
+      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
+      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
+      <div style='margin-bottom:4.5pt'>
+      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
+      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
+      letter-spacing:.25pt'><o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/xSEK2N2Gf8jcdAgxpyccNJfenDg=473"><span
+      style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly
+      locks in 5-program R&amp;D pact with China’s Haisco worth up to $3B, but
+      targets unclear</span></a> <o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Email date:</span></b><span
+      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
+      color:#666666'> 2026-06-05 </span><span style='font-size:10.0pt;
+      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
+      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:7.5pt'>
+      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
+      "Times New Roman";color:#333333'>Summary:</span></b><span
+      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
+      color:#333333'><br>
+      Eli Lilly has entered into a 5-program research and development pact with
+      China's Haisco Pharmaceutical, worth up to $3 billion. The specific
+      targets of this agreement are unclear. This deal represents a significant
+      investment by Lilly in Haisco's capabilities, and the large potential
+      value of the deal suggests that it could have a substantial impact on the
+      development of new therapies. No specific capability expansion or
+      reduction was stated in relation to this agreement, and limited detail
+      was available in the provided source text regarding the expected outcomes
+      or focus areas of this partnership. <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
+      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> Lilly ·
+      Top 25 · FIERCE <o:p></o:p></span></p>
+      </div>
+      <div>
+      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/gDkI5TMrQK_PCw6-ZchdbJNYwzk=473"><span
+      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
+      →</span></a> <o:p></o:p></span></p>
+      </div>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:4'>
+      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
+      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
+      <div style='margin-bottom:4.5pt'>
+      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
+      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
+      letter-spacing:.25pt'><o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/csRZVjs67wcXQBbxCXP9lkrgv4U=473"><span
+      style='color:#1A1A1A;text-decoration:none;text-underline:none'>Ascidian,
+      Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney
+      diseases</span></a> <o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Email date:</span></b><span
+      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
+      color:#666666'> 2026-06-05 </span><span style='font-size:10.0pt;
+      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
+      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:7.5pt'>
+      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
+      "Times New Roman";color:#333333'>Summary:</span></b><span
+      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
+      color:#333333'><br>
+      Ascidian Therapeutics and Eli Lilly have signed a research collaboration
+      worth up to $1.9 billion, focused on discovering and developing RNA exon
+      editing therapeutics for genetic kidney diseases. This partnership gives
+      Lilly the opportunity to develop innovative treatments for kidney
+      diseases with genetic origins. No specific capability expansion or
+      reduction was stated in the provided source text regarding this deal. The
+      agreement's value of up to $1.9 billion indicates a significant
+      investment in the development of RNA exon editing technologies for
+      genetic kidney diseases, potentially shaping the industry's approach to
+      treating these conditions. <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
+      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> Lilly ·
+      Top 25 · FIERCE <o:p></o:p></span></p>
+      </div>
+      <div>
+      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/4fhbhJGGMmzn4l0YLczUUkcW_iY=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1158,7 +1158,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9%255EfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/B19g8bKjgm883TIdl3tzwWNfv3w=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9%255EfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/Sx_3JikYubduVDQIv7wq6UQqKAM=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Alnylam
       pens $2B deal with Inceptive to transform siRNA design with AI pioneer</span></a>
       <o:p></o:p></span></b></p>
@@ -1183,9 +1183,9 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       interfering RNA (siRNA) using artificial intelligence. As part of the
       deal, Alnylam will pay $30 million to work with Inceptive Nucleics. No
       specific capability expansion or reduction was stated in the provided
-      source text. The deal is expected to leverage AI technology to enhance siRNA
-      design, but limited detail was available in the provided source text
-      regarding how this change is expected to shape the industry. <o:p></o:p></span></p>
+      source text. The deal is expected to leverage AI to enhance siRNA design,
+      but limited detail was available in the provided source text regarding
+      how this change is expected to shape the industry. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1196,7 +1196,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9%255EfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/AZUnQKeP2Rq2QSSTdSLDHxwpEgE=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9%255EfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/b26ldTx4kNij1gOG5nxOYzLxm2s=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1213,7 +1213,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255E%257CLece-rLoe3V%257Cfj-yrm%255Ba80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/p60Bg5Gq9mEm5xHQQhER7tNjKXQ=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255E%257CLece-rLoe4cmfj-yrm%255Ba80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/F7o_akfYAXQwZm8_vLH4JLZkWEo=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Regeneron
       pays $37M, adds $2B in biobucks to expand CytomX pact</span></a> <o:p></o:p></span></b></p>
       </div>
@@ -1231,16 +1231,10 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Regeneron has expanded its research alliance with CytomX Therapeutics,
-      paying $37 million upfront to work on conditionally active bispecifics
-      against two targets and secure options on more programs. The expansion
-      adds $2 billion in potential milestone payments, bringing the total
-      potential value of the deal to approximately $4 billion. This move
-      indicates a significant investment by Regeneron in the development of
-      bispecific therapies, which are expected to play a crucial role in
-      shaping the future of the biopharmaceutical industry. The specific
-      details of the targets and programs involved in the expanded pact are not
-      provided in the available source text. <o:p></o:p></span></p>
+      Limited detail was available in the provided source text. Based on the
+      headline and metadata, this item appears relevant because it relates to
+      Regeneron · Top 25. The full article may require source-site access, so
+      this item should be manually fact-checked via the article link. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1251,7 +1245,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255E%257CLece-rLoe3V%257Cfj-yrm%255Ba80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/WGcr7xk3WS-lex9RtXzScm8EhA4=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255E%257CLece-rLoe4cmfj-yrm%255Ba80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/3K1Cqu4xAs173Cxe4Pbj3InD1NY=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1268,7 +1262,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/-dzsFua2Gy8vz2UXuGK6SQ1H8qM=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/sX-AWxNWiJfrgvWcVRs8EqoITRc=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Merck
       shrinks headcount by 88 in New Jersey as $3B cost-cutting scheme advances</span></a>
       <o:p></o:p></span></b></p>
@@ -1307,7 +1301,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/Sf-ftrtz8uP-7TIqkieI2cNHM7o=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/KgD33LWtLltYGkmiwhYpIjKIssY=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1324,7 +1318,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgaeceBq6ofgEqfjEsr89a80%257EgjB9%257CYf2p/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/AC7AEOjv_lx1J6VZc-OmQMqXGf4=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgaeceBq6ofgEqfjEsr89a80%257EgjB9%257CYf2p/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/5WG-5iFZBxryoiHf6Eu1uGi9gyQ=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Takeda
       takes $2.5B legal charge after pay-for-delay verdict, swings to loss for
       '25</span></a> <o:p></o:p></span></b></p>
@@ -1353,8 +1347,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       company. No additional details were provided on how this change is
       expected to shape the industry. Limited detail was available in the
       provided source text regarding the potential long-term effects of this
-      legal charge on Takeda's operations or the broader pharmaceutical
-      industry. <o:p></o:p></span></p>
+      legal charge on Takeda's operations or financial performance. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1365,7 +1358,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgaeceBq6ofgEqfjEsr89a80%257EgjB9%257CYf2p/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/9IBRvKx_NWCg8Qz0PiOg8LSUQxI=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgaeceBq6ofgEqfjEsr89a80%257EgjB9%257CYf2p/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/_aExL8tJEA1mGad0TYVzblGwA6o=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1382,7 +1375,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whdujdl-tkukirkro-z%2F/1/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/Lw3lJKPKUVMik-bSFeQfX-WmHXY=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whdujdl-tkukirkro-z%2F/1/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/ANSpHpTkZDmXi1uK02gFKhwJtiA=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Mammalian
       hair, roof leaks: Novo's Catalent site in Indiana under FDA scrutiny once
       again</span></a> <o:p></o:p></span></b></p>
@@ -1398,10 +1391,22 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:7.5pt'>
       <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
-      "Times New Roman";color:#999999'>Summary:</span></b><span
+      "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
-      color:#999999'><br>
-      No AI summary available for this item. <o:p></o:p></span></p>
+      color:#333333'><br>
+      Novo Nordisk's facility in Indiana, which was acquired from Catalent, is
+      under FDA scrutiny once again due to contamination issues. A
+      re-inspection in April found mammalian hair and roof leaks at the site.
+      No specific monetary value was stated for the costs or potential losses
+      associated with this issue. No specific capability change was stated, but
+      the ongoing contamination issues may impact the site's ability to operate
+      at full capacity. The FDA scrutiny may shape the industry by highlighting
+      the importance of maintaining high standards of quality and cleanliness
+      in manufacturing facilities, particularly those involved in the
+      production of pharmaceuticals. Limited detail was available in the
+      provided source text regarding the specific actions being taken to
+      address the contamination issues or the potential impact on Novo
+      Nordisk's operations. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1412,7 +1417,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whdujdl-tkukirkro-z%2F/2/0102019eb0242814-829771ca-1fa0-4612-8f5a-df1834f2d742-000000/ObWIS1lmXhSAJF4EEpfFwDXPqDM=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whdujdl-tkukirkro-z%2F/2/0102019eb03f163c-9028163a-9c0a-4b1d-bb0a-4ba66bb404b3-000000/PoUjdmFWRIHLqAnIV8fGNCoHbIc=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
