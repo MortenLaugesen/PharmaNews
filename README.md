@@ -1,4 +1,4 @@
-[Daily Pharma News Digest - 2026-06-10bb.htm](https://github.com/user-attachments/files/28783932/Daily.Pharma.News.Digest.-.2026-06-10bb.htm)
+[Daily Pharma News Digest - 2026-06-10cc.htm](https://github.com/user-attachments/files/28784448/Daily.Pharma.News.Digest.-.2026-06-10cc.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -11,22 +11,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10bb_files/filelist.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/filelist.xml">
 <link rel=Edit-Time-Data
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10bb_files/editdata.mso">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/editdata.mso">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Template>NormalEmail</o:Template>
   <o:Revision>1</o:Revision>
   <o:TotalTime>0</o:TotalTime>
-  <o:Created>2026-06-10T06:52:00Z</o:Created>
+  <o:Created>2026-06-10T07:11:00Z</o:Created>
   <o:Pages>1</o:Pages>
-  <o:Words>1365</o:Words>
-  <o:Characters>8327</o:Characters>
+  <o:Words>2266</o:Words>
+  <o:Characters>13826</o:Characters>
   <o:Company>Fujifilm Diosynth Biotechnologies</o:Company>
-  <o:Lines>69</o:Lines>
-  <o:Paragraphs>19</o:Paragraphs>
-  <o:CharactersWithSpaces>9673</o:CharactersWithSpaces>
+  <o:Lines>115</o:Lines>
+  <o:Paragraphs>32</o:Paragraphs>
+  <o:CharactersWithSpaces>16060</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -34,9 +34,9 @@ href="Daily%20Pharma%20News%20Digest%20-%202026-06-10bb_files/editdata.mso">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10bb_files/themedata.thmx">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10bb_files/colorschememapping.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>0</w:Zoom>
@@ -783,7 +783,7 @@ Computing &lt;no-reply@snowflake.net&gt;<o:p></o:p></span></p>
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Sent:<span
 style='mso-tab-count:1'>                                               </span></span></b><span
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>10. juni
-2026 08:52<o:p></o:p></span></p>
+2026 09:10<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
 135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
@@ -854,8 +854,8 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman";color:#333333'>Total relevant stories:</span></b><span
       style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
-      color:#333333'> 42 &nbsp; | &nbsp; <b>Very important:</b> 27 &nbsp; |
-      &nbsp; <b>Important:</b> 15 &nbsp; | &nbsp; <b>Top summaries:</b> 8/10 <o:p></o:p></span></p>
+      color:#333333'> 42 &nbsp; | &nbsp; <b>Very important:</b> 26 &nbsp; |
+      &nbsp; <b>Important:</b> 16 &nbsp; | &nbsp; <b>Top summaries:</b> 8/10 <o:p></o:p></span></p>
       </td>
      </tr>
     </table>
@@ -877,7 +877,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/9KcGHMl1xi-wE2E3lg3S0cBHTNg=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/h8ydjQGq3fwIYlOmIz5iJbjJ0Ko=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Innovent,
       fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</span></a>
       <o:p></o:p></span></b></p>
@@ -896,9 +896,23 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Innovent achieved a phase 3 win for its Takeda-partnered antibody-drug
-      conjugate. The company recently completed a $1.2B deal. Limited detail
-      was available on the phase 3 win and its expected impact. <o:p></o:p></span></p>
+      Innovent Biologics has reported a phase 3 victory for IBI343, an
+      antibody-drug conjugate (ADC) that Takeda partnered with them on last
+      year in a $1.2 billion deal. This development boosts the prospects of the
+      ADC. <br>
+      <br>
+      The phase 3 win for IBI343 has significant implications for Innovent and
+      Takeda, as it brings the ADC closer to potential approval and
+      commercialization. The $1.2 billion deal between Innovent and Takeda
+      highlights the substantial investment and commitment to the development
+      of this ADC. <br>
+      <br>
+      No specific capability change was stated in the source text. The deal
+      value of $1.2 billion indicates a significant investment in the
+      development of the ADC, which could shape the industry's approach to
+      similar partnerships and investments in the future. However, limited
+      detail is available on the broader industry impact of this specific
+      development. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -909,7 +923,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/_GiM3yic7xbue_FrWW2-JQV0ohg=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/qAHRqaKNYEuS2Zm6QCy9gm2sOzA=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -926,7 +940,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/4xB8jSxKCrUsFO3HyjzFimg7uvI=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/s48znDWJdD3jK0tnWupWcLk9t68=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Alnylam
       pens $2B deal with Inceptive to transform siRNA design with AI pioneer</span></a>
       <o:p></o:p></span></b></p>
@@ -945,11 +959,26 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Alnylam has partnered with Inceptive in a $2B deal to transform siRNA
-      design with AI. The deal involves a $30 million payment to work with
-      Inceptive on artificial intelligence-enabled drug design. Limited detail
-      was available on the specific capabilities or expected industry impact of
-      this partnership. <o:p></o:p></span></p>
+      Alnylam has partnered with Inceptive Nucleics, a company founded by Jakob
+      Uszkoreit, who contributed to the development of ChatGPT, in a deal worth
+      $2 billion. The partnership aims to transform the design of small
+      interfering RNA (siRNA) using artificial intelligence. As part of the
+      deal, Alnylam will pay $30 million to work with Inceptive on AI-enabled
+      drug design.<br>
+      <br>
+      This partnership has significant implications for Alnylam's capabilities
+      in siRNA design, as it leverages Inceptive's expertise in artificial intelligence
+      to potentially accelerate and improve the development of new therapies.
+      The use of AI in drug design could lead to more efficient and effective
+      discovery of new treatments, which could give Alnylam a competitive edge
+      in the market.<br>
+      <br>
+      The deal's value of $2 billion highlights the importance of this
+      partnership for Alnylam and the potential impact it could have on the
+      company's future growth and success. No specific details on how this
+      partnership will shape the industry as a whole are available, but the use
+      of AI in drug design is a growing trend that could have significant
+      implications for the pharmaceutical industry in the future. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -960,7 +989,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/jvzpnTC_VyG5BXdgzCTha6c7R4w=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/J12jI1yBfFjt96tgImXpeeSn0cw=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -977,7 +1006,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/vZKDKx3zlSQ8464zgQt_YqJCpT0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/GaAcOa3uuKHI08wbBa2WJ756wXw=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Ascidian,
       Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney
       diseases</span></a> <o:p></o:p></span></b></p>
@@ -996,10 +1025,23 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Ascidian and Lilly have entered a partnership worth up to $1.9 billion to
-      develop RNA exon editing treatments for genetic kidney diseases. Limited
-      detail was available on the specific terms and timeline of the agreement.
-      <o:p></o:p></span></p>
+      Ascidian and Lilly have entered into a partnership worth up to $1.9
+      billion to develop RNA exon editing therapies for genetic kidney
+      diseases. The deal highlights the growing interest in RNA-based
+      technologies and their potential to address complex genetic disorders. <br>
+      <br>
+      The partnership between Ascidian and Lilly is significant, as it brings
+      together Ascidian's expertise in RNA exon editing with Lilly's resources
+      and experience in developing and commercializing innovative therapies.
+      This collaboration has the potential to accelerate the development of new
+      treatments for genetic kidney diseases, which currently have limited
+      therapeutic options. <br>
+      <br>
+      The deal's value of up to $1.9 billion underscores the importance of this
+      partnership and the potential of RNA exon editing technologies in
+      addressing significant unmet medical needs. No specific capability
+      expansion or reduction was stated in relation to this partnership, and no
+      further details on the timeline or specific products were provided. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1010,7 +1052,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/puq_QQTbW5lJh1PeuLHURg3Vw9A=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/gLDeqQgiskac1_wn09oycIDhu1A=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1027,7 +1069,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/Lm6tDyuFnybxvdUwy9R3JihMa4E=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/18R_o91t-csNtygLs5ErIdT1Esg=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Merck
       shrinks headcount by 88 in New Jersey as $3B cost-cutting scheme advances</span></a>
       <o:p></o:p></span></b></p>
@@ -1046,9 +1088,23 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Merck is reducing its headcount by 88 in New Jersey as part of a $3
-      billion cost-cutting scheme. Limited detail was available on the specific
-      implications of this reduction. <o:p></o:p></span></p>
+      Merck has reduced its headcount by 88 employees in New Jersey as part of
+      its $3 billion cost-cutting scheme. The layoffs are attributed to the
+      next phase of personnel impacts related to the company's multiyear
+      optimization plan, which was announced last July. <br>
+      <br>
+      The reduction in headcount is a result of Merck's efforts to optimize its
+      operations and reduce costs. This move is part of a larger cost-cutting
+      scheme, indicating that the company is taking steps to streamline its
+      operations and improve efficiency. The $3 billion cost-cutting target
+      suggests that Merck is making significant efforts to reduce its expenses
+      and improve its financial performance.<br>
+      <br>
+      No specific capability change was stated in relation to this layoff, and
+      no broader industry impact was mentioned in the source text. The $3
+      billion cost-cutting scheme is a significant initiative, but its
+      implications for the industry are not detailed in the available
+      information. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1059,7 +1115,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/8e2MVd783Kszzz48RkkFtUXSaKc=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/LwhjxSwR-hAVypdRvobz8xhZkYo=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1076,7 +1132,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/Dy1cVuzOxoFjcdyUdydvgcKnyT0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/t8_7f_xG1aU2-hpjOdFv1BRGB64=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>GSK inks
       $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer</span></a>
       <o:p></o:p></span></b></p>
@@ -1095,10 +1151,25 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      GSK has acquired Nuvalent for $10.6 billion, gaining two near-approval
-      cancer therapies to challenge Roche and Pfizer in lung cancer. Limited
-      detail was available on the specific therapies and their development
-      timelines. <o:p></o:p></span></p>
+      GSK has agreed to acquire Nuvalent for $10.6 billion, gaining access to
+      two near-approval cancer therapies that could challenge products from
+      Roche and Pfizer in the lung cancer market. The acquisition is expected
+      to bolster GSK's position in the oncology space, particularly in the
+      treatment of lung cancer.<br>
+      <br>
+      The deal implies a significant expansion of GSK's capabilities in the
+      development and commercialization of cancer therapies, potentially
+      altering the competitive landscape in the lung cancer market. With this
+      acquisition, GSK may pose a greater challenge to established players like
+      Roche and Pfizer, which currently have a strong presence in the market.<br>
+      <br>
+      The acquisition's impact on the industry could be substantial, as it may
+      lead to increased competition and innovation in the development of lung
+      cancer treatments. The $10.6 billion deal value suggests a high level of
+      confidence in Nuvalent's pipeline and the potential for significant
+      returns on investment. As the deal progresses, it will be important to
+      monitor how GSK integrates Nuvalent's assets and how the company's
+      expanded capabilities shape the lung cancer market. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1109,7 +1180,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/ZMo7Sw4A1zbDorAZN7VYo8wvBkA=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/jekh2_PHMbtSzxG0Ko-SLrS22fk=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1126,55 +1197,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzDqfjRszy%255Ea80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/ZsOCtDNVw0lGWh_VbHflGeMhSqM=473"><span
-      style='color:#1A1A1A;text-decoration:none;text-underline:none'>GSK inks
-      $10.6B Nuvalent buyout</span></a> <o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Email date:</span></b><span
-      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
-      color:#666666'> 2026-06-09 </span><span style='font-size:10.0pt;
-      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
-      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:7.5pt'>
-      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
-      "Times New Roman";color:#333333'>Summary:</span></b><span
-      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
-      color:#333333'><br>
-      GSK has acquired Nuvalent for $10.6 billion, gaining two near-approval
-      cancer therapies to challenge Roche and Pfizer in lung cancer. Limited
-      detail was available on the specific therapies and expected impact. <o:p></o:p></span></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
-      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> GSK ·
-      Top 25 · FIERCE <o:p></o:p></span></p>
-      </div>
-      <div>
-      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
-      "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzDqfjRszy%255Ea80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/Hq9WkLmcp8vl2o28Vdp1_zjErDc=473"><span
-      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
-      →</span></a> <o:p></o:p></span></p>
-      </div>
-      </td>
-     </tr>
-     <tr style='mso-yfti-irow:6'>
-      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
-      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
-      <div style='margin-bottom:4.5pt'>
-      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
-      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
-      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
-      letter-spacing:.25pt'><o:p></o:p></span></b></p>
-      </div>
-      <div style='margin-bottom:6.0pt'>
-      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/MWld7K6ajEVBv7FKCSxefOGDfpU=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/SlYbrFr1f652dRXpYuijmXcXB-g=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Incyte
       inks $2B deal to add Star unit to late-phase constellation and challenge
       Takeda</span></a> <o:p></o:p></span></b></p>
@@ -1193,10 +1216,26 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Incyte has agreed to a $2 billion deal to acquire Star unit, expanding
-      its late-phase portfolio and positioning itself to challenge Takeda.
-      Limited detail was available on the specific assets or capabilities
-      involved in the acquisition. <o:p></o:p></span></p>
+      Incyte has entered into a $2 billion deal to acquire a subsidiary of Star
+      Therapeutics, with $1.25 billion paid upfront. The acquisition includes a
+      late-phase bleeding disorder drug candidate, which could support Incyte's
+      growth strategy as it faces the loss of patent protection for its key
+      product Jakafi in 2028.<br>
+      <br>
+      The deal is significant for Incyte as it seeks to expand its portfolio
+      and challenge competitors like Takeda. The acquired drug candidate has
+      the potential to contribute to Incyte's growth and help mitigate the
+      impact of losing patent protection for Jakafi. The acquisition is the
+      largest bet made by Incyte's CEO Bill Meury, indicating the company's
+      commitment to its growth strategy.<br>
+      <br>
+      The acquisition is expected to shape the industry as Incyte positions
+      itself to compete with other major players like Takeda in the bleeding
+      disorder market. With a significant upfront payment of $1.25 billion, the
+      deal demonstrates Incyte's willingness to invest in its future growth and
+      expansion. No specific capability change was stated in terms of
+      manufacturing or capacity expansion, but the deal is expected to enhance
+      Incyte's portfolio and competitive position. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1207,13 +1246,13 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/QF5QnkPAJO22DnoU_AApPE8-YHg=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/EtfLWB-asko2_Cg6AvP-HWn65LI=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
       </td>
      </tr>
-     <tr style='mso-yfti-irow:7'>
+     <tr style='mso-yfti-irow:6'>
       <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
       solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
       <div style='margin-bottom:4.5pt'>
@@ -1224,7 +1263,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/NZsIDihQ-_HH1ejx3B-nYJVqMUc=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/sxr2ztt7g2PoPVKfDAzHgIjIXkI=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Takeda
       says it expects to take $2.5B hit after Amitiza antitrust verdict, with
       plans to appeal</span></a> <o:p></o:p></span></b></p>
@@ -1243,9 +1282,9 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Takeda expects to take a $2.5B hit after an antitrust verdict related to
-      its laxative drug Amitiza, with plans to appeal. Limited detail was
-      available on the expected impact or next steps beyond the appeal. <o:p></o:p></span></p>
+      Source text was limited for this item. Based on the headline and
+      metadata, the story appears relevant because it relates to Takeda · Top
+      25. Please fact-check this story via the article link. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1256,13 +1295,13 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/AbSAUam5oTa_8mr7929n5Mij6P0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/GTZ4rqLnkosggsgr3Zlq7uUDISY=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
       </td>
      </tr>
-     <tr style='mso-yfti-irow:8'>
+     <tr style='mso-yfti-irow:7'>
       <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
       solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
       <div style='margin-bottom:4.5pt'>
@@ -1273,7 +1312,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/6aLB43G_8V6Ft7F3lcULCnPUVl8=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/YOfJdzIwgRlfndaxDZv9F8sSpiA=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>J&amp;J
       makes $1B move for Firefly Bio, Carolyn Bertozzi's twist on ADCs in KRAS
       field</span></a> <o:p></o:p></span></b></p>
@@ -1292,9 +1331,23 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Source text was limited for this item. Based on the headline and
-      metadata, the story appears relevant because it relates to J&amp;J · Top
-      25. Please fact-check this story via the article link. <o:p></o:p></span></p>
+      J&amp;J has made a $1 billion move to acquire Firefly Bio, a company that
+      has developed a twist on antibody-drug conjugates (ADCs) in the KRAS
+      field. The acquisition is related to the work of Carolyn Bertozzi, a
+      prominent figure in the field.<br>
+      <br>
+      The business implication of this deal is that J&amp;J is expanding its
+      capabilities in the ADC space, specifically in the KRAS field, which is a
+      significant area of research in oncology. This acquisition may enhance
+      J&amp;J's competitiveness in the market and provide access to new
+      technologies and expertise.<br>
+      <br>
+      The industry impact of this deal is that it highlights the growing
+      interest in ADCs and the KRAS field, with major pharmaceutical companies
+      like J&amp;J investing heavily in this area. This may lead to increased
+      innovation and development of new treatments for various types of cancer,
+      ultimately benefiting patients and shaping the future of the
+      pharmaceutical industry. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1305,13 +1358,13 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/jA2fom4Hi8SNAg4z980kB7n1Wzo=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/9hCJKXK2JHGg7kgFU_8_fDRgjq8=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
       </td>
      </tr>
-     <tr style='mso-yfti-irow:9;mso-yfti-lastrow:yes'>
+     <tr style='mso-yfti-irow:8'>
       <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
       solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
       <div style='margin-bottom:4.5pt'>
@@ -1322,7 +1375,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/1/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/yBWgr8kQwA8P2qt4T2tqEcuoxCo=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/3pLOKx3mXBx0YQCVoj0nudd55FU=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Nurix to
       work with Roche on BTK degrader in pact worth up to $2.3B</span></a> <o:p></o:p></span></b></p>
       </div>
@@ -1353,7 +1406,69 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/2/0102019eb04d2219-b0ee4737-5177-44c7-93bb-3ed3672bb413-000000/cKQrdnZcT92eQ0lI8nm4kYSxecI=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/DbrFzYs6WBxKA48_5FX9-m3hjck=473"><span
+      style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
+      →</span></a> <o:p></o:p></span></p>
+      </div>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:9;mso-yfti-lastrow:yes'>
+      <td style='border:none;border-bottom:solid #E5E5E5 1.0pt;mso-border-bottom-alt:
+      solid #E5E5E5 .75pt;padding:12.0pt 0cm 12.0pt 0cm'>
+      <div style='margin-bottom:4.5pt'>
+      <p class=MsoNormal><b><span style='font-size:9.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#B00020;letter-spacing:.25pt'>VERY IMPORTANT</span></b><b><span
+      style='font-size:9.0pt;mso-fareast-font-family:"Times New Roman";
+      letter-spacing:.25pt'><o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/0sMtKUyv2DZhei2cAs9WiltQOe0=473"><span
+      style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly
+      locks in 5-program R&amp;D pact with China’s Haisco worth up to $3B, but
+      targets unclear</span></a> <o:p></o:p></span></b></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Email date:</span></b><span
+      style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
+      color:#666666'> 2026-06-05 </span><span style='font-size:10.0pt;
+      mso-fareast-font-family:"Times New Roman";color:#999999'>(Email received
+      date fallback)</span><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'> <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:7.5pt'>
+      <p class=MsoNormal><b><span style='font-size:10.5pt;mso-fareast-font-family:
+      "Times New Roman";color:#333333'>Summary:</span></b><span
+      style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
+      color:#333333'><br>
+      Eli Lilly has entered into a research and development pact with China's
+      Haisco, worth up to $3 billion, covering five programs. The specific
+      targets of these programs are unclear. <br>
+      <br>
+      This deal implies a significant investment by Lilly in Haisco's research
+      capabilities, indicating a strategic partnership that could enhance
+      Lilly's pipeline and Haisco's research and development capabilities. The
+      partnership's value of up to $3 billion underscores the potential
+      importance of the collaboration to both companies.<br>
+      <br>
+      No specific capability expansion or reduction was stated in the context
+      of this deal, and the broader industry impact is not detailed in the
+      provided source text. However, the significant monetary value of the
+      partnership suggests it could have notable implications for the
+      biopharmaceutical industry, particularly in terms of cross-border
+      collaborations and investments in research and development. <o:p></o:p></span></p>
+      </div>
+      <div style='margin-bottom:6.0pt'>
+      <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman";color:#666666'>Tags:</span></b><span style='font-size:
+      10.0pt;mso-fareast-font-family:"Times New Roman";color:#666666'> Lilly ·
+      Top 25 · FIERCE <o:p></o:p></span></p>
+      </div>
+      <div>
+      <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
+      "Times New Roman"'><a
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/x66hPiD6cFGaN8g0X2OFyRKuCr0=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
