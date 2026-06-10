@@ -1,4 +1,4 @@
-[Daily Pharma News Digest - 2026-06-10cc.htm](https://github.com/user-attachments/files/28784448/Daily.Pharma.News.Digest.-.2026-06-10cc.htm)
+[Daily Pharma News Digest - 2026-06-10dd.htm](https://github.com/user-attachments/files/28784829/Daily.Pharma.News.Digest.-.2026-06-10dd.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -11,22 +11,22 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Generator content="Microsoft Word 15">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/filelist.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10dd_files/filelist.xml">
 <link rel=Edit-Time-Data
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/editdata.mso">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10dd_files/editdata.mso">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Template>NormalEmail</o:Template>
   <o:Revision>1</o:Revision>
   <o:TotalTime>0</o:TotalTime>
-  <o:Created>2026-06-10T07:11:00Z</o:Created>
+  <o:Created>2026-06-10T07:23:00Z</o:Created>
   <o:Pages>1</o:Pages>
-  <o:Words>2266</o:Words>
-  <o:Characters>13826</o:Characters>
+  <o:Words>2369</o:Words>
+  <o:Characters>14456</o:Characters>
   <o:Company>Fujifilm Diosynth Biotechnologies</o:Company>
-  <o:Lines>115</o:Lines>
-  <o:Paragraphs>32</o:Paragraphs>
-  <o:CharactersWithSpaces>16060</o:CharactersWithSpaces>
+  <o:Lines>120</o:Lines>
+  <o:Paragraphs>33</o:Paragraphs>
+  <o:CharactersWithSpaces>16792</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -34,9 +34,9 @@ href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/editdata.mso">
  </o:OfficeDocumentSettings>
 </xml><![endif]-->
 <link rel=themeData
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/themedata.thmx">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10dd_files/themedata.thmx">
 <link rel=colorSchemeMapping
-href="Daily%20Pharma%20News%20Digest%20-%202026-06-10cc_files/colorschememapping.xml">
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-10dd_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:Zoom>0</w:Zoom>
@@ -783,7 +783,7 @@ Computing &lt;no-reply@snowflake.net&gt;<o:p></o:p></span></p>
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Sent:<span
 style='mso-tab-count:1'>                                               </span></span></b><span
 style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>10. juni
-2026 09:10<o:p></o:p></span></p>
+2026 09:23<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
 135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
@@ -855,7 +855,8 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Total relevant stories:</span></b><span
       style='font-size:10.0pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'> 42 &nbsp; | &nbsp; <b>Very important:</b> 26 &nbsp; |
-      &nbsp; <b>Important:</b> 16 &nbsp; | &nbsp; <b>Top summaries:</b> 8/10 <o:p></o:p></span></p>
+      &nbsp; <b>Important:</b> 16 &nbsp; | &nbsp; <b>AI summaries:</b> 9 &nbsp;
+      | &nbsp; <b>Limited-source items:</b> 1 <o:p></o:p></span></p>
       </td>
      </tr>
     </table>
@@ -877,7 +878,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/h8ydjQGq3fwIYlOmIz5iJbjJ0Ko=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/r42bollw57AhWfru2M7AUY3DqHs=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Innovent,
       fresh from $1.2B deal, posts phase 3 win for Takeda-partnered ADC</span></a>
       <o:p></o:p></span></b></p>
@@ -923,7 +924,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/qAHRqaKNYEuS2Zm6QCy9gm2sOzA=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cevo6eceAzaoeD9qfjCs8fMa80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/Ap7TgURH-LopOEOX5oRtNB-tV7g=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -940,7 +941,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/s48znDWJdD3jK0tnWupWcLk9t68=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/ZkVAKG1NAd6UT-z3JRGFatQaqW4=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Alnylam
       pens $2B deal with Inceptive to transform siRNA design with AI pioneer</span></a>
       <o:p></o:p></span></b></p>
@@ -989,7 +990,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/J12jI1yBfFjt96tgImXpeeSn0cw=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/xt4ummVMx4P631Nslbpkf0J-O1M=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1006,7 +1007,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/GaAcOa3uuKHI08wbBa2WJ756wXw=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/5y-Hw5dNiWAvANISGxUvkkVxXqA=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Ascidian,
       Lilly ink RNA exon editing pact worth up to $1.9B for genetic kidney
       diseases</span></a> <o:p></o:p></span></b></p>
@@ -1052,7 +1053,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/gLDeqQgiskac1_wn09oycIDhu1A=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeES6fjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/LESzSXYXLnRwnERq6l7doLj4kv8=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1069,7 +1070,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/18R_o91t-csNtygLs5ErIdT1Esg=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/kIJKO1wgcKhx5hV4ojhaV39iZOk=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Merck
       shrinks headcount by 88 in New Jersey as $3B cost-cutting scheme advances</span></a>
       <o:p></o:p></span></b></p>
@@ -1115,7 +1116,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/LwhjxSwR-hAVypdRvobz8xhZkYo=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce%255Enqece-wqoezO%257Cfj8DCDQa80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/ZJ_Ea7dKWaIDt4YPL1SP-ZxUK34=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1132,7 +1133,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/t8_7f_xG1aU2-hpjOdFv1BRGB64=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/QlE-a7NtH3arSliRw5PBe43F95w=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>GSK inks
       $10.6B Nuvalent buyout to challenge Roche and Pfizer in lung cancer</span></a>
       <o:p></o:p></span></b></p>
@@ -1180,7 +1181,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/jekh2_PHMbtSzxG0Ko-SLrS22fk=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ceyy6eceD8aofzEyfjRszy%255Ea80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/328sfMdHmSRiDAhlWPXYipX-1hc=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1197,7 +1198,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/SlYbrFr1f652dRXpYuijmXcXB-g=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/ZuKs-csFgVyQteeXxUgDZhxfCVc=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Incyte
       inks $2B deal to add Star unit to late-phase constellation and challenge
       Takeda</span></a> <o:p></o:p></span></b></p>
@@ -1246,7 +1247,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/EtfLWB-asko2_Cg6AvP-HWn65LI=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cexwqeceC7aofrv2fjOodoha80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/4eSV5M_p7HSz3Mtxyq1fLLL2MTI=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1263,7 +1264,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/sxr2ztt7g2PoPVKfDAzHgIjIXkI=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-g%2F/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/wI4HbhZmoX9ND6NjfbEOqHFvnoM=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Takeda
       says it expects to take $2.5B hit after Amitiza antitrust verdict, with
       plans to appeal</span></a> <o:p></o:p></span></b></p>
@@ -1282,9 +1283,23 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       "Times New Roman";color:#333333'>Summary:</span></b><span
       style='font-size:10.5pt;mso-fareast-font-family:"Times New Roman";
       color:#333333'><br>
-      Source text was limited for this item. Based on the headline and
-      metadata, the story appears relevant because it relates to Takeda · Top
-      25. Please fact-check this story via the article link. <o:p></o:p></span></p>
+      Takeda expects to take a $2.5 billion hit after losing an antitrust
+      lawsuit concerning its laxative drug Amitiza. The company has updated its
+      financial results to reflect the potential costs it could incur. Takeda
+      plans to appeal the verdict.<br>
+      <br>
+      The expected $2.5 billion hit is a significant financial implication for
+      Takeda, and the company's decision to appeal the verdict suggests that it
+      is not willing to accept the outcome without a fight. The antitrust
+      lawsuit and subsequent verdict may have broader implications for the
+      pharmaceutical industry, particularly with regards to competition and
+      pricing.<br>
+      <br>
+      The outcome of the appeal and the final financial impact on Takeda remain
+      to be seen, but the initial verdict has already led to a significant
+      expected loss for the company. This development may shape the industry's
+      approach to antitrust issues and competition in the pharmaceutical
+      market. <o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='font-size:10.0pt;mso-fareast-font-family:
@@ -1295,7 +1310,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-o%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/GTZ4rqLnkosggsgr3Zlq7uUDISY=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whklua-tkukirkro-g%2F/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/XxmHLIXkhpRD6AH1Rtej_xXcmOI=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1312,7 +1327,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/YOfJdzIwgRlfndaxDZv9F8sSpiA=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/REXAzVYll2TYlZOTIVzMtf5apf4=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>J&amp;J
       makes $1B move for Firefly Bio, Carolyn Bertozzi's twist on ADCs in KRAS
       field</span></a> <o:p></o:p></span></b></p>
@@ -1358,7 +1373,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/9hCJKXK2JHGg7kgFU_8_fDRgjq8=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-k%2F/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/zjta3T54JRWyW1xFZHjqSENT6CU=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1375,7 +1390,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/3pLOKx3mXBx0YQCVoj0nudd55FU=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/dudlzhtI0Jw9kq-gyUo8stqbSVs=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Nurix to
       work with Roche on BTK degrader in pact worth up to $2.3B</span></a> <o:p></o:p></span></b></p>
       </div>
@@ -1406,7 +1421,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/DbrFzYs6WBxKA48_5FX9-m3hjck=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-tt%2F/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/e8O9u3cYAtUBhlShgXjN2fxIvmQ=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
@@ -1423,7 +1438,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       </div>
       <div style='margin-bottom:6.0pt'>
       <p class=MsoNormal><b><span style='mso-fareast-font-family:"Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/0sMtKUyv2DZhei2cAs9WiltQOe0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/1/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/LStE3N7ntySw0OrWS6Q9sBzpG6k=473"><span
       style='color:#1A1A1A;text-decoration:none;text-underline:none'>Lilly
       locks in 5-program R&amp;D pact with China’s Haisco worth up to $3B, but
       targets unclear</span></a> <o:p></o:p></span></b></p>
@@ -1468,7 +1483,7 @@ mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
       <div>
       <p class=MsoNormal><span style='font-size:10.0pt;mso-fareast-font-family:
       "Times New Roman"'><a
-      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb05e0ce9-796fdb04-2f7a-4937-94d5-7b78e0e099fb-000000/x66hPiD6cFGaN8g0X2OFyRKuCr0=473"><span
+      href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cewgqeceBqLoeESDfjC-Mw%255Ea80%257EgjB9%257CYf2p/2/0102019eb069a296-dfff0a8c-95c4-4d54-9f34-e20fcd7ddf8a-000000/7ka3sV8BSSsAHfVq9cGiBQNsNDM=473"><span
       style='color:#0B57D0;text-decoration:none;text-underline:none'>Read article
       →</span></a> <o:p></o:p></span></p>
       </div>
