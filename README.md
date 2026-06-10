@@ -1,32 +1,18 @@
-Hej Camilla
+Hej Niels
 
+Håber du har det godt.
 
+Jeg skriver lige, da vi et på måneder siden snakkede kort på kontoret om, at jeg skulle tage fat i dig angående bachelor-/diplomprojekt, og at du mente, der nok skulle være noget relevant, vi kunne skrive om hos FUJIFILM.
 
-Håber du har det godt ⁠
+Jeg er nu gået i gang med at finde en virksomhedscase sammen med mine to studiekammerater fra DTU, Laurits og Malthe, med opstart efter sommerferien – enten i august eller september.
 
-Smile
+Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for supply chain, operations management, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringsprojekter.
 
+Derfor ville jeg høre, om du stadig tænker, at der kunne være en relevant case eller problemstilling hos FUJIFILM, som vi kunne undersøge nærmere.
 
+Vi vil meget gerne arbejde med en konkret udfordring, hvor vi kan bidrage med analyse, dataindsamling og konkrete løsningsforslag, som forhåbentlig også kan skabe værdi for jer.
 
-Jeg skriver, fordi jeg sammen med to studiekammerater fra DTU, Laurits og Malthe, er ved at finde en virksomhed at skrive vores bachelor-/diplomprojekt med efter sommerferien, med opstart august/september.
-
-
-
-Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for procurement, supply chain, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringer.
-
-
-
-Da du arbejder med Purchasing og Global Procurement, tænkte jeg, at der måske kunne være en relevant case hos jer – eksempelvis omkring indkøbsprocesser, supplier management, workflow-optimering, dataanalyse eller forbedring af eksisterende processer.
-
-
-
-Vi vil meget gerne arbejde med en konkret udfordring, hvor vi kan bidrage med analyse, dataindsamling og konkrete løsningsforslag.
-
-
-
-Hvis du har nogle idéer eller kan pege os i retning af den rette person, vil vi sætte stor pris på det.
-
-
+Hvis det giver mening, tager jeg også meget gerne en kort snak med dig om mulighederne.
 
 Mvh
 Morten
