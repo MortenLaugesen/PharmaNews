@@ -1,14 +1,14 @@
-Hej Niels
+Hej Anders
 
 Håber du har det godt.
 
-Vi snakkede for et par måneder siden kort på kontoret om, at jeg bare skulle tage fat i dig angående bachelor-/diplomprojekt, da du mente, der nok skulle være noget relevant, vi kunne skrive om hos FUJIFILM.
+Jeg skriver, fordi jeg mener, at Mia Knudsen muligvis har nævnt for dig, at jeg sammen med to studiekammerater fra DTU, Laurits og Malthe, søger en virksomhedscase til vores bachelor-/diplomprojekt efter sommerferien – med opstart i august/september.
 
-Derfor skriver jeg nu, da jeg sammen med mine to studiekammerater fra DTU, Laurits og Malthe, er i gang med at finde en virksomhedscase med opstart efter sommerferien – enten i august eller september.
+Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for procurement, category management, supply chain, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringer.
 
-Vi læser Manufacturing and Management og vil gerne arbejde med en konkret problemstilling inden for fx supply chain, operations, procesoptimering, Lean/continuous improvement eller dataunderstøttede forbedringer.
+Da du arbejder med Category Management, ville jeg høre, om du tænker, at der kunne være en relevant case eller problemstilling hos jer, som vi kunne undersøge nærmere.
 
-Tror du stadig, der kunne være en relevant case hos FUJIFILM, som vi kunne tage fat i?
+Det kunne fx være noget omkring supplier management, spend analysis, procesforbedringer, workflow-optimering eller dataanalyse.
 
 Hvis det giver mening, tager jeg meget gerne en kort snak med dig om mulighederne.
 
