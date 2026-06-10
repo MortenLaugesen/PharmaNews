@@ -2,7 +2,9 @@ Hej Anders
 
 Håber du har det godt.
 
-Jeg skriver, fordi jeg mener, at Mia Knudsen muligvis har nævnt for dig, at jeg sammen med to studiekammerater fra DTU, Laurits og Malthe, søger en virksomhedscase til vores bachelor-/diplomprojekt efter sommerferien – med opstart i august/september.
+Mia Knudsen nævnte, at jeg kunne skrive til dig angående bachelor-/diplomprojekt.
+
+Jeg er sammen med to studiekammerater fra DTU, Laurits og Malthe, i gang med at finde en virksomhedscase efter sommerferien – med opstart i august/september.
 
 Vi læser Manufacturing and Management på DTU og er særligt interesserede i projekter inden for procurement, category management, supply chain, procesoptimering, Lean/continuous improvement og dataunderstøttede forbedringer.
 
