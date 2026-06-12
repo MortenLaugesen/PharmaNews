@@ -1,3 +1,5 @@
+<img width="1470" height="956" alt="Skærmbillede 2026-06-12 kl  10 35 38" src="https://github.com/user-attachments/assets/684969dc-ce68-4cce-ab8a-53e520ff9504" />
+
 [Daily Pharma News Digest - Executive Context - 2026-06-11aa.htm](https://github.com/user-attachments/files/28834425/Daily.Pharma.News.Digest.-.Executive.Context.-.2026-06-11aa.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
