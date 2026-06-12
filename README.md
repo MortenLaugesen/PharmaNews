@@ -1,5 +1,9 @@
 [Daily Pharma News Digest - Executive Context - 2026-06-12bb.htm](https://github.com/user-attachments/files/28873417/Daily.Pharma.News.Digest.-.Executive.Context.-.2026-06-12bb.htm)
-[Daily Pharma News Digest - Executive Context - 2026-06-12cc.htm](https://github.com/user-attachments/files/28873421/Daily.Pharma.News.Digest.-.Executive.Context.-.2026-06-12cc.htm)<html xmlns:v="urn:schemas-microsoft-com:vml"
+
+
+[Daily Pharma News Digest - Executive Context - 2026-06-12cc.htm](https://github.com/user-attachments/files/28873421/Daily.Pharma.News.Digest.-.Executive.Context.-.2026-06-12cc.htm)
+
+<html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
 xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
