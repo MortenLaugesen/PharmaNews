@@ -1,3 +1,6 @@
+
+<img width="2559" height="1270" alt="image" src="https://github.com/user-attachments/assets/661b1d6f-613d-4b63-9e19-9131d6b26df0" />
+
 Hi Niels,
 
 Thank you for a good meeting today.
