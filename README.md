@@ -1,3 +1,6 @@
+[Møde med Niels Sørensen.docx](https://github.com/user-attachments/files/28945300/Mode.med.Niels.Sorensen.docx)
+
+
 Alletiders - vi tales ved om ca. 1 times tid. Ser frem til at høre nærmere om jeres interesse områder samt hvad er kravene til format fra universitetets side.
  
 
