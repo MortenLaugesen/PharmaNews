@@ -1,3 +1,30 @@
+Hi Niels,
+
+Thank you for a good meeting today.
+
+As agreed, I am sending a short summary that you are very welcome to share internally.
+
+We are three students from DTU studying the Bachelor of Engineering programme in Manufacturing and Management. The group consists of Laurits, Malthe and Morten. Laurits and Malthe have both completed their engineering internships at Novo Nordisk in Hillerød, and Morten is currently doing his internship at FUJIFILM.
+
+We are currently looking for a relevant case for our final Bachelor of Engineering project and are therefore exploring the possibility of collaborating with FUJIFILM.
+
+We are particularly interested in practical problem areas within manufacturing, supply chain, planning and process optimization. Relevant cases could, for example, focus on improving a production or planning flow, reducing waiting time or variation, improving capacity utilization, material readiness, or strengthening decision-making through data and KPIs.
+
+For us, it is important that the project is based on a real problem at FUJIFILM, where we can analyze the current process, apply relevant engineering methods and develop concrete, applicable improvement proposals.
+
+From DTU’s side, the project must be carried out in collaboration with a company. The project is 20 ECTS and corresponds to approximately 12 weeks of full-time work. We expect to start after the summer break, most likely in August/September, depending on the final agreement with FUJIFILM and our DTU supervisor.
+
+We are, of course, aware of confidentiality requirements and can adapt the project scope, data access and reporting to FUJIFILM’s internal requirements.
+
+If there is an area within your organization where this type of analysis could be relevant, we would be very happy to have a short introductory dialogue.
+
+Thank you again for your help.
+
+Best regards,
+Morten Laugesen
+On behalf of the group
+
+
 Hej Niels
 
 Tak for et godt møde i dag.
