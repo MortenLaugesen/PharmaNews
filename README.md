@@ -1,3 +1,6 @@
+Alletiders - vi tales ved om ca. 1 times tid. Ser frem til at høre nærmere om jeres interesse områder samt hvad er kravene til format fra universitetets side.
+ 
+
 [Daily Pharma News Digest - 2026-06-12ff.htm](https://github.com/user-attachments/files/28876134/Daily.Pharma.News.Digest.-.2026-06-12ff.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
