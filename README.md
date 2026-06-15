@@ -1,3 +1,30 @@
+Hej Niels
+
+Tak for et godt møde i dag.
+
+Som aftalt sender jeg her en kort opsummering, som du meget gerne må dele videre internt.
+
+Vi er tre studerende fra DTU, der læser diplomingeniøruddannelsen Produktion og Ledelse / Manufacturing and Management. Gruppen består af Laurits, Malthe og Morten. Laurits og Malthe har begge været i ingeniørpraktik hos Novo Nordisk i Hillerød, og Morten er i øjeblikket i praktik hos FUJIFILM.
+
+Vi er i gang med at finde en relevant case til vores afsluttende diplomingeniørprojekt og undersøger derfor muligheden for et samarbejde med FUJIFILM.
+
+Vi er særligt interesserede i praktiske problemstillinger inden for produktion, supply chain, planlægning og procesoptimering. Eksempler på relevante cases kunne være forbedring af et produktions- eller planlægningsflow, reduktion af ventetid eller variation, bedre kapacitetsudnyttelse, material readiness eller et stærkere beslutningsgrundlag gennem data og KPI’er.
+
+For os er det centralt, at projektet tager udgangspunkt i en reel problemstilling hos FUJIFILM, hvor vi kan analysere den nuværende proces, anvende relevante ingeniørfaglige metoder og komme med konkrete, anvendelige forbedringsforslag.
+
+Fra DTU’s side skal projektet udarbejdes i samarbejde med en virksomhed. Projektet er på 20 ECTS og svarer til cirka 12 ugers fuldtidsarbejde. Vi forventer at starte efter sommerferien, formentlig i august/september, afhængigt af den endelige aftale med FUJIFILM og DTU-vejleder.
+
+Vi er naturligvis opmærksomme på fortrolighed og kan tilpasse projektets scope, dataadgang og rapportering efter FUJIFILMs interne krav.
+
+Hvis der findes et område hos jer, hvor en sådan analyse kunne være relevant, tager vi meget gerne en kort indledende dialog.
+
+Endnu en gang tak for hjælpen.
+
+Med venlig hilsen
+Morten Laugesen
+På vegne af gruppen
+
+
 [Møde med Niels Sørensen.docx](https://github.com/user-attachments/files/28945300/Mode.med.Niels.Sorensen.docx)
 
 
