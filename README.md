@@ -1,3 +1,1487 @@
+[Daily Pharma News Digest - 2026-06-15aa.htm](https://github.com/user-attachments/files/28953837/Daily.Pharma.News.Digest.-.2026-06-15aa.htm)<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=unicode">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 15">
+<meta name=Originator content="Microsoft Word 15">
+<link rel=File-List
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-15aa_files/filelist.xml">
+<link rel=Edit-Time-Data
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-15aa_files/editdata.mso">
+<title>Daily Pharma News Digest</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Template>NormalEmail</o:Template>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2026-06-15T11:53:00Z</o:Created>
+  <o:Pages>1</o:Pages>
+  <o:Words>2371</o:Words>
+  <o:Characters>14467</o:Characters>
+  <o:Company>Fujifilm Diosynth Biotechnologies</o:Company>
+  <o:Lines>120</o:Lines>
+  <o:Paragraphs>33</o:Paragraphs>
+  <o:CharactersWithSpaces>16805</o:CharactersWithSpaces>
+  <o:Version>16.00</o:Version>
+ </o:DocumentProperties>
+ <o:OfficeDocumentSettings>
+  <o:AllowPNG/>
+ </o:OfficeDocumentSettings>
+</xml><![endif]-->
+<link rel=themeData
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-15aa_files/themedata.thmx">
+<link rel=colorSchemeMapping
+href="Daily%20Pharma%20News%20Digest%20-%202026-06-15aa_files/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>0</w:Zoom>
+  <w:DocumentKind>DocumentEmail</w:DocumentKind>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>DA</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:DoNotExpandShiftReturn/>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:EnableOpenTypeKerning/>
+  </w:Compatibility>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
+  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="376">
+  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index 9"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" Name="toc 9"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="header"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footer"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="index heading"/>
+  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of figures"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="envelope return"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="footnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="line number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="page number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote reference"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="endnote text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="table of authorities"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="macro"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="toa heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Bullet 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Number 5"/>
+  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Closing"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Signature"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="List Continue 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Message Header"/>
+  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Salutation"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Date"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text First Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Note Heading"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Body Text Indent 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Block Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="FollowedHyperlink"/>
+  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Document Map"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Plain Text"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="E-mail Signature"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Top of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Bottom of Form"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal (Web)"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Acronym"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Address"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Cite"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Code"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Definition"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Keyboard"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Preformatted"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Sample"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Typewriter"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="HTML Variable"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Normal Table"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="annotation subject"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="No List"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Outline List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Simple 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Classic 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Colorful 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Columns 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Grid 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 4"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 5"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 7"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table List 8"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table 3D effects 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Contemporary"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Elegant"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Professional"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Subtle 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 2"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Web 3"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Balloon Text"/>
+  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Table Theme"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" QFormat="true"
+   Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" QFormat="true"
+   Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" QFormat="true"
+   Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" QFormat="true"
+   Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" QFormat="true"
+   Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" QFormat="true"
+   Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
+   UnhideWhenUsed="true" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
+   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
+  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
+  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
+  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
+  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
+  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
+  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
+  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="Grid Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="Grid Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="Grid Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
+  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
+  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 1"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 1"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 2"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 2"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 3"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 3"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 4"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 4"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 5"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 5"/>
+  <w:LsdException Locked="false" Priority="46"
+   Name="List Table 1 Light Accent 6"/>
+  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
+  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
+  <w:LsdException Locked="false" Priority="51"
+   Name="List Table 6 Colorful Accent 6"/>
+  <w:LsdException Locked="false" Priority="52"
+   Name="List Table 7 Colorful Accent 6"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Hyperlink"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Hashtag"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Unresolved Mention"/>
+  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
+   Name="Smart Link"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-469750017 -1040178053 9 0 511 0;}
+@font-face
+	{font-family:Aptos;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:536871559 3 0 0 415 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:Aptos;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:Aptos;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Aptos",sans-serif;
+	mso-fareast-font-family:Aptos;
+	mso-fareast-theme-font:minor-latin;
+	mso-bidi-font-family:Aptos;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
+	mso-font-kerning:0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:72.0pt 72.0pt 72.0pt 72.0pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman",serif;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body bgcolor="#F3F4F6" lang=DA link=blue vlink=purple style='tab-interval:
+65.2pt;word-wrap:break-word'>
+
+<div class=WordSection1>
+
+<p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
+135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>From:<span
+style='mso-tab-count:1'>                                             </span></span></b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Snowflake
+Computing &lt;no-reply@snowflake.net&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
+135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Sent:<span
+style='mso-tab-count:1'>                                               </span></span></b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>15. juni
+2026 13:31<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
+135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>To:<span
+style='mso-tab-count:1'>                                                  </span></span></b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Morten
+Laugesen<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:135.0pt;text-indent:-135.0pt;tab-stops:
+135.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Subject:<span
+style='mso-tab-count:1'>                                         </span></span></b><span
+style='font-size:11.0pt;font-family:"Calibri",sans-serif;color:black'>Daily
+Pharma News Digest - 2026-06-15<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<div width:100%;="" border-style:="" solid;="" border-color:#9C6500;=""
+border-width:1pt;="" padding:2pt;="" font-size:10pt;="" line-height:14pt;=""
+font-family:Calibri;="" color:Black;="" text-align:="" left;="">
+
+<p class=MsoNormal style='background:#FFEB9C'><span style='mso-fareast-font-family:
+"Times New Roman";color:#9C6500'>CAUTION:</span></span><span style='mso-fareast-font-family:
+"Times New Roman";color:black;mso-color-alt:windowtext'> This email originated
+from outside of the organization. Do not click links or open attachments unless
+you recognize the sender and know the content is safe.</span><span
+style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+
+</div>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0 width="100%"
+ style='width:100.0%;mso-cellspacing:0cm;background:#F3F4F6;mso-yfti-tbllook:
+ 1184;mso-padding-alt:0cm 0cm 0cm 0cm' role=presentation>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+  <td style='padding:21.0pt 9.0pt 21.0pt 9.0pt'>
+  <div align=center>
+  <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+   style='max-width:510.0pt;mso-cellspacing:0cm;background:white;mso-yfti-tbllook:
+   1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 16px;overflow:hidden'
+   role=presentation>
+   <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+    <td style='background:#111827;padding:25.5pt 25.5pt 22.5pt 25.5pt'>
+    <div style='margin-bottom:7.5pt'>
+    <p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:#93C5FD;text-transform:
+    uppercase;letter-spacing:.95pt'>BI &amp; Insights · Strategic News Monitor <o:p></o:p></span></p>
+    </div>
+    <div>
+    <p class=MsoNormal><b><span style='font-size:22.5pt;font-family:"Arial",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:white'>Daily Pharma News
+    Digest <o:p></o:p></span></b></p>
+    </div>
+    <div style='margin-top:7.5pt'>
+    <p class=MsoNormal><span style='font-size:11.5pt;font-family:"Arial",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:#D1D5DB'>Executive-context
+    summaries of the most relevant pharma, biopharma, CDMO, pipeline, deal,
+    regulatory and capacity signals. <o:p></o:p></span></p>
+    </div>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:1'>
+    <td style='padding:18.0pt 25.5pt 6.0pt 25.5pt'>
+    <div style='border:none;border-bottom:solid #E5E7EB 1.0pt;mso-border-bottom-alt:
+    solid #E5E7EB .75pt;padding:0cm 0cm 11.0pt 0cm'>
+    <p class=MsoNormal><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:#6B7280'>7 stories ·
+    2026-06-15 <o:p></o:p></span></p>
+    </div>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:2'>
+    <td style='padding:7.5pt 25.5pt 18.0pt 25.5pt'>
+    <table class=MsoNormalTable border=0 cellspacing=0 cellpadding=0
+     width="100%" style='width:100.0%;mso-cellspacing:0cm;mso-yfti-tbllook:
+     1184;mso-padding-alt:0cm 0cm 0cm 0cm' role=presentation>
+     <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#1 · FIERCE · 2026-06-10 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cez8qeceFfqof0k%255EfjR7O%255Eta80%257EgjB9%257CYf2p/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/fNrRtwNhXjhEGzBsKad16reFsmw=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>ASCO:
+        Lilly exec point to ‘nutty’ 100% re pon e rate for in vivo CAR-T a ju
+        tifying Kelonia buyout</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>M&amp;A / Acquisition </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Lilly's executives pointed to a 'nutty' 100% response rate for in vivo
+        CAR-T, justifying the company's buyout of Kelonia. Meanwhile, GSK has
+        acquired Nuvalent for $10.6 billion, securing two near-approval cancer
+        therapies that could challenge products from Roche and Pfizer.
+        Additionally, Pfizer has partnered with Innovent in a $10 billion,
+        12-drug deal to leverage China's fast early development system.
+        Gilead's Trodelvy has failed in a first-line lung cancer trial, and the
+        company is touting ADC ovarian cancer data as proof that its Tubuli
+        buyout was a good deal.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The recent deals and partnerships in the oncology space reflect the
+        intense competition and strategic pressure to build a strong portfolio
+        of cancer therapies. The GSK-Nuvalent deal and Pfizer-Innovent
+        partnership demonstrate the desire to challenge established players
+        like Roche and Pfizer, while also highlighting the importance of
+        leveraging innovative technologies and geographies, such as China's
+        fast early development system. The failure of Gilead's Trodelvy and the
+        emphasis on ADC ovarian cancer data also underscore the need for
+        diversification and the potential of emerging modalities like CAR-T and
+        ADCs.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that large pharma companies are willing to make
+        significant investments to build their oncology portfolios and stay
+        competitive in a rapidly evolving landscape. This is mainly a portfolio
+        play, with companies seeking to acquire or partner on promising assets
+        to drive growth and mitigate the risk of patent cliffs. The implication
+        is that companies will need to continue to invest in innovative
+        technologies and geographies to remain competitive, and that emerging
+        modalities like CAR-T and ADCs will play an increasingly important role
+        in the oncology landscape.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * GSK's integration of Nuvalent's assets and their impact on the
+        company's oncology portfolio<br>
+        * Pfizer's progress in leveraging Innovent's early development
+        capabilities in China<br>
+        * The development and commercialization of Lilly's in vivo CAR-T
+        therapy and its potential to challenge established players in the
+        oncology space <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:1'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#2 · FIERCE · 2026-06-10 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cez8qeceFfqof0%257CyfjR7O%255Eta80%257EgjB9%257CYf2p/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/tZrSSdeHyyq4-jubjGj15Na1ec4=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>ASCO:
+        Gilead tout ADC ovarian cancer data a proof Tubuli buyout wa ‘a good
+        deal’</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>M&amp;A / Acquisition </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Gilead has presented positive data on its antibody-drug conjugate (ADC)
+        for ovarian cancer at the ASCO conference, which the company believes
+        justifies its $3.15 billion acquisition of Tubuli earlier this year.
+        The data supports the potential of the ADC, TUB-040, as a treatment for
+        ovarian cancer. Meanwhile, other major pharmaceutical companies such as
+        GSK and Pfizer are also making significant moves in the oncology space,
+        with GSK acquiring Nuvalent for $10.6 billion and Pfizer partnering
+        with Innovent in a $10 billion deal.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The recent activity in the oncology space, including Gilead's ADC data
+        and the major acquisitions and partnerships by GSK and Pfizer, reflects
+        the intense competition and strategic pressure to develop innovative
+        cancer treatments. The focus on ADCs and other targeted therapies
+        highlights the industry's shift towards more precise and effective
+        modalities. The involvement of Chinese biotech companies, such as
+        Innovent, also underscores the growing importance of the Chinese market
+        and the need for global pharmaceutical companies to partner with local
+        players to access this market.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that major pharmaceutical companies are willing
+        to make significant investments in oncology, particularly in targeted
+        therapies like ADCs, to stay competitive. This trend is driven by the
+        need to address the high unmet medical need in cancer treatment and to
+        capitalize on the growing demand for innovative therapies. The
+        implication is that companies will need to prioritize their portfolios
+        and allocate resources effectively to develop and commercialize these
+        complex and expensive treatments.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * Gilead's further development of TUB-040 and its potential approval
+        timeline<br>
+        * The impact of GSK's Nuvalent acquisition on the competitive landscape
+        in lung cancer treatment<br>
+        * Pfizer's progress in its partnership with Innovent and the potential
+        for future collaborations in the Chinese market <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:2'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#3 · FIERCE · 2026-06-10 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cez8qeceFfqof0kmfjR7O%255Eta80%257EgjB9%257CYf2p/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/X7nhygMzxzZOLo6cF8_a6NyYuIE=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>Innovent,
+        fre h from $1.2B deal, po t pha e 3 win for Takeda-partnered ADC</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>General Strategic News </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Pfizer has partnered with Innovent in a $10 billion, 12-drug deal,
+        marking a significant bet on Chinese cancer medicine innovation. This
+        partnership comes as GSK has acquired Nuvalent for $10.6 billion,
+        securing two near-approval cancer therapies that could challenge
+        products from Roche, Pfizer, and other drugmakers. Additionally,
+        Gilead's Trodelvy has failed in a phase 3 trial for first-line lung
+        cancer, shifting attention to Merck, AstraZeneca, and Daiichi as
+        rivals.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The recent deals and failures in the oncology space reflect the intense
+        competition and strategic pressure to innovate in cancer treatment. The
+        partnerships and acquisitions, such as Pfizer's deal with Innovent and
+        GSK's acquisition of Nuvalent, demonstrate the industry's focus on
+        securing promising therapies and technologies to stay ahead in the
+        market. The failure of Gilead's Trodelvy also highlights the risks and
+        challenges associated with cancer drug development.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that large pharmaceutical companies are
+        increasingly looking to partner with or acquire innovative biotech
+        companies, particularly those with promising oncology assets, to
+        bolster their pipelines and stay competitive. This trend is driven by
+        the need to address patent cliffs, pipeline gaps, and the rising demand
+        for effective cancer treatments. As a result, companies like Pfizer,
+        GSK, and Merck are likely to continue pursuing strategic partnerships
+        and acquisitions to enhance their oncology portfolios.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * Pfizer's progress with Innovent's cancer therapies, particularly in
+        the Chinese market<br>
+        * GSK's integration of Nuvalent's assets and their potential impact on
+        the company's oncology pipeline<br>
+        * Merck's and AstraZeneca's responses to the failure of Gilead's
+        Trodelvy and their strategies to capitalize on the resulting gap in the
+        market <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:3'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#4 · FIERCE · 2026-06-08 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6cex0qeceCAaofnyqfjNsrqta80%257EgjB9%257CYf2p/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/_AKjbeBJ0CxhfeTSIjCQ5filTmc=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>Alnylam
+        pen $2B deal with Inceptive to tran form iRNA de ign with AI pioneer</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>AI / Discovery Platform </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Alnylam has partnered with Inceptive, a company founded by Jakob
+        Uszkoreit, one of the pioneers behind ChatGPT, in a $2 billion deal to
+        transform iRNA design using artificial intelligence. This collaboration
+        aims to leverage AI capabilities to enhance drug discovery and
+        development. The deal involves an initial payment of $30 million, with
+        the potential for significant additional investments.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The partnership between Alnylam and Inceptive reflects the growing
+        trend of integrating artificial intelligence into biopharmaceutical
+        research and development. This collaboration is driven by the strategic
+        pressure to improve the efficiency and effectiveness of drug discovery,
+        particularly in the field of RNA-based therapies. By combining
+        Alnylam's expertise in RNAi therapeutics with Inceptive's AI
+        capabilities, the companies aim to accelerate the development of
+        innovative treatments.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that AI-driven drug discovery is becoming
+        increasingly important in the biopharmaceutical industry, with
+        companies seeking to leverage machine learning and other AI
+        technologies to enhance their R&amp;D capabilities. This trend is
+        likely to continue, with more companies forming partnerships or
+        investing in AI-based platforms to stay competitive in the rapidly
+        evolving landscape of drug development.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * Further partnerships or investments in AI-driven drug discovery
+        platforms<br>
+        * The impact of AI on the efficiency and productivity of biopharmaceutical
+        R&amp;D<br>
+        * The potential for AI-driven discoveries to lead to new therapeutic
+        breakthroughs, particularly in the field of RNA-based therapies <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:4'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#5 · ENDPOINTS · 2026-06-08 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whhukky-tkukirkro-r%2F/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/Fwag_-7kbTdMvyN3mXHy14Cllws=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>J&amp;J'
+        $1B deal for a twi t on ADC Read in brow er</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>General Strategic News </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Johnson &amp; Johnson (J&amp;J) has made a $1 billion deal for Firefly
+        Bio, a company co-founded by Carolyn Bertozzi, which is working on
+        antibody-drug conjugates (ADCs) in the KRAS field. This move highlights
+        J&amp;J's interest in ADC technology and its potential application in
+        treating various cancers. The deal value and the specific focus on
+        KRAS, a notoriously difficult target, underscore the significance of
+        this acquisition.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The deal reflects the growing importance of ADCs as a modality in
+        oncology, particularly in targeting complex and previously undruggable
+        targets like KRAS. This trend is driven by the need for more effective
+        and targeted cancer therapies, and J&amp;J's move is a strategic
+        response to this pressure. The acquisition also highlights the value of
+        innovative technologies and platforms in the biopharma industry, where
+        companies are willing to invest heavily in promising assets to stay
+        competitive.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that large pharma companies like J&amp;J are
+        increasingly looking to external innovation to bolster their pipelines,
+        particularly in high-potential areas like ADCs. This implies a
+        continued focus on targeted therapies and a willingness to invest in
+        emerging technologies to stay ahead in the oncology market. The deal
+        also underscores the importance of platform strategies, where companies
+        can leverage innovative technologies to develop multiple assets and
+        create long-term value.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * J&amp;J's progress in developing Firefly Bio's ADC assets,
+        particularly in the KRAS field<br>
+        * The impact of this deal on the broader ADC market and potential
+        future acquisitions or partnerships<br>
+        * The competitive response from other large pharma companies in the
+        oncology space, particularly in terms of their own investments in ADC
+        technology and platform strategies <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:5'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#6 · FIERCE · 2026-06-12 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fqtx.omeclk.com%2Fportal%2Fwts%2Fuc%255EcmQ6ce7rqeceM2qogfAmfkejOAda80%257EgjB9%257CYf2p/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/IoS5N1xuU1hVw-jzGjGBp2y_S0o=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>Roche tick
+        with €600M diagno tic inve tment in Germany but warn of future ri k</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>General Strategic News </span></span><span style='mso-fareast-font-family:
+        "Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        Roche has invested €600M in diagnostic investments in Germany, despite
+        warnings of future risks. This move comes as other companies, such as
+        Eli Lilly and Boehringer Ingelheim, are cutting investments in the
+        country. The investment is a significant commitment to Roche's
+        diagnostic capabilities, and the company's decision to proceed with it
+        suggests a strategic priority on diagnostics. Additionally, GSK has
+        recently acquired Nuvalent for $10.6B, which could challenge Roche's
+        position in the lung cancer market.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The investment by Roche reflects a strategic pressure to maintain
+        competitiveness in the diagnostics space, particularly in light of
+        GSK's recent acquisition of Nuvalent. The diagnostics market is
+        becoming increasingly important for pharmaceutical companies, and
+        Roche's investment suggests a desire to stay ahead of the curve. The
+        fact that other companies are cutting investments in Germany adds a
+        layer of complexity to Roche's decision, highlighting the need for careful
+        consideration of risk and return.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that Roche is prioritizing diagnostics as a key
+        area of focus, and is willing to invest heavily to maintain its
+        position in the market. This is mainly a play to strengthen Roche's
+        portfolio and competitiveness, particularly in the face of increasing
+        competition from GSK and other players in the lung cancer space. The
+        investment also highlights the importance of diagnostics in the
+        pharmaceutical industry, and the need for companies to prioritize this
+        area in order to remain competitive.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * Roche's diagnostic investments in Germany and their impact on the
+        company's competitiveness<br>
+        * GSK's integration of Nuvalent and its potential to challenge Roche's
+        position in the lung cancer market<br>
+        * The overall trend of pharmaceutical companies prioritizing
+        diagnostics and its implications for the industry <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+     <tr style='mso-yfti-irow:6;mso-yfti-lastrow:yes'>
+      <td style='padding:0cm 0cm 13.5pt 0cm'>
+      <table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+       width="100%" style='width:100.0%;mso-cellspacing:0cm;background:white;
+       border:solid #E5E7EB 1.0pt;mso-border-alt:solid #E5E7EB .75pt;
+       mso-yfti-tbllook:1184;mso-padding-alt:0cm 0cm 0cm 0cm;border-radius: 12px'
+       role=presentation>
+       <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes'>
+        <td style='border:none;padding:16.5pt 18.0pt 15.0pt 18.0pt'>
+        <div style='margin-bottom:6.0pt'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#6B7280;text-transform:
+        uppercase;letter-spacing:.25pt'>#7 · ENDPOINTS · 2026-06-10 <o:p></o:p></span></p>
+        </div>
+        <div style='margin-bottom:7.5pt'>
+        <p class=MsoNormal><b><span style='font-size:15.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#111827'><a
+        href="https://j06yswzb.r.eu-west-1.awstrack.me/L0/https:%2F%2Fe.endpointsnews.com%2Ft%2Ft-l-whuout-tkukirkro-n%2F/1/0102019ecb0ccf47-0d142886-e3ff-478a-a9cf-65e7dfdd6418-000000/4aEFv_zXqfQFwgYt7R5xHrTfrC8=473"><span
+        style='color:#111827;text-decoration:none;text-underline:none'>A father
+        built a gene therapy for hi daughter. He ay an FDA reque t i the
+        bottleneck</span></a><o:p></o:p></span></b></p>
+        </div>
+        <div style='margin-bottom:10.5pt'><span style='display:inline-block;
+        border-radius: 999px'>
+        <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+        mso-fareast-font-family:"Times New Roman";color:#374151;background:
+        #F3F4F6'>Clinical / Regulatory Catalyst </span></span><span
+        style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></p>
+        </div>
+        <div style='border:none;border-left:solid #2563EB 3.0pt;padding:0cm 0cm 0cm 12.0pt;
+        border-radius: 8px'>
+        <p class=MsoNormal style='background:#F9FAFB'><b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'>Executive read:</span></b><span
+        style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+        "Times New Roman";color:#111827'><br>
+        A father's efforts to develop a gene therapy for his daughter have led
+        to an FDA request, highlighting the potential bottleneck in the
+        regulatory process for such treatments. Meanwhile, several biotech
+        companies, including Parabili Medicine, Beren Therapeutics, and
+        SonoThera, have made significant advancements, with Parabili Medicine
+        completing the largest biotech IPO in history, raising $670 million,
+        and Beren Therapeutics securing $300 million in new financing.
+        SonoThera has also raised $125 million to develop its non-viral gene
+        therapy approach.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic context:</b><br>
+        The news reflects the growing trend of innovative biotech companies
+        pushing the boundaries of gene therapy and other advanced modalities.
+        The significant funding raised by these companies demonstrates the
+        investor confidence in the potential of these treatments. The FDA
+        request related to the father's gene therapy also highlights the
+        regulatory complexities and potential bottlenecks that these companies
+        may face. The strategic pressure is on these companies to navigate the
+        regulatory landscape while advancing their pipeline assets.<br>
+        <br>
+        <br>
+        <br>
+        <b>Strategic implication:</b><br>
+        The strategic signal is that gene therapy and other advanced modalities
+        are becoming increasingly important in the biopharma landscape, with
+        significant investment and regulatory attention focused on these areas.
+        The implication is that companies will need to prioritize their
+        pipeline assets, manage regulatory complexities, and secure sufficient
+        funding to advance their programs. This is mainly a challenge of
+        balancing innovation with regulatory and financial realities.<br>
+        <br>
+        <br>
+        <br>
+        <b>Watch items:</b><br>
+        * Parabili Medicine's progress with its pipeline assets and how it
+        utilizes its IPO funding<br>
+        * Beren Therapeutics' FDA decision and subsequent launch plans for its
+        rare disease drug<br>
+        * SonoThera's clinical development of its non-viral gene therapy
+        approach and potential regulatory milestones <o:p></o:p></span></p>
+        </div>
+        </td>
+       </tr>
+      </table>
+      </td>
+     </tr>
+    </table>
+    </td>
+   </tr>
+   <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
+    <td style='border:none;border-top:solid #E5E7EB 1.0pt;mso-border-top-alt:
+    solid #E5E7EB .75pt;background:#F9FAFB;padding:16.5pt 25.5pt 16.5pt 25.5pt'>
+    <div>
+    <p class=MsoNormal><span style='font-size:9.0pt;font-family:"Arial",sans-serif;
+    mso-fareast-font-family:"Times New Roman";color:#6B7280'>Generated by BI
+    &amp; Insights Strategic News Monitor. Summaries are intended for strategic
+    screening and should be fact-checked before external distribution. <o:p></o:p></span></p>
+    </div>
+    </td>
+   </tr>
+  </table>
+  </div>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal><span style='mso-fareast-font-family:"Times New Roman"'><o:p>&nbsp;</o:p></span></p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>
+
+
+
 <img width="2559" height="1286" alt="image" src="https://github.com/user-attachments/assets/91d0bb07-1906-4dec-ba56-3cdf543ceeb0" />
 
 
