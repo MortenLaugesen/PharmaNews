@@ -1,3 +1,4 @@
+<img width="1470" height="840" alt="Skærmbillede 2026-06-16 kl  08 54 17" src="https://github.com/user-attachments/assets/c3ed314b-3b9f-4917-8a29-4c1ad6ba296d" />
 [Daily Pharma News Digest - 2026-06-15aa.htm](https://github.com/user-attachments/files/28953837/Daily.Pharma.News.Digest.-.2026-06-15aa.htm)<html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
