@@ -1,3 +1,8 @@
+[pharma_news_monitoring1.2.pptx](https://github.com/user-attachments/files/28997495/pharma_news_monitoring1.2.pptx)
+
+
+
+
 [Daily Pharma News Digest - 2026-06-16aa.htm](https://github.com/user-attachments/files/28993327/Daily.Pharma.News.Digest.-.2026-06-16aa.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
