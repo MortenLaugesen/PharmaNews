@@ -1,4 +1,5 @@
 [pharma_news_monitoring1.2.pptx](https://github.com/user-attachments/files/28997495/pharma_news_monitoring1.2.pptx)
+<img width="833" height="193" alt="image" src="https://github.com/user-attachments/assets/a83b9ccb-048f-46f2-80d5-33f3dfa724b5" />
 
 
 
