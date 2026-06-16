@@ -1,6 +1,11 @@
 Godt at høre!
 
-Ja det er jo win win, men jeg skal lige snakke med min gruppe om hvilket område vi gerne vil skrive om, da vi indtil nu har været meget åbne og så været sådan "hvilke problemer/cases har I også kan vi vælge ud fra det". Det er mit indtryk at der er masser at skrive om, så det er mere os der skal sige "vi vil gerne skrive om dette, har I noget der passer?" Så det skal vi lige have finjusteret, hvilket vi synes godt kan være lidt svært da man skal vælge noget man faktisk ikke helt ved er.
+Ja, det kunne virkelig være win-win. Jeg skal dog lige vende det med min gruppe, så vi kan blive lidt skarpere på, hvilket område vi helst vil skrive indenfor.
+
+Indtil nu har vi været ret åbne og tænkt: “Hvilke problemer eller cases har I, som vi eventuelt kan tage udgangspunkt i?” Men mit indtryk er, at der er rigtig mange muligheder, så det giver nok bedre mening, at vi selv bliver lidt mere konkrete og siger: “Vi vil gerne arbejde med dette område — har I noget, der passer til det?”
+
+Det skal vi lige have finjusteret, for det kan være lidt svært at vælge retning, når man endnu ikke kender de konkrete cases. Men vi arbejder på at gøre det mere skarpt.
+
 
 
 <img width="1470" height="840" alt="Skærmbillede 2026-06-16 kl  08 54 17" src="https://github.com/user-attachments/assets/c3ed314b-3b9f-4917-8a29-4c1ad6ba296d" />
