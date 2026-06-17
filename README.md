@@ -1,1 +1,2 @@
 
+Support a broad range of data ETL, analytics, market insights and business development projects. Assist in implementation, design and optimization of automatic data collection and processing workflows. Design, assess and assist in AI/LLM experiments with a focus on business intelligence and market insights. Assist in any adhoc tasks/projects within the Business Intelligence team, including competitor analysis, strategy consulting and create/maintain slide decks. Maintain and update project relevant documentation to ensure sustainability of work projects.​
