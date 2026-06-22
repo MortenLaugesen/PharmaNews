@@ -1,4 +1,4 @@
-[Uploading Daily Pharma News Digest - 2026-06-22aa.htm…]()
+[Daily Pharma News Digest - 2026-06-22aa.htm](https://github.com/user-attachments/files/29196101/Daily.Pharma.News.Digest.-.2026-06-22aa.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -20,7 +20,7 @@ href="Daily%20Pharma%20News%20Digest%20-%202026-06-22aa_files/editdata.mso">
   <o:Template>NormalEmail</o:Template>
   <o:Revision>1</o:Revision>
   <o:TotalTime>0</o:TotalTime>
-  <o:Created>2026-06-22T07:53:00Z</o:Created>
+  <o:Created>2026-06-22T07:55:00Z</o:Created>
   <o:Pages>1</o:Pages>
   <o:Words>3316</o:Words>
   <o:Characters>20232</o:Characters>
