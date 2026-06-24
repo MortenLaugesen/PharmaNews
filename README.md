@@ -1,6 +1,10 @@
-Built and supported Tableau dashboards for CDMO competitor and capacity intelligence, covering companies, modalities, geographies and current vs. planned manufacturing capacity.
-Used Snowflake and Alteryx to clean, structure and transform market and competitor data for internal BI workflows.
-Developed an automated pharma news monitoring workflow using Alteryx, Snowflake and AI/LLM tools to convert newsletter emails into structured article-level insights.
-Supported market intelligence and competitor analysis by translating complex biotech/CDMO information into clear visuals, summaries and business-relevant recommendations.
-Worked with data quality, filtering, deduplication and relevance classification to improve how market information is monitored and used internally.
-Contributed to data-driven strategic decision-making by preparing structured insights for internal stakeholders.
+Hej Nicklas,
+
+Tak for snakken mandag.
+
+Jeg har vendt projektidéen med min gruppe, og vi synes, at det lyder som en rigtig spændende og relevant case. Vi vil derfor meget gerne gå videre med projektet omkring bemandings-/kapacitetsanalyse baseret på produktionsplan og processer.
+
+Kunne du have tid til et møde mandag eller tirsdag i næste uge, gerne om morgenen eller om eftermiddagen? Her vil jeg også gerne tage mine to gruppemedlemmer med, så de kan møde dig, og vi sammen kan få en bedre forståelse af casen, dataen og hvordan vi eventuelt kan gribe projektet an.
+
+Mvh
+Morten
