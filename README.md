@@ -1,10 +1,9 @@
-IF IsNull([ENRICHED_TEXT]) THEN 0 ELSE Length([ENRICHED_TEXT]) ENDIF
-
-DateTimeNow()
-
+IF [EXTRACTION_STATUS] != "success" THEN "snippet_only"
+ELSEIF Length([ENRICHED_TEXT]) > 500 THEN "full_article"
+ELSEIF Length([ENRICHED_TEXT]) > 100 THEN "partial_extract"
+ELSE "snippet_only"
+ENDIF
 
 IF [EXTRACTION_STATUS] = "success" THEN Null()
-ELSE "Downloaded but marked as " + [EXTRACTION_STATUS]
+ELSE "Downloaded but marked as " + [EXTRACTION_STATUS] + ". Header: " + Left([DownloadHeaders], 100)
 ENDIF
-<img width="2546" height="1347" alt="image" src="https://github.com/user-attachments/assets/4ca54238-683e-4a81-b829-ed4659033320" />
-
