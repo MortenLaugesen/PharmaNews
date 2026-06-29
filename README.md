@@ -7,3 +7,5 @@ ENDIF
 IF [EXTRACTION_STATUS] = "success" THEN Null()
 ELSE "Downloaded but marked as " + [EXTRACTION_STATUS] + ". Header: " + Left([DownloadHeaders], 100)
 ENDIF
+
+
