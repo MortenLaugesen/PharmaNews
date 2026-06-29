@@ -12,3 +12,5 @@ ELSEIF Contains(Lowercase([DownloadData]), "subscribe")
 THEN "paywall"
 ELSE "success"
 ENDIF
+
+<img width="2487" height="869" alt="image" src="https://github.com/user-attachments/assets/1acba436-6b91-4cfb-beb8-18d0c9f54afb" />
