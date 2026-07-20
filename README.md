@@ -1,3 +1,11 @@
+
+
+
+
+
+<img width="2540" height="1253" alt="image" src="https://github.com/user-attachments/assets/ae74f875-822d-4b34-a86d-e653d1baa86d" />
+
+
 IF [PROJECTED_BIOREACTOR_FIT_VOLUME] < 2000 THEN "Small Scale"
 ELSEIF [PROJECTED_BIOREACTOR_FIT_VOLUME] <= 5000 THEN "Mid Scale"
 ELSE "Large Scale"
