@@ -1,4 +1,11 @@
 
+
+Role: REPORTING_READER
+Warehouse: SANDBOX_WH
+Database: REPORTING
+Schema: PUBLIC
+
+
 SELECT
     CURRENT_USER(),
     CURRENT_ROLE(),
