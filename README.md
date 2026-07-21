@@ -1,3 +1,13 @@
+
+
+
+
+
+An error occurred while communicating with data source 'Untitled Data Source'
+Authentication failed.
+Error Code: 14333AEC
+Snowflake URL validation failed. For more information see: https://kb.tableau.com/articles/Issue/error-validation-failed-for-your-input-oauth-custom-domain-when-connecting-to-snowflake
+
 <img width="2543" height="1370" alt="image" src="https://github.com/user-attachments/assets/b8165d55-afdf-4ab0-a6bc-99b90103f1b9" />
 
 
