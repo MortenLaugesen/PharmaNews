@@ -1,3 +1,8 @@
+
+
+
+
+SELECT CURRENT_ROLE(), CURRENT_WAREHOUSE(), CURRENT_DATABASE(), CURRENT_SCHEMA();
 <img width="1242" height="856" alt="image" src="https://github.com/user-attachments/assets/f342f66b-4d41-4f80-a56f-cd1a023727ea" />
 
 
