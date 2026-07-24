@@ -1,5 +1,5 @@
 
-
+https://www.cnbc.com/2026/07/23/rheinmetall-gunpowder-ammunition-europe-rearm-ceo.html
 
 <img width="471" height="428" alt="image" src="https://github.com/user-attachments/assets/a04643ae-b268-4236-9cf2-16d3661fbb86" />
 
