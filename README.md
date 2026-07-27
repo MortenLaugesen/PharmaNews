@@ -1,6 +1,14 @@
 
 
 
+IF CONTAINS([Value], "%") THEN
+    FLOAT(REPLACE(REPLACE(REPLACE([Value], "%", ""), ".", ""), ",", ".")) / 100
+ELSEIF CONTAINS([Value], ",") THEN
+    FLOAT(REPLACE(REPLACE([Value], ".", ""), ",", "."))
+ELSE
+    FLOAT(REPLACE([Value], ".", ""))
+END
+
 <img width="1910" height="1133" alt="image" src="https://github.com/user-attachments/assets/e4466604-06be-4052-825e-1aa1419fd622" />
 
 
