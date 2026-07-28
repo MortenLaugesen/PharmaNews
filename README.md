@@ -1,4 +1,27 @@
 
+
+
+
+IF [METRIC] = "% Utilization" THEN
+
+    IF CONTAINS([Value], "%") THEN
+        FLOAT(REPLACE(REPLACE([Value], "%", ""), ",", ".")) / 100
+    ELSE
+        FLOAT(REPLACE([Value], ",", "."))
+    END
+
+ELSE
+
+    IF CONTAINS([Value], ",") AND CONTAINS([Value], ".") THEN
+        FLOAT(REPLACE(REPLACE([Value], ".", ""), ",", "."))
+    ELSEIF CONTAINS([Value], ",") THEN
+        FLOAT(REPLACE([Value], ",", "."))
+    ELSE
+        FLOAT(REPLACE([Value], ".", ""))
+    END
+
+END
+
 <img width="1262" height="604" alt="image" src="https://github.com/user-attachments/assets/0e094ce4-b37c-4c59-8e50-b1c4686315d7" />
 
 
