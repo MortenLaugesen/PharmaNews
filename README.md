@@ -1,4 +1,13 @@
 
+IF CONTAINS([Value], "%") THEN
+    FLOAT(REPLACE(REPLACE(REPLACE([Value], "%", ""), ".", ""), ",", ".")) / 100
+ELSEIF CONTAINS([Value], ",") THEN
+    FLOAT(REPLACE(REPLACE([Value], ".", ""), ",", "."))
+ELSE
+    FLOAT(REPLACE([Value], ".", ""))
+END
+
+------------------------------------------------------------------
 
 Transcript. Use arrow keys to navigate between transcript entries.
 
