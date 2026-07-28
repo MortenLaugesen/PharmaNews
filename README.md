@@ -1,5 +1,194 @@
 
 
+Transcript. Use arrow keys to navigate between transcript entries.
+
+
+Search
+
+AI-generated content may be incorrect
+
+Upasana Paul started transcription
+
+Upasana Paul
+0 minutes 3 seconds0:03
+Upasana Paul 0 minutes 3 seconds
+Yeah.
+
+John Horn
+0 minutes 3 seconds0:03
+John Horn 0 minutes 3 seconds
+Mia, welcome back.
+MK
+
+Mia Knudsen
+0 minutes 5 seconds0:05
+Mia Knudsen 0 minutes 5 seconds
+Thanks.
+Mia Knudsen 0 minutes 6 seconds
+Okay.
+Mia Knudsen 0 minutes 7 seconds
+I'm starting off with writing a very angry e-mail to Sideline.
+
+Upasana Paul
+0 minutes 12 seconds0:12
+Upasana Paul 0 minutes 12 seconds
+Yeah.
+Upasana Paul 0 minutes 13 seconds
+Yeah.
+
+John Horn
+0 minutes 13 seconds0:13
+John Horn 0 minutes 13 seconds
+Ohh, man.
+John Horn 0 minutes 17 seconds
+Um...
+John Horn 0 minutes 18 seconds
+I have to drop at 8:30 to speak to Christiane here, but...
+John Horn 0 minutes 24 seconds
+What we were gonna talk about, Mia, just for...
+John Horn 0 minutes 28 seconds
+Since you were out.
+MK
+Mia Knudsen
+0 minutes 28 seconds0:28
+Mia Knudsen 0 minutes 28 seconds
+I think...
+
+John Horn
+0 minutes 30 seconds0:30
+John Horn 0 minutes 30 seconds
+Oh yeah, go ahead.
+MK
+Mia Knudsen
+0 minutes 30 seconds0:30
+Mia Knudsen 0 minutes 30 seconds
+Yeah, no, just good.
+
+John Horn
+0 minutes 33 seconds0:33
+John Horn 0 minutes 33 seconds
+We're just going to take a look at the data foundations stuff. So I don't know if you saw that or not, but.
+MK
+Mia Knudsen
+0 minutes 37 seconds0:37
+Mia Knudsen 0 minutes 37 seconds
+Yeah.
+Mia Knudsen 0 minutes 39 seconds
+Yeah.
+Mia Knudsen 0 minutes 41 seconds
+Tobi had some has requested to be off, so she's not here, but she did message Upasana and Remi to just walk you through what they have so far.
+
+John Horn
+0 minutes 48 seconds0:48
+John Horn 0 minutes 48 seconds
+Oh.
+John Horn 0 minutes 54 seconds
+Okay, that works too.
+
+Upasana Paul
+0 minutes 55 seconds0:55
+Upasana Paul 0 minutes 55 seconds
+Yeah.
+Upasana Paul 0 minutes 56 seconds
+Yeah, so she told us to utilize this meeting for the video reverse engineering one. So where we are standing, what is expected. So basically, we are almost done with the pipeline for our view. And what we are doing right now, we are actually using two main
+Upasana Paul 1 minute 20 seconds
+table from Snowflake called BDO Capacity Master and BDO Demand Master. And it seems like it has a 2024 data, not the 2025 in that table. So there is a bit, a little gap between what we have, the count we have in the FDB MAM Excel and what we are calculating.
+Upasana Paul 1 minute 41 seconds
+This is not a very big difference, because the column we are taking, there are some differences definitely because we are using the phase column from the video demand master and we are getting fewer phase from Snowflake video data what we have.
+Upasana Paul 2 minutes 1 second
+And let me share my screen.
+Upasana Paul 2 minutes 6 seconds
+The.
+Upasana Paul 2 minutes 8 seconds
+So we will have a whole pipeline. There will be many more table in the process. So if someone wants to dig more into detail, so if you want to take a company-wise, if you want to get that data year-wise, everything will be there.
+Upasana Paul 2 minutes 28 seconds
+But this is the final table we have decided to have for Morten so that it is just a, it is a full customized for the dashboard we are making so that he doesn't need to do the aggregation. So this is an aggregated table what you are looking at.
+Upasana Paul 2 minutes 47 seconds
+at. So we are going to have the data for a different region for different scale. And these are different metrics and we have the whole equation for each and every matrix. And these are the data year-wise.
+Upasana Paul 3 minutes 10 seconds
+What we are doing right now, we are actually checking the data quality, what we are calculating here, and what we have in the FDBD. So it seems like it's almost same, but for EHS, I saw that the utilization is a bit for...
+Upasana Paul 3 minutes 30 seconds
+Asia all capacity, I saw that the utilization is a bit lower than what we have in the FDB. So that's what I'm going through. And for the, is Morten there in the call?
+RD
+Remi Defina-Sperando
+3 minutes 47 seconds3:47
+Remi Defina-Sperando 3 minutes 47 seconds
+Not yet. That's fine. You can show the, he sent us the visualizations he did earlier. You can share those.
+
+John Horn
+3 minutes 48 seconds3:48
+John Horn 3 minutes 48 seconds
+No.
+
+Upasana Paul
+3 minutes 49 seconds3:49
+Upasana Paul 3 minutes 49 seconds
+Out.
+Upasana Paul 3 minutes 51 seconds
+Yes.
+Upasana Paul 3 minutes 54 seconds
+Is.
+Upasana Paul 3 minutes 56 seconds
+Okay, so the visualize one of the visualization will be this.
+Upasana Paul 4 minutes 4 seconds
+ABS.
+
+John Horn
+4 minutes 4 seconds4:04
+John Horn 4 minutes 4 seconds
+Okay.
+John Horn 4 minutes 8 seconds
+Global utilization across all capacity scales.
+
+Upasana Paul
+4 minutes 13 seconds4:13
+Upasana Paul 4 minutes 13 seconds
+Yeah.
+
+John Horn
+4 minutes 13 seconds4:13
+John Horn 4 minutes 13 seconds
+is, yeah, 65 going to greater than 100% by 2029.
+RD
+Remi Defina-Sperando
+7 minutes 48 seconds7:48
+Remi Defina-Sperando 7 minutes 48 seconds
+Yeah. And so for the large scale, what we can add is video has a metric called more than 5 kiloliters, and that would be what you can consider large scale. So that should be a tab that will just come in.
+ML
+Morten Laugesen
+7 minutes 48 seconds7:48
+Morten Laugesen 7 minutes 48 seconds
+Mhm.
+
+John Horn
+7 minutes 56 seconds7:56
+John Horn 7 minutes 56 seconds
+Yeah.
+RD
+Remi Defina-Sperando
+8 minutes 2 seconds8:02
+Remi Defina-Sperando 8 minutes 2 seconds
+Um, we counted that in pretty easy.
+
+John Horn
+8 minutes 2 seconds8:02
+John Horn 8 minutes 2 seconds
+Yeah.
+ML
+Morten Laugesen
+8 minutes 5 seconds8:05
+Morten Laugesen 8 minutes 5 seconds
+Yeah.
+
+John Horn
+8 minutes 6 seconds8:06
+John Horn 8 minutes 6 seconds
+And what I never...
+MK
+Mia Knudsen
+8 minutes 6 seconds8:06
+Mia Knudsen 8 minutes 6 seconds
+I just started recording, just so you know, so we capture what the what you think on.
 
 IF CONTAINS([Value], "%") THEN
     FLOAT(REPLACE(REPLACE(REPLACE([Value], "%", ""), ".", ""), ",", ".")) / 100
