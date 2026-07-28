@@ -1,5 +1,15 @@
 
 
+
+
+SUM(
+    IF [METRIC] = "Capacity" THEN [C. Value Numeric] END
+)
+-
+SUM(
+    IF [METRIC] = "Required" THEN [C. Value Numeric] END
+)
+
 <img width="2536" height="1383" alt="image" src="https://github.com/user-attachments/assets/e7224efc-52ba-4f88-bcc1-13958429182c" />
 
 IF CONTAINS([Value], "%") THEN
