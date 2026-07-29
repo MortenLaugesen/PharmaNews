@@ -1,4 +1,17 @@
 
+Please use the below list to create your documentations…
+
+1.	WHAT DOES THIS SCRIPT DO? – Script name, database/schema, plain description
+2.	DATA SOURCES – Table names, Systems/Excel Files details, read/write, what they contain
+3.	HOW OFTEN SHOULD THIS RUN? – Frequency and timing
+4.	STEP-BY-STEP BREAKDOWN 
+I.	Actual script
+II.	Notes
+5.	WHO NEEDS THIS & WHY? – Requester, users, business reason
+6.	THINGS TO WATCH OUT FOR – Warnings/Assumptions/Restrictions
+7.	WHO TO ASK FOR HELP – Primary and backup contacts
+
+
 Task documentation
 Please create and share documentations for the Pharma News Task as well as your workstream in the Scale Analysis – BDO report reverse engineering project.
 If any files are saved on SharePoint/Teams, add the location to the document. If not, save your files on SharePoint/Teams and include the location in the document.
