@@ -1,4 +1,9 @@
 
+Task documentation
+Please create and share documentations for the Pharma News Task as well as your workstream in the Scale Analysis – BDO report reverse engineering project.
+If any files are saved on SharePoint/Teams, add the location to the document. If not, save your files on SharePoint/Teams and include the location in the document.
+
+
 <img width="868" height="878" alt="image" src="https://github.com/user-attachments/assets/50ae454d-8558-4650-9b74-6d385b2d5056" />
 
 
