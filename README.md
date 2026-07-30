@@ -1,4 +1,8 @@
 
+
+
+https://fujifilm0.sharepoint.com/:f:/r/teams/msg-FDBD-BusinessIntelligenceandInsights/Shared%20Documents/1.%20Alteryx%20%26%20Tableau%20Works/Tableau%20dashboards?csf=1&web=1&e=zHMWxU
+
 Please use the below list to create your documentations…
 
 1.	WHAT DOES THIS SCRIPT DO? – Script name, database/schema, plain description
