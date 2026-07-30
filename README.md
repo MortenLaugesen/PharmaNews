@@ -1,4 +1,5 @@
 
+<img width="976" height="197" alt="image" src="https://github.com/user-attachments/assets/1b0eac6e-2925-4368-827e-6ddc9726cd8e" />
 
 
 https://fujifilm0.sharepoint.com/:f:/r/teams/msg-FDBD-BusinessIntelligenceandInsights/Shared%20Documents/1.%20Alteryx%20%26%20Tableau%20Works/Tableau%20dashboards?csf=1&web=1&e=zHMWxU
