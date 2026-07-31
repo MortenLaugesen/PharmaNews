@@ -1,3 +1,10 @@
+
+<img width="2164" height="762" alt="image" src="https://github.com/user-attachments/assets/6bdcc772-d02e-4695-a1b5-38fa7b06bd41" />
+
+
+<img width="2151" height="55" alt="image" src="https://github.com/user-attachments/assets/111108fa-ea75-4c1f-8d5c-529a7be43f23" />
+
+
 [Daily Pharma News Digest - 2026-07-31.htm](https://github.com/user-attachments/files/30581825/Daily.Pharma.News.Digest.-.2026-07-31.htm)
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
