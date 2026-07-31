@@ -1,14 +1,13 @@
-Hey guys
+Hey everyone,
 
-As some of you might know, this is my last day in this wonderful team. I just wanted to take the time to say thank you to all of you. It has been a pleasure getting to know you all and working with you. I have learned a lot, from the more technical side in snowflake, alteryx and tableau to how a team works together and utilizes the different skills and capabilities within every team member. 
+As some of you may know, today is my last day with this wonderful team. I just wanted to take a moment to thank you all.
 
-I wish all of you the best and we'll probably bump into each other some day.
+It has been a real pleasure getting to know you and working alongside you. I have learned a great deal during my time here, from the technical side of Snowflake, Alteryx, and Tableau to seeing how a strong team works together and makes use of everyone’s different skills and strengths.
 
-Cheers
+Thank you for making my time here such a positive and valuable experience. I wish you all the very best, and I’m sure our paths will cross again someday.
 
-Morten ⁠
-
-Smile
+Cheers,
+Morten
 
 <img width="2559" height="1418" alt="image" src="https://github.com/user-attachments/assets/2e6b9978-4859-4e3a-8110-a94ad390a2f8" />
 
