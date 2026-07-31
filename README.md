@@ -1,3 +1,317 @@
+-- ============================================================
+-- 03 - Deterministic priority scoring
+-- Cost-effective replacement for AI relevance + AI classification
+-- ============================================================
+
+CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_PRIORITY_TIER_V2 AS
+WITH BASE AS (
+    SELECT
+        B.MESSAGE_ID,
+        B.SENDER_NAME,
+        B.SENDER_EMAIL,
+        B.SUBJECT_RAW,
+        B.RECEIVED_TS,
+        B.RECEIVED_TS_PARSED,
+        B.EMAIL_SOURCE_TYPE,
+        B.ARTICLE_RANK,
+        B.ARTICLE_TITLE_CLEAN,
+        B.ARTICLE_TITLE_LC,
+        B.ARTICLE_URL,
+        B.ARTICLE_URL_EXTRACTION_METHOD,
+        B.BODY_BEST,
+        B.ARTICLE_LLM_INPUT,
+        B.PARSER_VERSION,
+        B.SUBJECT_GATE_FINAL,
+
+        -- Derive PUBLISH_DATE from received timestamp
+        TO_DATE(B.RECEIVED_TS_PARSED) AS PUBLISH_DATE,
+
+        CASE
+            WHEN B.RECEIVED_TS_PARSED IS NOT NULL
+                THEN 'Email received date fallback'
+            ELSE 'Unknown'
+        END AS PUBLISH_DATE_SOURCE,
+
+        LOWER(
+            TRIM(
+                REGEXP_REPLACE(
+                    REPLACE(COALESCE(B.ARTICLE_TITLE_CLEAN, ''), CHR(173), ''),
+                    '\\s+',
+                    ' '
+                )
+            )
+        ) AS TITLE_CONTEXT_LC
+
+    FROM PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL B
+    WHERE B.SUBJECT_GATE_FINAL IN ('PASS', 'REVIEW')
+),
+
+COMPANY_MATCHES AS (
+    SELECT
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN,
+
+        LISTAGG(DISTINCT TC.COMPANY_NAME, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_NAME) AS MATCHED_COMPANIES,
+
+        LISTAGG(DISTINCT TC.COMPANY_CATEGORY, ', ')
+            WITHIN GROUP (ORDER BY TC.COMPANY_CATEGORY) AS MATCHED_COMPANY_CATEGORIES
+
+    FROM BASE B
+    LEFT JOIN PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_TRACKED_COMPANIES TC
+        ON B.TITLE_CONTEXT_LC LIKE '%' || LOWER(TC.COMPANY_NAME) || '%'
+
+    GROUP BY
+        B.MESSAGE_ID,
+        B.ARTICLE_TITLE_CLEAN
+),
+
+ENRICHED AS (
+    SELECT
+        B.*,
+
+        COALESCE(CM.MATCHED_COMPANIES, '') AS MATCHED_COMPANIES,
+        COALESCE(CM.MATCHED_COMPANY_CATEGORIES, '') AS MATCHED_COMPANY_CATEGORIES,
+
+        REGEXP_SUBSTR(
+            B.TITLE_CONTEXT_LC,
+            '((\$|€|£)\s?[0-9]+(\.[0-9]+)?\s?(b|bn|m)|\b[0-9]+(\.[0-9]+)?(b|bn|m)\b|\b[0-9]+(\.[0-9]+)?\s?(billion|million)\b)'
+        ) AS DEAL_VALUE_KEY,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\$|€|£)\s?[0-9]+(\.[0-9]+)?\s?(b|bn)|\b[0-9]+(\.[0-9]+)?(b|bn)\b|\b[0-9]+(\.[0-9]+)?\s?billion\b).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_1B,
+
+        CASE
+            WHEN REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\$|€|£)\s?[0-9]+(\.[0-9]+)?\s?(b|bn)|\b[0-9]+(\.[0-9]+)?(b|bn)\b|\b[0-9]+(\.[0-9]+)?\s?billion\b).*'
+            )
+            OR REGEXP_LIKE(
+                B.TITLE_CONTEXT_LC,
+                '.*((\$|€|£)\s?[5-9][0-9]{2,}\s?m|\b[5-9][0-9]{2,}m\b|\b[5-9][0-9]{2,}\s?million\b).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS VALUE_ABOVE_500M
+
+    FROM BASE B
+    LEFT JOIN COMPANY_MATCHES CM
+        ON B.MESSAGE_ID = CM.MESSAGE_ID
+       AND B.ARTICLE_TITLE_CLEAN = CM.ARTICLE_TITLE_CLEAN
+),
+
+FLAGS AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                'a message from %',
+                'brought to you by %',
+                'sponsored by %',
+                '%sponsored by%',
+                '%podcast%',
+                '%webinar%',
+                '%conference%',
+                '%whitepaper%',
+                '%register now%',
+                '%register today%',
+                '%unsubscribe%',
+                '%click here%',
+                '%read in browser%',
+                '%de-risk your program%',
+                '%real-world evidence%',
+                '%action gap%',
+                '%deliver confidence%',
+                '%move to market with confidence%',
+                '%explore our services%',
+                '%fierce ai innovation award%',
+                '%partnerships with sites%',
+                '%biopharma sentiment index%',
+                'the company announced%'
+            )
+            OR REGEXP_LIKE(
+                TITLE_CONTEXT_LC,
+                '.*(editor-in-chief|senior editor|senior writer|executive editor|associate editor|deputy editor|staff writer|staff writers|publisher|sales director|fact sheet|meet .* at asco).*'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_PROMOTIONAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%acquisition%',
+                '%buyout%',
+                '%merger%',
+                '%deal%',
+                '%licensing%',
+                '%collaboration%',
+                '%partnership%',
+                '%supply deal%',
+                '%supply agreement%',
+                '%pact%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_DEAL_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%expansion%',
+                '%construction%',
+                '%facility%',
+                '%site%',
+                '%manufacturing%',
+                '%capacity%',
+                '%capex%',
+                '%investment%',
+                '%invests%',
+                '%new plant%',
+                '%new site%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_SIZE_OR_CAPACITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%new capability%',
+                '%new platform%',
+                '%new modality%',
+                '%fill-finish%',
+                '%fill finish%',
+                '%microbial%',
+                '%mammalian%',
+                '%cell therapy%',
+                '%gene therapy%',
+                '%adc%',
+                '%biosimilar%',
+                '%biosimilars%',
+                '%crispr%',
+                '%car-t%',
+                '%rna%',
+                '%sirna%',
+                '%antibody-drug conjugate%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEW_CAPABILITY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%closing%',
+                '%shuttering%',
+                '%divestment%',
+                '%divestiture%',
+                '%site closure%',
+                '%plant closure%',
+                '%business unit%',
+                '%layoffs%',
+                '%job cuts%',
+                '%restructuring%',
+                '%cost-cutting%',
+                '%cost cutting%',
+                '%headcount%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_NEGATIVE_BUSINESS_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%fda%',
+                '%approval%',
+                '%approved%',
+                '%regulatory%',
+                '%regulation%',
+                '%tariff%',
+                '%tariffs%',
+                '%drug shortages%',
+                '%shortages%',
+                '%phase 3%',
+                '%phase iii%',
+                '%clinical hold%',
+                '%legal charge%',
+                '%verdict%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_POLICY_OR_REGULATORY_SIGNAL,
+
+        CASE
+            WHEN TITLE_CONTEXT_LC LIKE ANY (
+                '%coverage%',
+                '%launch%',
+                '%sales outlook%',
+                '%commercial%',
+                '%market access%',
+                '%reimbursement%',
+                '%customer%',
+                '%contract%',
+                '%award%',
+                '%supply%'
+            )
+            THEN TRUE ELSE FALSE
+        END AS IS_COMMERCIAL_SIGNAL
+
+    FROM ENRICHED
+),
+
+SCORED AS (
+    SELECT
+        *,
+
+        CASE
+            WHEN VALUE_ABOVE_1B THEN TRUE
+            WHEN VALUE_ABOVE_500M THEN TRUE
+            WHEN IS_DEAL_SIGNAL THEN TRUE
+            WHEN IS_SIZE_OR_CAPACITY_SIGNAL THEN TRUE
+            WHEN IS_NEW_CAPABILITY_SIGNAL THEN TRUE
+            WHEN IS_NEGATIVE_BUSINESS_SIGNAL THEN TRUE
+            WHEN IS_POLICY_OR_REGULATORY_SIGNAL THEN TRUE
+            WHEN IS_COMMERCIAL_SIGNAL THEN TRUE
+            ELSE FALSE
+        END AS HAS_STORY_SIGNAL,
+
+        IFF(VALUE_ABOVE_1B, 5, 0)
+        + IFF(VALUE_ABOVE_500M, 3, 0)
+        + IFF(IS_DEAL_SIGNAL, 2, 0)
+        + IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 2, 0)
+        + IFF(IS_NEW_CAPABILITY_SIGNAL, 2, 0)
+        + IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 2, 0)
+        + IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 2, 0)
+        + IFF(IS_COMMERCIAL_SIGNAL, 2, 0)
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%', 3, 0)
+        + IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%', 1, 0)
+        + IFF(SUBJECT_GATE_FINAL = 'PASS', 1, 0)
+        AS SIGNAL_SCORE,
+
+        TRIM(
+            IFF(VALUE_ABOVE_1B, 'Value above 1B; ', '') ||
+            IFF(VALUE_ABOVE_500M, 'Value above 500M; ', '') ||
+            IFF(IS_DEAL_SIGNAL, 'Deal/partnership/M&A signal; ', '') ||
+            IFF(IS_SIZE_OR_CAPACITY_SIGNAL, 'Manufacturing/capacity/investment signal; ', '') ||
+            IFF(IS_NEW_CAPABILITY_SIGNAL, 'Capability/modality signal; ', '') ||
+            IFF(IS_NEGATIVE_BUSINESS_SIGNAL, 'Layoff/closure/divestment/cost-cutting signal; ', '') ||
+            IFF(IS_POLICY_OR_REGULATORY_SIGNAL, 'Policy/regulatory/legal signal; ', '') ||
+            IFF(IS_COMMERCIAL_SIGNAL, 'Commercial/customer signal; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%CDMO%', 'Tracked CDMO mentioned in title; ', '') ||
+            IFF(MATCHED_COMPANY_CATEGORIES LIKE '%Top 25%', 'Top 25 pharma company mentioned in title; ', '') ||
+            IFF(SUBJECT_GATE_FINAL = 'PASS', 'Strong keyword gate pass; ', '')
+        ) AS SIGNAL_REASONS
+
+    FROM FLAGS
+)
+
+SELECT
+    *,
+    CASE
+        WHEN IS_PROMOTIONAL_SIGNAL THEN 'DROP'
+        WHEN HAS_STORY_SIGNAL = FALSE THEN 'MONITOR'
+        WHEN SIGNAL_SCORE >= 7 THEN 'VERY_IMPORTANT'
+        WHEN SIGNAL_SCORE >= 4 THEN 'IMPORTANT'
+        ELSE 'MONITOR'
+    END AS PRIORITY_TIER
+
+FROM SCORED;
 
 
 -- ============================================================
