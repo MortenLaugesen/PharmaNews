@@ -1,4 +1,14 @@
+Hey guys
 
+As some of you might know, this is my last day in this wonderful team. I just wanted to take the time to say thank you to all of you. It has been a pleasure getting to know you all and working with you. I have learned a lot, from the more technical side in snowflake, alteryx and tableau to how a team works together and utilizes the different skills and capabilities within every team member. 
+
+I wish all of you the best and we'll probably bump into each other some day.
+
+Cheers
+
+Morten ⁠
+
+Smile
 
 <img width="2559" height="1418" alt="image" src="https://github.com/user-attachments/assets/2e6b9978-4859-4e3a-8110-a94ad390a2f8" />
 
