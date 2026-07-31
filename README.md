@@ -1,5 +1,109 @@
 
 
+-- ============================================================
+-- 02 - Clean article view and subject gate
+-- ============================================================
+
+CREATE OR REPLACE VIEW PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN AS
+SELECT
+    MESSAGE_ID,
+    SENDER_NAME,
+    SENDER_EMAIL,
+    SUBJECT_RAW,
+    RECEIVED_TS,
+    TRY_TO_TIMESTAMP_TZ(RECEIVED_TS) AS RECEIVED_TS_PARSED,
+
+    COALESCE(
+        TRY_TO_DATE(ARTICLE_PUBLISH_DATE_RAW),
+        TO_DATE(TRY_TO_TIMESTAMP_TZ(RECEIVED_TS))
+    ) AS PUBLISH_DATE,
+
+    CASE
+        WHEN TRY_TO_DATE(ARTICLE_PUBLISH_DATE_RAW) IS NOT NULL
+            THEN 'Article publish date'
+        WHEN TRY_TO_TIMESTAMP_TZ(RECEIVED_TS) IS NOT NULL
+            THEN 'Email received date fallback'
+        ELSE 'Unknown'
+    END AS PUBLISH_DATE_SOURCE,
+
+    EMAIL_SOURCE_TYPE,
+    ARTICLE_RANK,
+
+    TRIM(
+        REGEXP_REPLACE(
+            REGEXP_REPLACE(
+                REGEXP_REPLACE(COALESCE(ARTICLE_TITLE, ''), '^[0-9]+\\.?\\s*', ''),
+                '^,\\s*',
+                ''
+            ),
+            '\\s+',
+            ' '
+        )
+    ) AS ARTICLE_TITLE_CLEAN,
+
+    LOWER(
+        TRIM(
+            REGEXP_REPLACE(
+                REGEXP_REPLACE(
+                    REGEXP_REPLACE(COALESCE(ARTICLE_TITLE, ''), '^[0-9]+\\.?\\s*', ''),
+                    '^,\\s*',
+                    ''
+                ),
+                '\\s+',
+                ' '
+            )
+        )
+    ) AS ARTICLE_TITLE_LC,
+
+    ARTICLE_URL,
+    ARTICLE_URL_EXTRACTION_METHOD,
+    BODY_BEST,
+    ARTICLE_LLM_INPUT,
+    PARSER_VERSION
+
+FROM PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1;
+
+
+CREATE OR REPLACE TABLE PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_SUBJECT_GATE_FINAL AS
+SELECT
+    *,
+    CASE
+        WHEN ARTICLE_TITLE_LC IS NULL OR ARTICLE_TITLE_LC = '' THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC LIKE 'a message from %' THEN 'DROP'
+        WHEN ARTICLE_TITLE_LC LIKE 'brought to you by %' THEN 'DROP'
+        WHEN ARTICLE_TITLE_LC LIKE 'sponsored by %' THEN 'DROP'
+        WHEN ARTICLE_TITLE_LC LIKE '%sponsored by%' THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC RLIKE
+            '^(editor-in-chief|senior editor|senior writer|executive editor|associate editor|deputy editor|staff writer|staff writers|publisher|contributing writer|sales director)'
+            THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC RLIKE
+            '(unsubscribe|privacy policy|contact support|linkedin logo|facebook logo|twitter logo|youtube logo|brand logo|questex signature)'
+            THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC RLIKE
+            '(webinar|podcast|conference|exhibition|whitepaper|download the white paper|register now|register today|save your spot|innovation week|pharma ci|fierce biotech week|outsourcing awards)'
+            THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC RLIKE
+            '(de-risk your program|real-world evidence|action gap|deliver confidence|move to market with confidence|explore our services|fierce ai innovation award|biopharma sentiment index|partnerships with sites)'
+            THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC LIKE '[%' THEN 'DROP'
+        WHEN ARTICLE_TITLE_LC LIKE 'http%' THEN 'DROP'
+        WHEN ARTICLE_TITLE_LC LIKE 'click here%' THEN 'DROP'
+        WHEN LENGTH(ARTICLE_TITLE_CLEAN) < 20 THEN 'DROP'
+
+        WHEN ARTICLE_TITLE_LC RLIKE
+            '(acquisition|buyout|merger|deal|licensing|collaboration|partnership|supply deal|supply agreement|pact|fda|approval|approved|manufacturing|facility|site|expansion|phase 3|phase iii|ipo|fundraising|investment|capacity|tariffs|regulation|regulatory|shortage|shortages|layoffs|job cuts|divestment|closing|shuttering|clinical hold|commercial|contract|launch|cost-cutting|cost cutting)'
+            THEN 'PASS'
+
+        ELSE 'REVIEW'
+    END AS SUBJECT_GATE_FINAL
+
+FROM PHARMA_NEWS_SANDBOX.NEWS.V_PHARMA_NEWS_ARTICLES_CLEAN;
 
 
 
