@@ -1,4 +1,9666 @@
-[Uploading 03_priority_scoring_2026-07-31-0910.csv…]()
+[03_priority_scoring_2026-07-31-0910.csv](https://github.com/user-attachments/files/30577858/03_priority_scoring_2026-07-31-0910.csv)[Uploading 03MESSAGE_ID,SENDER_NAME,SENDER_EMAIL,SUBJECT_RAW,RECEIVED_TS,RECEIVED_TS_PARSED,EMAIL_SOURCE_TYPE,ARTICLE_RANK,ARTICLE_TITLE_CLEAN,ARTICLE_TITLE_LC,ARTICLE_URL,ARTICLE_URL_EXTRACTION_METHOD,BODY_BEST,ARTICLE_LLM_INPUT,PARSER_VERSION,SUBJECT_GATE_FINAL,PUBLISH_DATE,PUBLISH_DATE_SOURCE,TITLE_CONTEXT_LC,MATCHED_COMPANIES,MATCHED_COMPANY_CATEGORIES,DEAL_VALUE_KEY,VALUE_ABOVE_1B,VALUE_ABOVE_500M,IS_PROMOTIONAL_SIGNAL,IS_DEAL_SIGNAL,IS_SIZE_OR_CAPACITY_SIGNAL,IS_NEW_CAPABILITY_SIGNAL,IS_NEGATIVE_BUSINESS_SIGNAL,IS_POLICY_OR_REGULATORY_SIGNAL,IS_COMMERCIAL_SIGNAL,HAS_STORY_SIGNAL,SIGNAL_SCORE,SIGNAL_REASONS,PRIORITY_TIER
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,28,Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program,fierce pharma asia—astellas ceo’s 5-year plan; takeda’s psoriasis win; ra’s china bridge program,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 28
+Article title: Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,fierce pharma a ia—a tella  ceo’  5-year plan; takeda’  p oria i  win; ra’  china bridge program,Takeda,Top 25,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1,Top 25 pharma company mentioned in title;,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,53,Fierce AI Innovation Awards,fierce ai innovation awards,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 53
+Article title: Fierce AI Innovation Awards
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,fierce ai innovation award,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,2,Commercial/customer signal;,DROP
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,44,High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery,high-throughput rt-qpcr and transcriptomics: powering the next generation of drug discovery,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 44
+Article title: High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,high-throughput rt-qpcr and tran criptomic : powering the next generation of drug di covery,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,19,‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff,‘not simply saving cost’: inside astellas ceo’s 5-year strategy to counter xtandi’s patent cliff,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 19
+Article title: ‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,‘not  imply  aving co t’: in ide a tella  ceo’  5-year  trategy to counter xtandi’  patent cliff,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,69,Publisher: Rebecca Willumson,publisher: rebecca willumson,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 69
+Article title: Publisher: Rebecca Willumson
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,publi her: rebecca willum on,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,11,Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program,fierce pharma asia—astellas ceo’s 5-year plan; takeda’s psoriasis win; ra’s china bridge program,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 11
+Article title: Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,fierce pharma a ia—a tella  ceo’  5-year plan; takeda’  p oria i  win; ra’  china bridge program,Takeda,Top 25,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,1,Top 25 pharma company mentioned in title;,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,63,Associate Editor: Fraiser Kansteiner,associate editor: fraiser kansteiner,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 63
+Article title: Associate Editor: Fraiser Kansteiner
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,a ociate editor: frai er kan teiner,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,29,Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover,novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12b avidity takeover,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 29
+Article title: Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,novarti ' pha e 1/2 win tee  up regulatory talk  about dy trophy drug from $12b avidity takeover,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,2,Policy/regulatory/legal signal;,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,26,The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market,the oral glp-1 tracker: novo’s wegovy keeps gaining ground in obesity market,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 26
+Article title: The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,the oral glp-1 tracker: novo’  wegovy keep  gaining ground in obe ity market,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,68,Editor-in-Chief: Ayla Ellison,editor-in-chief: ayla ellison,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 68
+Article title: Editor-in-Chief: Ayla Ellison
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,editor-in-chief: ayla elli on,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,DROP
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,48,Meet Caidya at ASCO 2026 in Chicago,meet caidya at asco 2026 in chicago,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 48
+Article title: Meet Caidya at ASCO 2026 in Chicago
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,meet caidya at asco 2026 in chicago,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,DROP
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,9,The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market,the oral glp-1 tracker: novo’s wegovy keeps gaining ground in obesity market,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 9
+Article title: The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,the oral glp-1 tracker: novo’  wegovy keep  gaining ground in obe ity market,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,13,Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy,webinar: harnessing anti-linker antibody technologies for translational applications in car-t cell therapy,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 13
+Article title: Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,webinar: harne ing anti-linker antibody technologie  for tran lational application  in car-t cell therapy,,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,2,Capability/modality signal;,DROP
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,40,AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us,ai is rapidly moving from experimentation to real-world application in early drug discovery. join us,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 40
+Article title: AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,ai i  rapidly moving from experimentation to real-world application in early drug di covery. join u,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,5,‘I wouldn’t call it a blip’: Biotech IPOs here to stay,‘i wouldn’t call it a blip’: biotech ipos here to stay,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 5
+Article title: ‘I wouldn’t call it a blip’: Biotech IPOs here to stay
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,‘i wouldn’t call it a blip’: biotech ipo  here to  tay,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,20,FDA hearing on Amgen's Tavneos will include findings from an independent review,fda hearing on amgen's tavneos will include findings from an independent review,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 20
+Article title: FDA hearing on Amgen's Tavneos will include findings from an independent review
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,fda hearing on amgen'  tavneo  will include finding  from an independent review,Amgen,Top 25,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,3,Policy/regulatory/legal signal; Top 25 pharma company mentioned in title;,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,33,"Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones","ipsen r&d chief on pipeline discipline, partnerships and 2026 milestones",https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 33
+Article title: Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,"ip en r&d chief on pipeline di cipline, partner hip  and 2026 mile tone",,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,45,Join Us as We Script Possibilities at the Biotech Global Forum,join us as we script possibilities at the biotech global forum,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 45
+Article title: Join Us as We Script Possibilities at the Biotech Global Forum
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,join u  a  we script po ibilitie  at the biotech global forum,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,37,The watchdog overseeing the integrity of HHS programs,the watchdog overseeing the integrity of hhs programs,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 37
+Article title: The watchdog overseeing the integrity of HHS programs
+Article URL: https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,the watchdog over eeing the integrity of hhs program,,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,MONITOR
+AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,62,Deputy Editor: Angus Liu,deputy editor: angus liu,https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+","Sender: Fierce Biotech PM Tracker <editors@go.fiercebiotech.com>
+Subject: | 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval
+Received: 2026-06-12T19:45:52Z
+Source type: FIERCE
+Article rank in email: 62
+Article title: Deputy Editor: Angus Liu
+Article URL: https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va
+Email body:
+CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
+
+
+Astellas CEO shares 5-year vision
+[Fierce Biotech]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkr-fkf-O3va80%7EgjB9%7CYf2p>
+PM Tracker
+
+A message from ZS<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkrDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Closing the CRM value gap in pharma: From dashboards to P&L impact<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksefkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 16, 2026 | 11am ET / 8am PT
+
+Pharma organizations are investing heavily in CRM and AI, yet many still struggle to turn engagement gains into measurable business impact. Join this session to explore the value gaps limiting ROI and what leading teams are doing differently.
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/ZS+Logo+042926.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+Today’s Big News
+Jun 12, 2026
+
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksmfkf-O3va80%7EgjB9%7CYf2p> after another record-breaking listing
+
+________________________________
+
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksqfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks%5Efkf-O3va80%7EgjB9%7CYf2p> to counter Xtandi’s patent cliff
+
+________________________________
+
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksyfkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks2fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks6fkf-O3va80%7EgjB9%7CYf2p>
+
+________________________________
+
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogks-fkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Cell Signaling Technology<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogksDfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Harnessing Anti-Linker Antibody Technologies for Translational Applications in CAR-T Cell Therapy<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktefkf-O3va80%7EgjB9%7CYf2p>
+
+Wednesday, June 17, 2026 | 12pm ET / 9am PT
+
+This webinar highlights how anti-linker antibodies enable universal CAR-T cell detection across multiple applications. It also covers their use in accurate analysis, quantitation, and manipulation of engineered CAR-T cells. Register now.<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketingprograms.qtxasset.com/CST+Logo+120x33+no+BG.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktmfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Featured
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Bull+market.jpg/ae645df9641dcad0bcd351570c1eebae]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktqfkf-O3va80%7EgjB9%7CYf2p>
+‘I wouldn’t call it a blip’: Biotech IPOs here to stay after another record-breaking listing<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Will Maddox
+
+Elon Musk's SpaceX may be igniting global headlines with the company's astronomical IPO, but biotech listings saw their own record-breaker this week.
+
+Top Stories
+Guardant Health nabs FDA test approval to find patients for Boehringer’s new cancer drug<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Boehringer Ingelheim’s Hernexeos has nabbed a companion diagnostic from Guardant Health after the FDA cleared its liquid biopsy test, Guardant360 CDx.
+‘Not simply saving cost’: Inside Astellas CEO’s 5-year strategy to counter Xtandi’s patent cliff<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Staring down a $6 billion patent cliff for its prostate cancer drug Xtandi, Astellas aims to counter the inevitable revenue decline with a 200 billion yen ($1.3 billion) cost-savings program anchored in its new five-year strategic plan. But to CEO Naoki Okamura, “it’s not simply saving the cost or reducing the headcount.”
+FDA hearing on Amgen's Tavneos will include findings from an independent review<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Kevin Dunleavy
+
+An independent research firm is reviewing data on Amgen’s Tavneos as the company prepares for a hearing with the FDA which could determine whether the rare disease treatment remains on the market.
+
+A message from LabCorp<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkt-fkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Molecular Residual Disease: From Detection to Trial-Ready Application<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogktDfkf-O3va80%7EgjB9%7CYf2p>
+
+Tuesday, June 23, 2026 | 11am ET / 8am PT
+
+Molecular residual disease (MRD) is emerging as a valuable tool in oncology development, offering deeper insight into residual disease, relapse risk, and treatment response beyond conventional imaging. Join this webinar <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eefkf-O3va80%7EgjB9%7CYf2p> to explore the scientific and operational considerations shaping the use of tumor-informed and tumor-agnostic MRD approaches in clinical trials. Register now!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%7Cfkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/LabCorp_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Emfkf-O3va80%7EgjB9%7CYf2p>
+
+The Oral GLP-1 Tracker: Novo’s Wegovy keeps gaining ground in obesity market<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eqfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu,Kevin Dunleavy,Fraiser Kansteiner
+
+Fierce Pharma is launching the weekly Oral GLP-1 Tracker, leveraging analysts’ notes and IQVIA data to monitor prescription trends and shifting market shares as Novo Nordisk's Wegovy pill and Eli Lilly's Foundayo vie to become the go-to oral weight-loss solution for millions.
+Chutes & Ladders—Perrigo CEO ousted over ‘personal conduct’<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+By Zoey Becker,Will Maddox
+
+Over-the-counter drugmaker Perrigo Company is washing its hands of chief executive Patrick Lockwood-Taylor, who resigned from his post of president and CEO after the company’s board of directors found “certain personal conduct” by Lockwood-Taylor inconsistent with its code of conduct and “core values.” Board member Albert Manzone is stepping up to replace the CEO in the interim as the board searches for a permanent successor.
+Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+Astellas CEO explained to Fierce the company's new five-year plan. A Takeda candidate beat Bristol Myers Squibb's Sotyktu in a head-to-head psoriasis trial. RA Capital is offering China capabilities to its portfolio companies through a one-year-old initiative. And more.
+Novartis' phase 1/2 win tees up regulatory talks about dystrophy drug from $12B Avidity takeover<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E2fkf-O3va80%7EgjB9%7CYf2p>
+
+By Nick Paul Taylor
+
+Novartis has reported a phase 1/2 win for one of the jewels of its $12 billion Avidity Biosciences buyout, setting the Swiss drugmaker up to talk to global regulatory agencies about the next steps for its dystrophy prospect.
+Lilly, Biogen, Eisai and Genentech sponsor new ‘Let’s Talk Alzheimer’s’ podcast<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E6fkf-O3va80%7EgjB9%7CYf2p>
+
+By Ben Adams
+
+Audio is becoming an increasingly important area of focus in pharma marketing, and now four big drugmakers have become sponsors of a new podcast focused on Alzheimer’s disease.
+In latest twist in Zepzelca saga, Jazz and PharmaMar lung cancer drug fails phase 3 test<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5E-fkf-O3va80%7EgjB9%7CYf2p>
+
+By Angus Liu
+
+The accelerated approval for Jazz Pharmaceuticals’ small cell lung cancer drug Zepzelca may once again be in jeopardy after another phase 3 failure.
+
+Fierce podcasts
+Don’t miss an episode
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Untitled+design+%282%29.jpg/3c57eab48fe32b86d3adaba253e08b0a]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5EDfkf-O3va80%7EgjB9%7CYf2p>
+Ipsen R&D chief on pipeline discipline, partnerships and 2026 milestones<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvefkf-O3va80%7EgjB9%7CYf2p>
+Christelle Huguet, Ph.D., Ipsen’s executive vice president and head of R&D, sits down with Fierce Healthcare & Life Sciences Editor-in-Chief Ayla Ellison to discuss pipeline discipline, external partnerships and key 2026 milestones.
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Chicago_ASCO_The+Top+Line.png/f853f4db0dba4c06bd36df1d94d974b9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%7Cfkf-O3va80%7EgjB9%7CYf2p>
+Behind the headlines of ASCO 2026 <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvmfkf-O3va80%7EgjB9%7CYf2p>
+[https://qtxasset.com/derivatives/quartz/qcloud5/media/image/Dollar_Signs_Podnosis.jpeg/f0a898f3e854d25f8816798f3423a2e9]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvqfkf-O3va80%7EgjB9%7CYf2p>
+The watchdog overseeing the integrity of HHS programs <https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv%5Efkf-O3va80%7EgjB9%7CYf2p>
+
+A message from Syngene<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvyfkf-O3va80%7EgjB9%7CYf2p>
+
+Webinar: Adoption of AI for Early Drug Discovery<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv2fkf-O3va80%7EgjB9%7CYf2p>
+
+Thursday , June 25, 2026 | 11am ET / 8am PT
+
+AI is rapidly moving from experimentation to real-world application in early drug discovery. Join us<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv6fkf-O3va80%7EgjB9%7CYf2p> to explore where AI is demonstrating measurable scientific value, how it complements expert judgment, and the top challenges with integrating into discovery workflows. Register today!<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkv-fkf-O3va80%7EgjB9%7CYf2p>
+
+[https://s3.us-east-1.amazonaws.com/publicmarketing.qtxasset.com/Sygene_logo-nobg-120w.png]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkvDfkf-O3va80%7EgjB9%7CYf2p>
+
+
+Resources
+Whitepaper
+The R&D / AI Productivity Paradox and How to Overcome It<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwefkf-O3va>
+History shows why AI could make R&D less productive (at first). This paper describes how to realize AI’s benefits much more quickly…
+
+Presented by Blue Matter, strategic consultants in the life sciences
+
+Webinar
+High-Throughput RT-qPCR and Transcriptomics: Powering the Next Generation of Drug Discovery<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%7Cfkf-O3va>
+Discover how high-throughput RT-qPCR and transcriptomics are accelerating mRNA-driven drug discovery with scalable insights from screening to candidate nomination.
+
+Sponsored by: Evotec
+
+
+Industry Events
+
+Join Us as We Script Possibilities at the Biotech Global Forum<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwmfkf-O3va>
+
+City of Hope Experts Present at ASCO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwqfkf-O3va>
+
+Oncology solutions from Labcorp<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw%5Efkf-O3va>
+
+Meet Caidya at ASCO 2026 in Chicago<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwyfkf-O3va>
+
+Healthcare is hard. 43North invests $1M in teams built for it.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw2fkf-O3va>
+
+The Future of Medicine is Built in Ohio<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw6fkf-O3va>
+
+1:1 Consult with a Middlesex County Business Advisor.<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkw-fkf-O3va>
+
+Connect With Puerto Rico at BIO 2026 <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkwDfkf-O3va>
+
+
+Upcoming Fierce Events
+4-27
+May-Aug
+Fierce AI Innovation Awards<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxefkf-O3va80%7EgjB9%7CYf2p>
+Submissions Open May 4
+11-12
+Jun
+West Pharma Market Research Conference<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%7Cfkf-O3va80%7EgjB9%7CYf2p>
+San Francisco, CA
+14
+Sep
+Partnerships with Sites<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxmfkf-O3va80%7EgjB9%7CYf2p>
+Boston, MA
+14-17
+Sep
+Fierce Pharma Week<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxqfkf-O3va80%7EgjB9%7CYf2p>
+Pennsylvania Convention Center
+15
+Sep
+Fierce Pharma Marketing Awards Gala<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx%5Efkf-O3va80%7EgjB9%7CYf2p>
+Fierce Pharma Week | National Constitution Center
+
+View all events<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkxyfkf-O3va80%7EgjB9%7CYf2p>
+
+[Brand Logo]<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkx2fkf-O3va80%7EgjB9%7CYf2p>
+[Linkedin Logo]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx6fkf-O3va>    [Facebook Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkx-fkf-O3va>   [Twitter Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkxDfkf-O3va>    [Youtube Logo] <https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyefkf-O3va>
+Subscribe<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogky%7Cfkf-O3va80%7EgjB9%7CYf2p>        Advertise<https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogkymfkf-O3va80%7EgjB9%7CYf2p>
+
+Our Team
+
+Executive Editor: Eric Sagonowsky<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyqfkf-O3va>
+
+Senior Editors: Ben Adams<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky%5Efkf-O3va> and James Waldron<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyyfkf-O3va>
+
+Deputy Editor: Angus Liu<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky2fkf-O3va>
+
+Associate Editor: Fraiser Kansteiner<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky6fkf-O3va>
+
+Senior Writer: Kevin Dunleavy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogky-fkf-O3va>
+
+Staff Writers: Zoey Becker<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkyDfkf-O3va>, Darren Incorvaia<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzefkf-O3va> and Will Maddox<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%7Cfkf-O3va>
+
+Editor-in-Chief: Ayla Ellison<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzmfkf-O3va>
+
+Publisher: Rebecca Willumson<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzqfkf-O3va>
+
+This email was sent to morten.laugesen@fujifilm.com as part of the Fierce Biotech email list.
+
+Unsubscribe<https://qtx.omeclk.com/portal/unsubscribeconfirm/?qlQRAaLViEo1OVQxf367tRG5opmWWyaXA> to Fierce Biotech
+
+Contact support<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz%5Efkf-O3va>
+
+1111B S Governors Ave, Dover, DE, 19904
+
+________________________________
+[Questex Signature]<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkzyfkf-O3va>
+
+Privacy Policy<https://qtx.omeclk.com/portal/wts/ug%5EcmQ6ce7raeceM06ogkz2fkf-O3va>
+
+
+",v1_plain_text_article_parser,REVIEW,2026-06-12,Email received date fallback,deputy editor: angu  liu,,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,0,,DROP
+_priority_scoring_2026-07-31-0910.csv…]()
+
 
 
 USE ROLE SANDBOX_DEVELOPER;
