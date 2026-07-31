@@ -1,3 +1,5 @@
+<img width="2555" height="1369" alt="image" src="https://github.com/user-attachments/assets/18426bf4-9881-4865-a69d-21bdb0cde40a" />
+<img width="2557" height="1436" alt="image" src="https://github.com/user-attachments/assets/c9345703-8354-4ee4-96da-02b37a0bb0ef" />
 
 
 USE DATABASE PHARMA_NEWS_SANDBOX;
