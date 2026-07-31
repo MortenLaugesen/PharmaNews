@@ -1,6 +1,117 @@
 
 
 
+
+
+-- ============================================================
+-- 01 - One-time setup / reference objects
+-- ============================================================
+
+CREATE TABLE IF NOT EXISTS PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1 (
+    MESSAGE_ID STRING,
+    SENDER_NAME STRING,
+    SENDER_EMAIL STRING,
+    SUBJECT_RAW STRING,
+    RECEIVED_TS STRING,
+    ARTICLE_PUBLISH_DATE_RAW STRING,
+    EMAIL_SOURCE_TYPE STRING,
+    ARTICLE_RANK NUMBER,
+    ARTICLE_TITLE STRING,
+    ARTICLE_URL STRING,
+    ARTICLE_URL_EXTRACTION_METHOD STRING,
+    BODY_BEST STRING,
+    ARTICLE_LLM_INPUT STRING,
+    PARSER_VERSION STRING
+);
+
+ALTER TABLE PHARMA_NEWS_SANDBOX.NEWS.STG_PHARMA_NEWS_ARTICLES_V1
+ADD COLUMN IF NOT EXISTS ARTICLE_PUBLISH_DATE_RAW STRING;
+
+
+CREATE OR REPLACE TABLE PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_TRACKED_COMPANIES AS
+SELECT
+    COLUMN1::STRING AS COMPANY_NAME,
+    COLUMN2::STRING AS COMPANY_CATEGORY
+FROM VALUES
+    ('Eli Lilly', 'Top 25'),
+    ('Lilly', 'Top 25'),
+    ('Novo Nordisk', 'Top 25'),
+    ('Johnson & Johnson', 'Top 25'),
+    ('J&J', 'Top 25'),
+    ('Merck & Co', 'Top 25'),
+    ('Merck', 'Top 25'),
+    ('AbbVie', 'Hybrid, Top 25'),
+    ('AstraZeneca', 'Top 25'),
+    ('Roche', 'Top 25'),
+    ('Novartis', 'Top 25'),
+    ('Amgen', 'Top 25'),
+    ('Pfizer', 'Hybrid, Top 25'),
+    ('Sanofi', 'Top 25'),
+    ('Vertex Pharma', 'Top 25'),
+    ('Vertex', 'Top 25'),
+    ('Regeneron', 'Top 25'),
+    ('CSL', 'Top 25'),
+    ('Gilead', 'Top 25'),
+    ('Bristol Myers Squibb', 'Top 25'),
+    ('BMS', 'Top 25'),
+    ('GSK', 'Top 25'),
+    ('Merck KGaA', 'Hybrid, Top 25'),
+    ('MilliporeSigma', 'Hybrid, Top 25'),
+    ('Daiichi Sankyo', 'Top 25'),
+    ('Chugai', 'Top 25'),
+    ('Sun Pharma', 'Top 25'),
+    ('Takeda', 'Top 25'),
+    ('Moderna', 'Top 25'),
+    ('Biogen', 'Top 25'),
+    ('Alnylam Pharma', 'Top 25'),
+    ('Alnylam', 'Top 25'),
+    ('UCB', 'Top 25'),
+
+    ('Lonza', 'CDMO'),
+    ('WuXi Biologics', 'CDMO'),
+    ('Wuxi Biologics', 'CDMO'),
+    ('Samsung Biologics', 'CDMO'),
+    ('Catalent', 'CDMO'),
+    ('Patheon', 'CDMO'),
+    ('Thermo Fisher', 'CDMO'),
+    ('Thermo Fisher Scientific', 'CDMO'),
+    ('ThermoFisher', 'CDMO'),
+    ('Recipharm', 'CDMO'),
+    ('Lotte', 'CDMO'),
+    ('Lotte Biologics', 'CDMO'),
+    ('Simtra BioPharma', 'CDMO'),
+    ('Wacker', 'CDMO'),
+    ('Vetter', 'CDMO'),
+    ('Eurofins', 'CDMO'),
+    ('KBI Biopharma', 'CDMO'),
+    ('Aldevron', 'CDMO'),
+    ('Ajinomoto BioPharma Services', 'CDMO'),
+    ('AGC Biologics', 'CDMO'),
+    ('Syngene', 'CDMO'),
+    ('Abzena', 'CDMO'),
+    ('PCI Pharma', 'CDMO'),
+    ('Rentschler Biopharma', 'CDMO');
+
+
+-- ============================================================
+-- Enriched article text for deep-dive summaries
+-- Populated by Alteryx when DEEP_DIVE_FLAG = TRUE
+-- ============================================================
+
+CREATE TABLE IF NOT EXISTS PHARMA_NEWS_SANDBOX.NEWS.PHARMA_NEWS_ENRICHED_ARTICLES (
+    SUMMARY_KEY_STABLE  STRING,
+    ARTICLE_URL         STRING,
+    ENRICHED_TEXT       STRING,
+    SOURCE_DEPTH        STRING,
+    EXTRACTION_STATUS   STRING,
+    EXTRACTION_METHOD   STRING,
+    CHAR_COUNT          NUMBER,
+    FETCHED_AT          TIMESTAMP_NTZ DEFAULT CURRENT_TIMESTAMP(),
+    NOTES               STRING
+);
+
+
+
 -- ============================================================
 -- 00 - Context
 -- ============================================================
