@@ -1,3 +1,8 @@
+
+
+
+Can you please send me the folder or code you used for mail automation? If Mia already has that , it is fine. I will implement that in my code
+
 [03_priority_scoring_2026-07-31-0910.csv](https://github.com/user-attachments/files/30577858/03_priority_scoring_2026-07-31-0910.csv)[Uploading 03MESSAGE_ID,SENDER_NAME,SENDER_EMAIL,SUBJECT_RAW,RECEIVED_TS,RECEIVED_TS_PARSED,EMAIL_SOURCE_TYPE,ARTICLE_RANK,ARTICLE_TITLE_CLEAN,ARTICLE_TITLE_LC,ARTICLE_URL,ARTICLE_URL_EXTRACTION_METHOD,BODY_BEST,ARTICLE_LLM_INPUT,PARSER_VERSION,SUBJECT_GATE_FINAL,PUBLISH_DATE,PUBLISH_DATE_SOURCE,TITLE_CONTEXT_LC,MATCHED_COMPANIES,MATCHED_COMPANY_CATEGORIES,DEAL_VALUE_KEY,VALUE_ABOVE_1B,VALUE_ABOVE_500M,IS_PROMOTIONAL_SIGNAL,IS_DEAL_SIGNAL,IS_SIZE_OR_CAPACITY_SIGNAL,IS_NEW_CAPABILITY_SIGNAL,IS_NEGATIVE_BUSINESS_SIGNAL,IS_POLICY_OR_REGULATORY_SIGNAL,IS_COMMERCIAL_SIGNAL,HAS_STORY_SIGNAL,SIGNAL_SCORE,SIGNAL_REASONS,PRIORITY_TIER
 AAMkAGJjMTRiMTY3LTEyOTktNGE1MC04YWM2LTljZDc4NmJhODNhNABGAAAAAACnZirdp4H2Q7b6V0rtT3cgBwBqV9aSku65TqjG-Pn4akKSAAAEb0_cAABqV9aSku65TqjG-Pn4akKSAABeQpL3AAA=,Fierce Biotech PM Tracker,editors@go.fiercebiotech.com,| 06.12.26 | Biotech IPOs are back in a big way; Guardant Health nabs new test approval,2026-06-12T19:45:52Z,19:45:52.000000000Z,FIERCE,28,Fierce Pharma Asia—Astellas CEO’s 5-year plan; Takeda’s psoriasis win; RA’s China bridge program,fierce pharma asia—astellas ceo’s 5-year plan; takeda’s psoriasis win; ra’s china bridge program,https://qtx.omeclk.com/portal/wts/uc%5EcmQ6ce7raeceM06ogk%5Eyfkf-O3va80%7EgjB9%7CYf2p,plain_text_tracking_link,"CAUTION: This email originated from outside of the organization. Do not click links or open attachments unless you recognize the sender and know the content is safe.
 
